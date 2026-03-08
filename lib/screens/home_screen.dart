@@ -64,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: Row(
           children: [
-            Image.asset('assets/app_icon.png', height: 40),
+            Image.asset('assets/menu_icon.png', height: 40),
             const SizedBox(width: 8),
             const Text('DeutschDaily', style: TextStyle(fontWeight: FontWeight.bold)),
           ],

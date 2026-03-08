@@ -29,6 +29,7 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/menu_icon.png
     - assets/app_icon.png
     - assets/stories/
     - assets/dictionary/
