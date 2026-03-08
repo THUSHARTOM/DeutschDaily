@@ -1,5 +1,7 @@
 # DeutschDaily
 
+![GitHub Downloads](https://img.shields.io/github/downloads/THUSHARTOM/DeutschDaily/total)
+
 A minimalistic, offline-first Flutter application for learning German through reading short stories. 
 
 The app features a built-in dictionary that supports tappable word lookup, progress tracking, daily streaks, and post-reading quizzes — all without requiring an internet connection or backend server.

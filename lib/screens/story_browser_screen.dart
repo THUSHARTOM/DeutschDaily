@@ -3,6 +3,7 @@ import '../locator.dart';
 import '../models/story.dart';
 import '../widgets/story_card.dart';
 import 'story_reader_screen.dart';
+import 'feedback_screen.dart';
 
 class StoryBrowserScreen extends StatefulWidget {
   const StoryBrowserScreen({super.key});
@@ -80,6 +81,16 @@ class _StoryBrowserScreenState extends State<StoryBrowserScreen> {
                   ),
           ),
         ],
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (_) => const FeedbackScreen()),
+          );
+        },
+        tooltip: 'Feedback',
+        child: const Icon(Icons.favorite),
       ),
     );
   }

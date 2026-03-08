@@ -5,6 +5,7 @@ import '../widgets/story_card.dart';
 import '../models/story.dart';
 import 'story_browser_screen.dart';
 import 'story_reader_screen.dart';
+import 'feedback_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -138,6 +139,16 @@ class _HomeScreenState extends State<HomeScreen> {
             const SizedBox(height: 32),
           ],
         ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (_) => const FeedbackScreen()),
+          );
+        },
+        tooltip: 'Feedback',
+        child: const Icon(Icons.favorite),
       ),
     );
   }
