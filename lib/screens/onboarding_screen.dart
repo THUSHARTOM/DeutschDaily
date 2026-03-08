@@ -126,6 +126,25 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               child: const Text('Continue'),
             ),
           ),
+          const SizedBox(height: 16),
+          Center(
+            child: RichText(
+              textAlign: TextAlign.center,
+              text: TextSpan(
+                style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                  color: Colors.grey.shade600,
+                ),
+                children: const [
+                  TextSpan(text: 'Made with AI and '),
+                  WidgetSpan(
+                    child: Icon(Icons.favorite, size: 14, color: Colors.red),
+                    alignment: PlaceholderAlignment.middle,
+                  ),
+                  TextSpan(text: ' by Thushar Tom and Sreehari Giridharan'),
+                ],
+              ),
+            ),
+          ),
         ],
       ),
     );
