@@ -47,7 +47,13 @@ class _QuizScreenState extends State<QuizScreen> {
 
   List<_Question> _generateQuestions() {
     final questions = <_Question>[];
-    for (final keyword in widget.story.keywords) {
+    
+    // Shuffle keywords so we get a random mix if there are many
+    final keywords = List<String>.from(widget.story.keywords)..shuffle();
+    
+    for (final keyword in keywords) {
+      if (questions.length >= 5) break; // Limit to 5 questions
+      
       final entry = Locator.dictionary.lookup(keyword);
       if (entry != null) {
         questions.add(
@@ -118,7 +124,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
   void _finishQuiz() {
     if (mounted) {
-      Navigator.pop(context); // Go back
+      Navigator.pop(context, true); // Signal completion
     }
   }
 

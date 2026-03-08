@@ -102,13 +102,17 @@ class _StoryReaderScreenState extends State<StoryReaderScreen> {
     _loadProgress();
   }
 
-  void _finishReading() {
-    Navigator.pushReplacement(
+  void _finishReading() async {
+    final result = await Navigator.push(
       context,
       MaterialPageRoute(
         builder: (_) => QuizScreen(story: widget.story),
       ),
     );
+    
+    if (result == true && mounted) {
+      Navigator.pop(context, true);
+    }
   }
 
   /// Tokenizes the text into clickable words (Word Mode).
