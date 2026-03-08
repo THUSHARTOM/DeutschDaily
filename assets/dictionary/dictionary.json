@@ -2,3616 +2,3781 @@
   "anna": {
     "lemma": "anna",
     "english": "Anna",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "geht": {
     "lemma": "geht",
     "english": "goes",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "jeden": {
     "lemma": "jeden",
     "english": "every",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "morgen": {
     "lemma": "morgen",
     "english": "morning",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "in": {
     "lemma": "in",
     "english": "in",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ein": {
     "lemma": "ein",
     "english": "a",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kleines": {
     "lemma": "kleines",
     "english": "small",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "caf": {
     "lemma": "caf",
     "english": "Caf",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "der": {
     "lemma": "der",
     "english": "the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "stadt": {
     "lemma": "stadt",
     "english": "city",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "das": {
     "lemma": "das",
     "english": "that",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ist": {
     "lemma": "ist",
     "english": "is",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ruhig": {
     "lemma": "ruhig",
     "english": "quiet",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "und": {
     "lemma": "und",
     "english": "and",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "warm": {
     "lemma": "warm",
     "english": "warm",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kellner": {
     "lemma": "kellner",
     "english": "waiter",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sagt": {
     "lemma": "sagt",
     "english": "says",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "guten": {
     "lemma": "guten",
     "english": "good",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bestellt": {
     "lemma": "bestellt",
     "english": "orders",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "einen": {
     "lemma": "einen",
     "english": "a",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kaffee": {
     "lemma": "kaffee",
     "english": "coffee",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "brot": {
     "lemma": "brot",
     "english": "bread",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "mit": {
     "lemma": "mit",
     "english": "with",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "butter": {
     "lemma": "butter",
     "english": "butter",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "am": {
     "lemma": "am",
     "english": "at the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "tisch": {
     "lemma": "tisch",
     "english": "table",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "neben": {
     "lemma": "neben",
     "english": "next to",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ihr": {
     "lemma": "ihr",
     "english": "its",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sitzt": {
     "lemma": "sitzt",
     "english": "sits",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "alter": {
     "lemma": "alter",
     "english": "old",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "mann": {
     "lemma": "mann",
     "english": "man",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "er": {
     "lemma": "er",
     "english": "he",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "liest": {
     "lemma": "liest",
     "english": "reads",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "eine": {
     "lemma": "eine",
     "english": "a",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "zeitung": {
     "lemma": "zeitung",
     "english": "newspaper",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "trinkt": {
     "lemma": "trinkt",
     "english": "drinks",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "tee": {
     "lemma": "tee",
     "english": "tea",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "mag": {
     "lemma": "mag",
     "english": "likes",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "diesen": {
     "lemma": "diesen",
     "english": "this",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ort": {
     "lemma": "ort",
     "english": "place",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sie": {
     "lemma": "sie",
     "english": "she",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "hört": {
     "lemma": "hört",
     "english": "listens to",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "leise": {
     "lemma": "leise",
     "english": "soft",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "musik": {
     "lemma": "musik",
     "english": "music",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "schaut": {
     "lemma": "schaut",
     "english": "looks",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "aus": {
     "lemma": "aus",
     "english": "out of",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "dem": {
     "lemma": "dem",
     "english": "the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "fenster": {
     "lemma": "fenster",
     "english": "window",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "menschen": {
     "lemma": "menschen",
     "english": "humans",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "gehen": {
     "lemma": "gehen",
     "english": "go",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "zur": {
     "lemma": "zur",
     "english": "to the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "arbeit": {
     "lemma": "arbeit",
     "english": "work",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "nach": {
     "lemma": "nach",
     "english": "after",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "frühstück": {
     "lemma": "frühstück",
     "english": "breakfast",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "schreibt": {
     "lemma": "schreibt",
     "english": "writes",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kurze": {
     "lemma": "kurze",
     "english": "short",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "nachricht": {
     "lemma": "nachricht",
     "english": "message",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "an": {
     "lemma": "an",
     "english": "to",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ihre": {
     "lemma": "ihre",
     "english": "her",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "freundin": {
     "lemma": "freundin",
     "english": "girlfriend",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "dann": {
     "lemma": "dann",
     "english": "then",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bezahlt": {
     "lemma": "bezahlt",
     "english": "pays",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "danke": {
     "lemma": "danke",
     "english": "thank you",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bis": {
     "lemma": "bis",
     "english": "until",
-    "pos": "unknown"
+    "pos": "A1"
+  },
+  "café": {
+    "lemma": "café",
+    "english": "café",
+    "pos": "A1"
   },
   "samstag": {
     "lemma": "samstag",
     "english": "Saturday",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "markttag": {
     "lemma": "markttag",
     "english": "market day",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "viele": {
     "lemma": "viele",
     "english": "many",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "zum": {
     "lemma": "zum",
     "english": "to the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "markt": {
     "lemma": "markt",
     "english": "market",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "es": {
     "lemma": "es",
     "english": "it",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "gibt": {
     "lemma": "gibt",
     "english": "there is",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "frisches": {
     "lemma": "frisches",
     "english": "fresh",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "obst": {
     "lemma": "obst",
     "english": "fruit",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "gemüse": {
     "lemma": "gemüse",
     "english": "vegetables",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "maria": {
     "lemma": "maria",
     "english": "Maria",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kauft": {
     "lemma": "kauft",
     "english": "buys",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "tomaten": {
     "lemma": "tomaten",
     "english": "tomatoes",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "äpfel": {
     "lemma": "äpfel",
     "english": "apples",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "käse": {
     "lemma": "käse",
     "english": "cheese",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "verkäufer": {
     "lemma": "verkäufer",
     "english": "vendor",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "diese": {
     "lemma": "diese",
     "english": "these",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sind": {
     "lemma": "sind",
     "english": "are",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sehr": {
     "lemma": "sehr",
     "english": "sehr",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "süß": {
     "lemma": "süß",
     "english": "sweet",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "probiert": {
     "lemma": "probiert",
     "english": "tries",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "apfel": {
     "lemma": "apfel",
     "english": "apple",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "lächelt": {
     "lemma": "lächelt",
     "english": "smiles",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "auch": {
     "lemma": "auch",
     "english": "also",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "blumen": {
     "lemma": "blumen",
     "english": "flowers",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "für": {
     "lemma": "für",
     "english": "for",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "wohnung": {
     "lemma": "wohnung",
     "english": "apartment",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ende": {
     "lemma": "ende",
     "english": "end",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "saft": {
     "lemma": "saft",
     "english": "juice",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kleinen": {
     "lemma": "kleinen",
     "english": "small",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "stand": {
     "lemma": "stand",
     "english": "stand",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bunt": {
     "lemma": "bunt",
     "english": "colorful",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "laut": {
     "lemma": "laut",
     "english": "loud",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "aber": {
     "lemma": "aber",
     "english": "but",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "die": {
     "lemma": "die",
-    "english": "die",
-    "pos": "unknown"
+    "english": "Die",
+    "pos": "A1"
   },
   "atmosphäre": {
     "lemma": "atmosphäre",
     "english": "atmosphere",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "paul": {
     "lemma": "paul",
     "english": "Paul",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "hat": {
     "lemma": "hat",
     "english": "has",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "heute": {
     "lemma": "heute",
     "english": "today",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "seinen": {
     "lemma": "seinen",
     "english": "his",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ersten": {
     "lemma": "ersten",
     "english": "first",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "arbeitstag": {
     "lemma": "arbeitstag",
     "english": "day of work",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "steht": {
     "lemma": "steht",
     "english": "gets up",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "früh": {
     "lemma": "früh",
     "english": "early",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "auf": {
     "lemma": "auf",
     "english": "up",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "schnell": {
     "lemma": "schnell",
     "english": "quickly",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "fährt": {
     "lemma": "fährt",
     "english": "travels",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bus": {
     "lemma": "bus",
     "english": "bus",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ins": {
     "lemma": "ins",
     "english": "into the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "büro": {
     "lemma": "büro",
     "english": "office",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "seine": {
     "lemma": "seine",
     "english": "his",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kollegin": {
     "lemma": "kollegin",
     "english": "colleague",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "laura": {
     "lemma": "laura",
     "english": "Laura",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "zeigt": {
     "lemma": "zeigt",
     "english": "shows",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ihm": {
     "lemma": "ihm",
     "english": "him",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "den": {
     "lemma": "den",
     "english": "den",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "arbeitsplatz": {
     "lemma": "arbeitsplatz",
     "english": "workspace",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "lernt": {
     "lemma": "lernt",
     "english": "gets to know",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "neue": {
     "lemma": "neue",
     "english": "new",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kennen": {
     "lemma": "kennen",
     "english": "know",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "alle": {
     "lemma": "alle",
     "english": "everyone",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "freundlich": {
     "lemma": "freundlich",
     "english": "friendly",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "mittagspause": {
     "lemma": "mittagspause",
     "english": "lunch break",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "essen": {
     "lemma": "essen",
     "english": "eat",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "zusammen": {
     "lemma": "zusammen",
     "english": "together",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "im": {
     "lemma": "im",
     "english": "in the",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "restaurant": {
     "lemma": "restaurant",
     "english": "restaurant",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "fühlt": {
     "lemma": "fühlt",
     "english": "feels",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sich": {
     "lemma": "sich",
     "english": "yourself",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "etwas": {
     "lemma": "etwas",
     "english": "a little",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "nervös": {
     "lemma": "nervös",
     "english": "nervous",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "glücklich": {
     "lemma": "glücklich",
     "english": "happy",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "abend": {
     "lemma": "abend",
     "english": "evening",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "erste": {
     "lemma": "erste",
-    "english": "erste",
-    "pos": "unknown"
+    "english": "first",
+    "pos": "A1"
   },
   "tag": {
     "lemma": "tag",
     "english": "day",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "war": {
     "lemma": "war",
     "english": "was",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "gut": {
     "lemma": "gut",
     "english": "good",
-    "pos": "unknown"
+    "pos": "A1"
+  },
+  "kollegen": {
+    "lemma": "kollegen",
+    "english": "colleagues",
+    "pos": "A1"
   },
   "lisa": {
     "lemma": "lisa",
     "english": "Lisa",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "gern": {
     "lemma": "gern",
     "english": "gladly",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "park": {
     "lemma": "park",
     "english": "park",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "spazieren": {
     "lemma": "spazieren",
     "english": "for walks",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "groß": {
     "lemma": "groß",
     "english": "big",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "grün": {
     "lemma": "grün",
     "english": "green",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "laufen": {
     "lemma": "laufen",
     "english": "run",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "oder": {
     "lemma": "oder",
     "english": "or",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "fahren": {
     "lemma": "fahren",
     "english": "ride",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "fahrrad": {
     "lemma": "fahrrad",
     "english": "bicycle",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "langsam": {
     "lemma": "langsam",
     "english": "slow",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "unter": {
     "lemma": "unter",
     "english": "under",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bäumen": {
     "lemma": "bäumen",
     "english": "trees",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sieht": {
     "lemma": "sieht",
     "english": "sees",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kinder": {
     "lemma": "kinder",
     "english": "children",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "spielen": {
     "lemma": "spielen",
     "english": "play",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "hunde": {
     "lemma": "hunde",
     "english": "dogs",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "einer": {
     "lemma": "einer",
     "english": "one",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "stunde": {
     "lemma": "stunde",
     "english": "hour",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "setzt": {
     "lemma": "setzt",
     "english": "sits",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "bank": {
     "lemma": "bank",
     "english": "bench",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "wasser": {
     "lemma": "wasser",
     "english": "water",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "frische": {
     "lemma": "frische",
     "english": "fresh",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "luft": {
     "lemma": "luft",
     "english": "air",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "macht": {
     "lemma": "macht",
     "english": "makes",
-    "pos": "unknown"
+    "pos": "A1"
+  },
+  "spaziergang": {
+    "lemma": "spaziergang",
+    "english": "walk",
+    "pos": "A1"
+  },
+  "baum": {
+    "lemma": "baum",
+    "english": "tree",
+    "pos": "A1"
   },
   "mein": {
     "lemma": "mein",
     "english": "my",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "lieblingsessen": {
     "lemma": "lieblingsessen",
     "english": "favorite food",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "pasta": {
     "lemma": "pasta",
     "english": "pasta",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "ich": {
     "lemma": "ich",
     "english": "I",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "koche": {
     "lemma": "koche",
     "english": "cook",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "oft": {
     "lemma": "oft",
     "english": "often",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "zuerst": {
     "lemma": "zuerst",
     "english": "first",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kommen": {
     "lemma": "kommen",
     "english": "come",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "nudeln": {
     "lemma": "nudeln",
     "english": "noodles",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "topf": {
     "lemma": "topf",
     "english": "pot",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "mache": {
     "lemma": "mache",
     "english": "make",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "einfache": {
     "lemma": "einfache",
     "english": "simple",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "tomatensauce": {
     "lemma": "tomatensauce",
     "english": "tomato sauce",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "salz": {
     "lemma": "salz",
     "english": "salt",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "öl": {
     "lemma": "öl",
     "english": "oil",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "kommt": {
     "lemma": "kommt",
     "english": "comes",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "meine": {
     "lemma": "meine",
     "english": "my",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "freunde": {
     "lemma": "freunde",
     "english": "friends",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sagen": {
     "lemma": "sagen",
     "english": "sagen",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "schmeckt": {
     "lemma": "schmeckt",
     "english": "tastes",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "wir": {
     "lemma": "wir",
     "english": "we",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "sprechen": {
     "lemma": "sprechen",
     "english": "talk",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "über": {
     "lemma": "über",
     "english": "about",
-    "pos": "unknown"
+    "pos": "A1"
   },
   "unseren": {
     "lemma": "unseren",
     "english": "our",
-    "pos": "unknown"
-  },
-  "tom": {
-    "lemma": "tom",
-    "english": "Tom",
-    "pos": "unknown"
-  },
-  "zug": {
-    "lemma": "zug",
-    "english": "train",
-    "pos": "unknown"
-  },
-  "berlin": {
-    "lemma": "berlin",
-    "english": "Berlin",
-    "pos": "unknown"
-  },
-  "reise": {
-    "lemma": "reise",
-    "english": "journey",
-    "pos": "unknown"
-  },
-  "dauert": {
-    "lemma": "dauert",
-    "english": "takes",
-    "pos": "unknown"
-  },
-  "zwei": {
-    "lemma": "zwei",
-    "english": "two",
-    "pos": "unknown"
-  },
-  "stunden": {
-    "lemma": "stunden",
-    "english": "hours",
-    "pos": "unknown"
-  },
-  "buch": {
-    "lemma": "buch",
-    "english": "book",
-    "pos": "unknown"
-  },
-  "große": {
-    "lemma": "große",
-    "english": "large",
-    "pos": "unknown"
-  },
-  "gebäude": {
-    "lemma": "gebäude",
-    "english": "buildings",
-    "pos": "unknown"
-  },
-  "besucht": {
-    "lemma": "besucht",
-    "english": "visits",
-    "pos": "unknown"
-  },
-  "brandenburger": {
-    "lemma": "brandenburger",
-    "english": "Brandenburg",
-    "pos": "unknown"
-  },
-  "tor": {
-    "lemma": "tor",
-    "english": "Gate",
-    "pos": "unknown"
-  },
-  "fotos": {
-    "lemma": "fotos",
-    "english": "photos",
-    "pos": "unknown"
-  },
-  "isst": {
-    "lemma": "isst",
-    "english": "eats",
-    "pos": "unknown"
-  },
-  "currywurst": {
-    "lemma": "currywurst",
-    "english": "currywurst",
-    "pos": "unknown"
-  },
-  "hotel": {
-    "lemma": "hotel",
-    "english": "hotel",
-    "pos": "unknown"
-  },
-  "interessante": {
-    "lemma": "interessante",
-    "english": "interesting",
-    "pos": "unknown"
-  },
-  "julia": {
-    "lemma": "julia",
-    "english": "Julia",
-    "pos": "unknown"
-  },
-  "braucht": {
-    "lemma": "braucht",
-    "english": "needs",
-    "pos": "unknown"
-  },
-  "neuen": {
-    "lemma": "neuen",
-    "english": "new",
-    "pos": "unknown"
-  },
-  "laptop": {
-    "lemma": "laptop",
-    "english": "laptop",
-    "pos": "unknown"
-  },
-  "computer": {
-    "lemma": "computer",
-    "english": "computer",
-    "pos": "unknown"
-  },
-  "geschäft": {
-    "lemma": "geschäft",
-    "english": "store",
-    "pos": "unknown"
-  },
-  "modelle": {
-    "lemma": "modelle",
-    "english": "models",
-    "pos": "unknown"
-  },
-  "wählt": {
-    "lemma": "wählt",
-    "english": "chooses",
-    "pos": "unknown"
-  },
-  "leichten": {
-    "lemma": "leichten",
-    "english": "light",
-    "pos": "unknown"
-  },
-  "zu": {
-    "lemma": "zu",
-    "english": "to",
-    "pos": "unknown"
-  },
-  "hause": {
-    "lemma": "hause",
-    "english": "home",
-    "pos": "unknown"
-  },
-  "öffnet": {
-    "lemma": "öffnet",
-    "english": "opens",
-    "pos": "unknown"
-  },
-  "installiert": {
-    "lemma": "installiert",
-    "english": "installs",
-    "pos": "unknown"
-  },
-  "programme": {
-    "lemma": "programme",
-    "english": "programs",
-    "pos": "unknown"
-  },
-  "jetzt": {
-    "lemma": "jetzt",
-    "english": "now",
-    "pos": "unknown"
-  },
-  "kann": {
-    "lemma": "kann",
-    "english": "can",
-    "pos": "unknown"
-  },
-  "besser": {
-    "lemma": "besser",
-    "english": "better",
-    "pos": "unknown"
-  },
-  "arbeiten": {
-    "lemma": "arbeiten",
-    "english": "work",
-    "pos": "unknown"
-  },
-  "filme": {
-    "lemma": "filme",
-    "english": "movies",
-    "pos": "unknown"
-  },
-  "schauen": {
-    "lemma": "schauen",
-    "english": "watch",
-    "pos": "unknown"
-  },
-  "markus": {
-    "lemma": "markus",
-    "english": "Markus",
-    "pos": "unknown"
-  },
-  "sport": {
-    "lemma": "sport",
-    "english": "sport",
-    "pos": "unknown"
-  },
-  "läuft": {
-    "lemma": "läuft",
-    "english": "runs",
-    "pos": "unknown"
-  },
-  "zwanzig": {
-    "lemma": "zwanzig",
-    "english": "twenty",
-    "pos": "unknown"
-  },
-  "minuten": {
-    "lemma": "minuten",
-    "english": "minutes",
-    "pos": "unknown"
-  },
-  "danach": {
-    "lemma": "danach",
-    "english": "after that",
-    "pos": "unknown"
-  },
-  "paar": {
-    "lemma": "paar",
-    "english": "few",
-    "pos": "unknown"
-  },
-  "übungen": {
-    "lemma": "übungen",
-    "english": "exercises",
-    "pos": "unknown"
-  },
-  "energie": {
-    "lemma": "energie",
-    "english": "energy",
-    "pos": "unknown"
-  },
-  "training": {
-    "lemma": "training",
-    "english": "training",
-    "pos": "unknown"
-  },
-  "frühstückt": {
-    "lemma": "frühstückt",
-    "english": "eats breakfast",
-    "pos": "unknown"
-  },
-  "lena": {
-    "lemma": "lena",
-    "english": "Lena",
-    "pos": "unknown"
-  },
-  "oma": {
-    "lemma": "oma",
-    "english": "grandma",
-    "pos": "unknown"
-  },
-  "wohnt": {
-    "lemma": "wohnt",
-    "english": "lives",
-    "pos": "unknown"
-  },
-  "einem": {
-    "lemma": "einem",
-    "english": "a",
-    "pos": "unknown"
-  },
-  "haus": {
-    "lemma": "haus",
-    "english": "house",
-    "pos": "unknown"
-  },
-  "trinken": {
-    "lemma": "trinken",
-    "english": "trinken",
-    "pos": "unknown"
-  },
-  "kuchen": {
-    "lemma": "kuchen",
-    "english": "Kuchen",
-    "pos": "unknown"
-  },
-  "erzählt": {
-    "lemma": "erzählt",
-    "english": "tells",
-    "pos": "unknown"
-  },
-  "geschichten": {
-    "lemma": "geschichten",
-    "english": "stories",
-    "pos": "unknown"
-  },
-  "ihrer": {
-    "lemma": "ihrer",
-    "english": "its",
-    "pos": "unknown"
-  },
-  "jugend": {
-    "lemma": "jugend",
-    "english": "youth",
-    "pos": "unknown"
-  },
-  "lacht": {
-    "lemma": "lacht",
-    "english": "laughs",
-    "pos": "unknown"
-  },
-  "viel": {
-    "lemma": "viel",
-    "english": "a lot",
-    "pos": "unknown"
-  },
-  "bald": {
-    "lemma": "bald",
-    "english": "soon",
-    "pos": "unknown"
-  },
-  "daniel": {
-    "lemma": "daniel",
-    "english": "Daniel",
-    "pos": "unknown"
-  },
-  "kocht": {
-    "lemma": "kocht",
-    "english": "cooks",
-    "pos": "unknown"
-  },
-  "einfaches": {
-    "lemma": "einfaches",
-    "english": "simple",
-    "pos": "unknown"
-  },
-  "abendessen": {
-    "lemma": "abendessen",
-    "english": "dinner",
-    "pos": "unknown"
-  },
-  "serie": {
-    "lemma": "serie",
-    "english": "series",
-    "pos": "unknown"
-  },
-  "später": {
-    "lemma": "später",
-    "english": "later",
-    "pos": "unknown"
-  },
-  "bett": {
-    "lemma": "bett",
-    "english": "bed",
-    "pos": "unknown"
-  },
-  "lang": {
-    "lemma": "lang",
-    "english": "long",
-    "pos": "unknown"
-  },
-  "schläft": {
-    "lemma": "schläft",
-    "english": "sleeps",
-    "pos": "unknown"
-  },
-  "wochenende": {
-    "lemma": "wochenende",
-    "english": "weekend",
-    "pos": "unknown"
-  },
-  "familie": {
-    "lemma": "familie",
-    "english": "family",
-    "pos": "unknown"
-  },
-  "weber": {
-    "lemma": "weber",
-    "english": "Weber",
-    "pos": "unknown"
-  },
-  "berge": {
-    "lemma": "berge",
-    "english": "mountains",
-    "pos": "unknown"
-  },
-  "frisch": {
-    "lemma": "frisch",
-    "english": "frisch",
-    "pos": "unknown"
-  },
-  "landschaft": {
-    "lemma": "landschaft",
-    "english": "landscape",
-    "pos": "unknown"
-  },
-  "wunderschön": {
-    "lemma": "wunderschön",
-    "english": "beautiful",
-    "pos": "unknown"
-  },
-  "wandern": {
-    "lemma": "wandern",
-    "english": "hike",
-    "pos": "unknown"
-  },
-  "weg": {
-    "lemma": "weg",
-    "english": "path",
-    "pos": "unknown"
-  },
-  "durch": {
-    "lemma": "durch",
-    "english": "through",
-    "pos": "unknown"
-  },
-  "wald": {
-    "lemma": "wald",
-    "english": "forest",
-    "pos": "unknown"
-  },
-  "unterwegs": {
-    "lemma": "unterwegs",
-    "english": "on the way",
-    "pos": "unknown"
-  },
-  "sehen": {
-    "lemma": "sehen",
-    "english": "sehen",
-    "pos": "unknown"
-  },
-  "see": {
-    "lemma": "see",
-    "english": "lake",
-    "pos": "unknown"
-  },
-  "machen": {
-    "lemma": "machen",
-    "english": "make",
-    "pos": "unknown"
-  },
-  "pause": {
-    "lemma": "pause",
-    "english": "break",
-    "pos": "unknown"
-  },
-  "während": {
-    "lemma": "während",
-    "english": "during",
-    "pos": "unknown"
-  },
-  "eltern": {
-    "lemma": "eltern",
-    "english": "parents",
-    "pos": "unknown"
-  },
-  "berghütte": {
-    "lemma": "berghütte",
-    "english": "mountain hut",
-    "pos": "unknown"
-  },
-  "suppe": {
-    "lemma": "suppe",
-    "english": "soup",
-    "pos": "unknown"
-  },
-  "müde": {
-    "lemma": "müde",
-    "english": "tired",
-    "pos": "unknown"
-  },
-  "max": {
-    "lemma": "max",
-    "english": "Max",
-    "pos": "unknown"
-  },
-  "gründen": {
-    "lemma": "gründen",
-    "english": "reasons",
-    "pos": "unknown"
-  },
-  "startup": {
-    "lemma": "startup",
-    "english": "start-up",
-    "pos": "unknown"
-  },
-  "entwickeln": {
-    "lemma": "entwickeln",
-    "english": "develop",
-    "pos": "unknown"
-  },
-  "app": {
-    "lemma": "app",
-    "english": "app",
-    "pos": "unknown"
-  },
-  "studenten": {
-    "lemma": "studenten",
-    "english": "students",
-    "pos": "unknown"
-  },
-  "hilft": {
-    "lemma": "hilft",
-    "english": "helps",
-    "pos": "unknown"
-  },
-  "beim": {
-    "lemma": "beim",
-    "english": "with",
-    "pos": "unknown"
-  },
-  "lernen": {
-    "lemma": "lernen",
-    "english": "learning",
-    "pos": "unknown"
-  },
-  "von": {
-    "lemma": "von",
-    "english": "from",
-    "pos": "unknown"
-  },
-  "sprachen": {
-    "lemma": "sprachen",
-    "english": "languages",
-    "pos": "unknown"
-  },
-  "anfang": {
-    "lemma": "anfang",
-    "english": "beginning",
-    "pos": "unknown"
-  },
-  "haben": {
-    "lemma": "haben",
-    "english": "have",
-    "pos": "unknown"
-  },
-  "ideen": {
-    "lemma": "ideen",
-    "english": "ideas",
-    "pos": "unknown"
-  },
-  "probleme": {
-    "lemma": "probleme",
-    "english": "problems",
-    "pos": "unknown"
-  },
-  "finden": {
-    "lemma": "finden",
-    "english": "find",
-    "pos": "unknown"
-  },
-  "nutzer": {
-    "lemma": "nutzer",
-    "english": "users",
-    "pos": "unknown"
-  },
-  "geduld": {
-    "lemma": "geduld",
-    "english": "patience",
-    "pos": "unknown"
-  },
-  "wichtig": {
-    "lemma": "wichtig",
-    "english": "important",
-    "pos": "unknown"
-  },
-  "start": {
-    "lemma": "start",
-    "english": "auto-translated",
-    "pos": "unknown"
-  },
-  "up": {
-    "lemma": "up",
-    "english": "auto-translated",
-    "pos": "unknown"
-  },
-  "möchten": {
-    "lemma": "möchten",
-    "english": "want",
-    "pos": "unknown"
-  },
-  "gesünder": {
-    "lemma": "gesünder",
-    "english": "more healthily",
-    "pos": "unknown"
-  },
-  "leben": {
-    "lemma": "leben",
-    "english": "life",
-    "pos": "unknown"
-  },
-  "mehr": {
-    "lemma": "mehr",
-    "english": "more",
-    "pos": "unknown"
-  },
-  "treiben": {
-    "lemma": "treiben",
-    "english": "do",
-    "pos": "unknown"
-  },
-  "guter": {
-    "lemma": "guter",
-    "english": "good",
-    "pos": "unknown"
-  },
-  "schlaf": {
-    "lemma": "schlaf",
-    "english": "sleep",
-    "pos": "unknown"
-  },
-  "körper": {
-    "lemma": "körper",
-    "english": "body",
-    "pos": "unknown"
-  },
-  "versucht": {
-    "lemma": "versucht",
-    "english": "tries",
-    "pos": "unknown"
-  },
-  "zehn": {
-    "lemma": "zehn",
-    "english": "ten",
-    "pos": "unknown"
-  },
-  "meditieren": {
-    "lemma": "meditieren",
-    "english": "meditate",
-    "pos": "unknown"
-  },
-  "dass": {
-    "lemma": "dass",
-    "english": "that",
-    "pos": "unknown"
-  },
-  "ruhe": {
-    "lemma": "ruhe",
-    "english": "calm",
-    "pos": "unknown"
-  },
-  "jonas": {
-    "lemma": "jonas",
-    "english": "Jonas",
-    "pos": "unknown"
-  },
-  "großes": {
-    "lemma": "großes",
-    "english": "large",
-    "pos": "unknown"
-  },
-  "museum": {
-    "lemma": "museum",
-    "english": "museum",
-    "pos": "unknown"
-  },
-  "dort": {
-    "lemma": "dort",
-    "english": "where",
-    "pos": "unknown"
-  },
-  "alte": {
-    "lemma": "alte",
-    "english": "old",
-    "pos": "unknown"
-  },
-  "werkzeuge": {
-    "lemma": "werkzeuge",
-    "english": "tools",
-    "pos": "unknown"
-  },
-  "kleidung": {
-    "lemma": "kleidung",
-    "english": "clothing",
-    "pos": "unknown"
-  },
-  "vergangenheit": {
-    "lemma": "vergangenheit",
-    "english": "past",
-    "pos": "unknown"
-  },
-  "guide": {
-    "lemma": "guide",
-    "english": "guide",
-    "pos": "unknown"
-  },
-  "erklärt": {
-    "lemma": "erklärt",
-    "english": "erklärt",
-    "pos": "unknown"
-  },
-  "geschichte": {
-    "lemma": "geschichte",
-    "english": "history",
-    "pos": "unknown"
-  },
-  "vor": {
-    "lemma": "vor",
-    "english": "imagine",
-    "pos": "unknown"
-  },
-  "hundert": {
-    "lemma": "hundert",
-    "english": "hundred",
-    "pos": "unknown"
-  },
-  "jahren": {
-    "lemma": "jahren",
-    "english": "years",
-    "pos": "unknown"
-  },
-  "museumsshop": {
-    "lemma": "museumsshop",
-    "english": "museum shop",
-    "pos": "unknown"
-  },
-  "freitagabend": {
-    "lemma": "freitagabend",
-    "english": "Friday evening",
-    "pos": "unknown"
+    "pos": "A1"
+  },
+  "sauce": {
+    "lemma": "sauce",
+    "english": "sauce",
+    "pos": "A1"
   },
   "kochen": {
     "lemma": "kochen",
     "english": "cook",
-    "pos": "unknown"
+    "pos": "A1"
+  },
+  "tom": {
+    "lemma": "tom",
+    "english": "Tom",
+    "pos": "A1"
+  },
+  "zug": {
+    "lemma": "zug",
+    "english": "train",
+    "pos": "A1"
+  },
+  "berlin": {
+    "lemma": "berlin",
+    "english": "Berlin",
+    "pos": "A1"
+  },
+  "reise": {
+    "lemma": "reise",
+    "english": "journey",
+    "pos": "A1"
+  },
+  "dauert": {
+    "lemma": "dauert",
+    "english": "takes",
+    "pos": "A1"
+  },
+  "zwei": {
+    "lemma": "zwei",
+    "english": "two",
+    "pos": "A1"
+  },
+  "stunden": {
+    "lemma": "stunden",
+    "english": "hours",
+    "pos": "A1"
+  },
+  "buch": {
+    "lemma": "buch",
+    "english": "book",
+    "pos": "A1"
+  },
+  "große": {
+    "lemma": "große",
+    "english": "large",
+    "pos": "A1"
+  },
+  "gebäude": {
+    "lemma": "gebäude",
+    "english": "buildings",
+    "pos": "A1"
+  },
+  "besucht": {
+    "lemma": "besucht",
+    "english": "visits",
+    "pos": "A1"
+  },
+  "brandenburger": {
+    "lemma": "brandenburger",
+    "english": "Brandenburg",
+    "pos": "A1"
+  },
+  "tor": {
+    "lemma": "tor",
+    "english": "Gate",
+    "pos": "A1"
+  },
+  "fotos": {
+    "lemma": "fotos",
+    "english": "photos",
+    "pos": "A1"
+  },
+  "isst": {
+    "lemma": "isst",
+    "english": "eats",
+    "pos": "A1"
+  },
+  "currywurst": {
+    "lemma": "currywurst",
+    "english": "currywurst",
+    "pos": "A1"
+  },
+  "hotel": {
+    "lemma": "hotel",
+    "english": "hotel",
+    "pos": "A1"
+  },
+  "interessante": {
+    "lemma": "interessante",
+    "english": "interesting",
+    "pos": "A1"
+  },
+  "foto": {
+    "lemma": "foto",
+    "english": "photo",
+    "pos": "A1"
+  },
+  "julia": {
+    "lemma": "julia",
+    "english": "Julia",
+    "pos": "A1"
+  },
+  "braucht": {
+    "lemma": "braucht",
+    "english": "needs",
+    "pos": "A1"
+  },
+  "neuen": {
+    "lemma": "neuen",
+    "english": "new",
+    "pos": "A1"
+  },
+  "laptop": {
+    "lemma": "laptop",
+    "english": "laptop",
+    "pos": "A1"
+  },
+  "computer": {
+    "lemma": "computer",
+    "english": "computer",
+    "pos": "A1"
+  },
+  "geschäft": {
+    "lemma": "geschäft",
+    "english": "store",
+    "pos": "A1"
+  },
+  "modelle": {
+    "lemma": "modelle",
+    "english": "models",
+    "pos": "A1"
+  },
+  "wählt": {
+    "lemma": "wählt",
+    "english": "chooses",
+    "pos": "A1"
+  },
+  "leichten": {
+    "lemma": "leichten",
+    "english": "light",
+    "pos": "A1"
+  },
+  "zu": {
+    "lemma": "zu",
+    "english": "to",
+    "pos": "A1"
+  },
+  "hause": {
+    "lemma": "hause",
+    "english": "home",
+    "pos": "A1"
+  },
+  "öffnet": {
+    "lemma": "öffnet",
+    "english": "opens",
+    "pos": "A1"
+  },
+  "installiert": {
+    "lemma": "installiert",
+    "english": "installs",
+    "pos": "A1"
+  },
+  "programme": {
+    "lemma": "programme",
+    "english": "programs",
+    "pos": "A1"
+  },
+  "jetzt": {
+    "lemma": "jetzt",
+    "english": "now",
+    "pos": "A1"
+  },
+  "kann": {
+    "lemma": "kann",
+    "english": "can",
+    "pos": "A1"
+  },
+  "besser": {
+    "lemma": "besser",
+    "english": "better",
+    "pos": "A1"
+  },
+  "arbeiten": {
+    "lemma": "arbeiten",
+    "english": "work",
+    "pos": "A1"
+  },
+  "filme": {
+    "lemma": "filme",
+    "english": "movies",
+    "pos": "A1"
+  },
+  "schauen": {
+    "lemma": "schauen",
+    "english": "watch",
+    "pos": "A1"
+  },
+  "programm": {
+    "lemma": "programm",
+    "english": "program",
+    "pos": "A1"
+  },
+  "film": {
+    "lemma": "film",
+    "english": "movie",
+    "pos": "A1"
+  },
+  "markus": {
+    "lemma": "markus",
+    "english": "Markus",
+    "pos": "A1"
+  },
+  "sport": {
+    "lemma": "sport",
+    "english": "sport",
+    "pos": "A1"
+  },
+  "läuft": {
+    "lemma": "läuft",
+    "english": "runs",
+    "pos": "A1"
+  },
+  "zwanzig": {
+    "lemma": "zwanzig",
+    "english": "twenty",
+    "pos": "A1"
+  },
+  "minuten": {
+    "lemma": "minuten",
+    "english": "minutes",
+    "pos": "A1"
+  },
+  "danach": {
+    "lemma": "danach",
+    "english": "after that",
+    "pos": "A1"
+  },
+  "paar": {
+    "lemma": "paar",
+    "english": "few",
+    "pos": "A1"
+  },
+  "übungen": {
+    "lemma": "übungen",
+    "english": "exercises",
+    "pos": "A1"
+  },
+  "energie": {
+    "lemma": "energie",
+    "english": "energy",
+    "pos": "A1"
+  },
+  "training": {
+    "lemma": "training",
+    "english": "training",
+    "pos": "A1"
+  },
+  "frühstückt": {
+    "lemma": "frühstückt",
+    "english": "eats breakfast",
+    "pos": "A1"
+  },
+  "übung": {
+    "lemma": "übung",
+    "english": "exercise",
+    "pos": "A1"
+  },
+  "lena": {
+    "lemma": "lena",
+    "english": "Lena",
+    "pos": "A1"
+  },
+  "oma": {
+    "lemma": "oma",
+    "english": "grandma",
+    "pos": "A1"
+  },
+  "wohnt": {
+    "lemma": "wohnt",
+    "english": "lives",
+    "pos": "A1"
+  },
+  "einem": {
+    "lemma": "einem",
+    "english": "a",
+    "pos": "A1"
+  },
+  "haus": {
+    "lemma": "haus",
+    "english": "house",
+    "pos": "A1"
+  },
+  "trinken": {
+    "lemma": "trinken",
+    "english": "trinken",
+    "pos": "A1"
+  },
+  "kuchen": {
+    "lemma": "kuchen",
+    "english": "Kuchen",
+    "pos": "A1"
+  },
+  "erzählt": {
+    "lemma": "erzählt",
+    "english": "tells",
+    "pos": "A1"
+  },
+  "geschichten": {
+    "lemma": "geschichten",
+    "english": "stories",
+    "pos": "A1"
+  },
+  "ihrer": {
+    "lemma": "ihrer",
+    "english": "its",
+    "pos": "A1"
+  },
+  "jugend": {
+    "lemma": "jugend",
+    "english": "youth",
+    "pos": "A1"
+  },
+  "lacht": {
+    "lemma": "lacht",
+    "english": "laughs",
+    "pos": "A1"
+  },
+  "viel": {
+    "lemma": "viel",
+    "english": "a lot",
+    "pos": "A1"
+  },
+  "bald": {
+    "lemma": "bald",
+    "english": "soon",
+    "pos": "A1"
+  },
+  "geschichte": {
+    "lemma": "geschichte",
+    "english": "story",
+    "pos": "A1"
+  },
+  "daniel": {
+    "lemma": "daniel",
+    "english": "Daniel",
+    "pos": "A1"
+  },
+  "kocht": {
+    "lemma": "kocht",
+    "english": "cooks",
+    "pos": "A1"
+  },
+  "einfaches": {
+    "lemma": "einfaches",
+    "english": "simple",
+    "pos": "A1"
+  },
+  "abendessen": {
+    "lemma": "abendessen",
+    "english": "dinner",
+    "pos": "A1"
+  },
+  "serie": {
+    "lemma": "serie",
+    "english": "series",
+    "pos": "A1"
+  },
+  "später": {
+    "lemma": "später",
+    "english": "later",
+    "pos": "A1"
+  },
+  "bett": {
+    "lemma": "bett",
+    "english": "bed",
+    "pos": "A1"
+  },
+  "lang": {
+    "lemma": "lang",
+    "english": "long",
+    "pos": "A1"
+  },
+  "schläft": {
+    "lemma": "schläft",
+    "english": "sleeps",
+    "pos": "A1"
+  },
+  "schlafen": {
+    "lemma": "schlafen",
+    "english": "sleep",
+    "pos": "A1"
+  },
+  "wochenende": {
+    "lemma": "wochenende",
+    "english": "weekend",
+    "pos": "A2"
+  },
+  "familie": {
+    "lemma": "familie",
+    "english": "family",
+    "pos": "A2"
+  },
+  "weber": {
+    "lemma": "weber",
+    "english": "Weber",
+    "pos": "A2"
+  },
+  "berge": {
+    "lemma": "berge",
+    "english": "mountains",
+    "pos": "A2"
+  },
+  "frisch": {
+    "lemma": "frisch",
+    "english": "fresh",
+    "pos": "A2"
+  },
+  "landschaft": {
+    "lemma": "landschaft",
+    "english": "landscape",
+    "pos": "A2"
+  },
+  "wunderschön": {
+    "lemma": "wunderschön",
+    "english": "beautiful",
+    "pos": "A2"
+  },
+  "wandern": {
+    "lemma": "wandern",
+    "english": "hike",
+    "pos": "A2"
+  },
+  "weg": {
+    "lemma": "weg",
+    "english": "path",
+    "pos": "A2"
+  },
+  "durch": {
+    "lemma": "durch",
+    "english": "through",
+    "pos": "A2"
+  },
+  "wald": {
+    "lemma": "wald",
+    "english": "forest",
+    "pos": "A2"
+  },
+  "unterwegs": {
+    "lemma": "unterwegs",
+    "english": "on the way",
+    "pos": "A2"
+  },
+  "sehen": {
+    "lemma": "sehen",
+    "english": "sehen",
+    "pos": "A2"
+  },
+  "see": {
+    "lemma": "see",
+    "english": "lake",
+    "pos": "A2"
+  },
+  "machen": {
+    "lemma": "machen",
+    "english": "make",
+    "pos": "A2"
+  },
+  "pause": {
+    "lemma": "pause",
+    "english": "break",
+    "pos": "A2"
+  },
+  "während": {
+    "lemma": "während",
+    "english": "during",
+    "pos": "A2"
+  },
+  "eltern": {
+    "lemma": "eltern",
+    "english": "parents",
+    "pos": "A2"
+  },
+  "berghütte": {
+    "lemma": "berghütte",
+    "english": "mountain hut",
+    "pos": "A2"
+  },
+  "suppe": {
+    "lemma": "suppe",
+    "english": "soup",
+    "pos": "A2"
+  },
+  "müde": {
+    "lemma": "müde",
+    "english": "tired",
+    "pos": "A2"
+  },
+  "wanderung": {
+    "lemma": "wanderung",
+    "english": "hike",
+    "pos": "A2"
+  },
+  "hütte": {
+    "lemma": "hütte",
+    "english": "hut",
+    "pos": "A2"
+  },
+  "max": {
+    "lemma": "max",
+    "english": "Max",
+    "pos": "A2"
+  },
+  "gründen": {
+    "lemma": "gründen",
+    "english": "reasons",
+    "pos": "A2"
+  },
+  "startup": {
+    "lemma": "startup",
+    "english": "start-up",
+    "pos": "A2"
+  },
+  "entwickeln": {
+    "lemma": "entwickeln",
+    "english": "develop",
+    "pos": "A2"
+  },
+  "app": {
+    "lemma": "app",
+    "english": "app",
+    "pos": "A2"
+  },
+  "studenten": {
+    "lemma": "studenten",
+    "english": "students",
+    "pos": "A2"
+  },
+  "hilft": {
+    "lemma": "hilft",
+    "english": "helps",
+    "pos": "A2"
+  },
+  "beim": {
+    "lemma": "beim",
+    "english": "with",
+    "pos": "A2"
+  },
+  "lernen": {
+    "lemma": "lernen",
+    "english": "learning",
+    "pos": "A2"
+  },
+  "von": {
+    "lemma": "von",
+    "english": "from",
+    "pos": "A2"
+  },
+  "sprachen": {
+    "lemma": "sprachen",
+    "english": "languages",
+    "pos": "A2"
+  },
+  "anfang": {
+    "lemma": "anfang",
+    "english": "beginning",
+    "pos": "A2"
+  },
+  "haben": {
+    "lemma": "haben",
+    "english": "have",
+    "pos": "A2"
+  },
+  "ideen": {
+    "lemma": "ideen",
+    "english": "ideas",
+    "pos": "A2"
+  },
+  "probleme": {
+    "lemma": "probleme",
+    "english": "problems",
+    "pos": "A2"
+  },
+  "finden": {
+    "lemma": "finden",
+    "english": "find",
+    "pos": "A2"
+  },
+  "nutzer": {
+    "lemma": "nutzer",
+    "english": "users",
+    "pos": "A2"
+  },
+  "geduld": {
+    "lemma": "geduld",
+    "english": "patience",
+    "pos": "A2"
+  },
+  "wichtig": {
+    "lemma": "wichtig",
+    "english": "important",
+    "pos": "A2"
+  },
+  "idee": {
+    "lemma": "idee",
+    "english": "idea",
+    "pos": "A2"
+  },
+  "möchten": {
+    "lemma": "möchten",
+    "english": "want",
+    "pos": "A2"
+  },
+  "gesünder": {
+    "lemma": "gesünder",
+    "english": "more healthily",
+    "pos": "A2"
+  },
+  "leben": {
+    "lemma": "leben",
+    "english": "life",
+    "pos": "A2"
+  },
+  "mehr": {
+    "lemma": "mehr",
+    "english": "more",
+    "pos": "A2"
+  },
+  "treiben": {
+    "lemma": "treiben",
+    "english": "do",
+    "pos": "A2"
+  },
+  "guter": {
+    "lemma": "guter",
+    "english": "good",
+    "pos": "A2"
+  },
+  "schlaf": {
+    "lemma": "schlaf",
+    "english": "sleep",
+    "pos": "A2"
+  },
+  "körper": {
+    "lemma": "körper",
+    "english": "body",
+    "pos": "A2"
+  },
+  "versucht": {
+    "lemma": "versucht",
+    "english": "tries",
+    "pos": "A2"
+  },
+  "zehn": {
+    "lemma": "zehn",
+    "english": "ten",
+    "pos": "A2"
+  },
+  "meditieren": {
+    "lemma": "meditieren",
+    "english": "meditate",
+    "pos": "A2"
+  },
+  "dass": {
+    "lemma": "dass",
+    "english": "that",
+    "pos": "A2"
+  },
+  "ruhe": {
+    "lemma": "ruhe",
+    "english": "calm",
+    "pos": "A2"
+  },
+  "gesundheit": {
+    "lemma": "gesundheit",
+    "english": "health",
+    "pos": "A2"
+  },
+  "meditation": {
+    "lemma": "meditation",
+    "english": "meditation",
+    "pos": "A2"
+  },
+  "jonas": {
+    "lemma": "jonas",
+    "english": "Jonas",
+    "pos": "A2"
+  },
+  "großes": {
+    "lemma": "großes",
+    "english": "large",
+    "pos": "A2"
+  },
+  "museum": {
+    "lemma": "museum",
+    "english": "museum",
+    "pos": "A2"
+  },
+  "dort": {
+    "lemma": "dort",
+    "english": "where",
+    "pos": "A2"
+  },
+  "alte": {
+    "lemma": "alte",
+    "english": "old",
+    "pos": "A2"
+  },
+  "werkzeuge": {
+    "lemma": "werkzeuge",
+    "english": "tools",
+    "pos": "A2"
+  },
+  "kleidung": {
+    "lemma": "kleidung",
+    "english": "clothing",
+    "pos": "A2"
+  },
+  "vergangenheit": {
+    "lemma": "vergangenheit",
+    "english": "past",
+    "pos": "A2"
+  },
+  "guide": {
+    "lemma": "guide",
+    "english": "guide",
+    "pos": "A2"
+  },
+  "erklärt": {
+    "lemma": "erklärt",
+    "english": "erklärt",
+    "pos": "A2"
+  },
+  "vor": {
+    "lemma": "vor",
+    "english": "imagine",
+    "pos": "A2"
+  },
+  "hundert": {
+    "lemma": "hundert",
+    "english": "hundred",
+    "pos": "A2"
+  },
+  "jahren": {
+    "lemma": "jahren",
+    "english": "years",
+    "pos": "A2"
+  },
+  "museumsshop": {
+    "lemma": "museumsshop",
+    "english": "museum shop",
+    "pos": "A2"
+  },
+  "ausstellung": {
+    "lemma": "ausstellung",
+    "english": "exhibition",
+    "pos": "A2"
+  },
+  "freitagabend": {
+    "lemma": "freitagabend",
+    "english": "Friday evening",
+    "pos": "A2"
   },
   "jeder": {
     "lemma": "jeder",
     "english": "everyone",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "bringt": {
     "lemma": "bringt",
     "english": "brings",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "zutat": {
     "lemma": "zutat",
     "english": "ingredient",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "stehen": {
     "lemma": "stehen",
     "english": "face",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "verschiedene": {
     "lemma": "verschiedene",
     "english": "different",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "gerichte": {
     "lemma": "gerichte",
     "english": "dishes",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "reden": {
     "lemma": "reden",
     "english": "talk",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "lachen": {
     "lemma": "lachen",
     "english": "laugh",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "probieren": {
     "lemma": "probieren",
     "english": "taste",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "alles": {
     "lemma": "alles",
-    "english": "alles",
-    "pos": "unknown"
+    "english": "everyone",
+    "pos": "A2"
   },
   "schöner": {
     "lemma": "schöner",
     "english": "nice",
-    "pos": "unknown"
+    "pos": "A2"
+  },
+  "gericht": {
+    "lemma": "gericht",
+    "english": "dish",
+    "pos": "A2"
   },
   "fahrradweg": {
     "lemma": "fahrradweg",
     "english": "bike path",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "umwelt": {
     "lemma": "umwelt",
     "english": "environment",
-    "pos": "unknown"
-  },
-  "gesundheit": {
-    "lemma": "gesundheit",
-    "english": "Gesundheit",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "wach": {
     "lemma": "wach",
     "english": "awake",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "aktiv": {
     "lemma": "aktiv",
     "english": "active",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "ruhigen": {
     "lemma": "ruhigen",
     "english": "quiet",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "straße": {
     "lemma": "straße",
     "english": "street",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "buchladen": {
     "lemma": "buchladen",
     "english": "Buchladen",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "besitzer": {
     "lemma": "besitzer",
     "english": "owner",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "kennt": {
     "lemma": "kennt",
     "english": "knows",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "seiner": {
     "lemma": "seiner",
     "english": "be",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "kunden": {
     "lemma": "kunden",
     "english": "customers",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "persönlich": {
     "lemma": "persönlich",
     "english": "personally",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "hierher": {
     "lemma": "hierher",
     "english": "here",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "um": {
     "lemma": "um",
     "english": "um",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "bücher": {
     "lemma": "bücher",
     "english": "books",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "entdecken": {
     "lemma": "entdecken",
     "english": "discover",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "manchmal": {
     "lemma": "manchmal",
     "english": "sometimes",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "kleine": {
     "lemma": "kleine",
     "english": "small",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "lesungen": {
     "lemma": "lesungen",
     "english": "readings",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "laden": {
     "lemma": "laden",
     "english": "shop",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "treffpunkt": {
     "lemma": "treffpunkt",
     "english": "meeting place",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "leser": {
     "lemma": "leser",
     "english": "readers",
-    "pos": "unknown"
+    "pos": "A2"
+  },
+  "lesung": {
+    "lemma": "lesung",
+    "english": "reading",
+    "pos": "A2"
+  },
+  "kunde": {
+    "lemma": "kunde",
+    "english": "customer",
+    "pos": "A2"
   },
   "sara": {
     "lemma": "sara",
     "english": "Sara",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "beginnt": {
     "lemma": "beginnt",
     "english": "starts",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "onlinekurs": {
     "lemma": "onlinekurs",
     "english": "online course",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "programmierung": {
     "lemma": "programmierung",
     "english": "programming",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "versteht": {
     "lemma": "versteht",
     "english": "understands",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "dinge": {
     "lemma": "dinge",
     "english": "things",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "nicht": {
     "lemma": "nicht",
     "english": "not",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "doch": {
     "lemma": "doch",
     "english": "but",
-    "pos": "unknown"
-  },
-  "übung": {
-    "lemma": "übung",
-    "english": "practice",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "wird": {
     "lemma": "wird",
     "english": "will",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "einfacher": {
     "lemma": "einfacher",
     "english": "simply",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "ihrem": {
     "lemma": "ihrem",
     "english": "its",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "wochen": {
     "lemma": "wochen",
     "english": "weeks",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "baut": {
     "lemma": "baut",
     "english": "builds",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "webseite": {
     "lemma": "webseite",
     "english": "website",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "stolz": {
     "lemma": "stolz",
     "english": "proud",
-    "pos": "unknown"
+    "pos": "A2"
+  },
+  "kurs": {
+    "lemma": "kurs",
+    "english": "course",
+    "pos": "A2"
   },
   "sommer": {
     "lemma": "sommer",
     "english": "summer",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "tim": {
     "lemma": "tim",
     "english": "Tim",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "außerhalb": {
     "lemma": "außerhalb",
     "english": "outside",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "schwimmt": {
     "lemma": "schwimmt",
     "english": "swims",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "entspannend": {
     "lemma": "entspannend",
     "english": "relaxing",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "stress": {
     "lemma": "stress",
     "english": "stress",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "entkommen": {
     "lemma": "entkommen",
     "english": "entkommen",
-    "pos": "unknown"
+    "pos": "A2"
+  },
+  "schwimmen": {
+    "lemma": "schwimmen",
+    "english": "swimming",
+    "pos": "A2"
   },
   "reisen": {
     "lemma": "reisen",
     "english": "travel",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "vielen": {
     "lemma": "vielen",
     "english": "a lot",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "manche": {
     "lemma": "manche",
     "english": "some",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "wollen": {
     "lemma": "wollen",
     "english": "want",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "kulturen": {
     "lemma": "kulturen",
     "english": "cultures",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "andere": {
     "lemma": "andere",
     "english": "others",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "einfach": {
     "lemma": "einfach",
     "english": "simply",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "vom": {
     "lemma": "vom",
     "english": "vom",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "alltag": {
     "lemma": "alltag",
     "english": "everyday life",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "blick": {
     "lemma": "blick",
     "english": "view",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "welt": {
     "lemma": "welt",
     "english": "world",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "verändern": {
     "lemma": "verändern",
     "english": "change",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "man": {
     "lemma": "man",
     "english": "one",
-    "pos": "unknown"
+    "pos": "A2"
   },
   "perspektiven": {
     "lemma": "perspektiven",
     "english": "perspectives",
-    "pos": "unknown"
+    "pos": "A2"
+  },
+  "kultur": {
+    "lemma": "kultur",
+    "english": "culture",
+    "pos": "A2"
+  },
+  "perspektive": {
+    "lemma": "perspektive",
+    "english": "perspective",
+    "pos": "A2"
   },
   "experten": {
     "lemma": "experten",
     "english": "experts",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "glauben": {
     "lemma": "glauben",
     "english": "believe",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "nächsten": {
     "lemma": "nächsten",
     "english": "next",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "stark": {
     "lemma": "stark",
     "english": "significantly",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "technologien": {
     "lemma": "technologien",
     "english": "technologies",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "wie": {
     "lemma": "wie",
     "english": "like",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "künstliche": {
     "lemma": "künstliche",
     "english": "artificial",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "intelligenz": {
     "lemma": "intelligenz",
     "english": "intelligence",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "automatisierung": {
     "lemma": "automatisierung",
     "english": "automation",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "übernehmen": {
     "lemma": "übernehmen",
     "english": "take over",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "bereits": {
     "lemma": "bereits",
     "english": "already",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "aufgaben": {
     "lemma": "aufgaben",
     "english": "tasks",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "einige": {
     "lemma": "einige",
     "english": "some",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "angst": {
     "lemma": "angst",
     "english": "afraid",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "veränderungen": {
     "lemma": "veränderungen",
     "english": "changes",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "chancen": {
     "lemma": "chancen",
     "english": "opportunities",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "bildung": {
     "lemma": "bildung",
     "english": "education",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "lebenslanges": {
     "lemma": "lebenslanges",
     "english": "lifelong",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "werden": {
     "lemma": "werden",
     "english": "werden",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "immer": {
     "lemma": "immer",
     "english": "increasingly",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "wichtiger": {
     "lemma": "wichtiger",
     "english": "important",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "wer": {
     "lemma": "wer",
     "english": "whoever",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "bereit": {
     "lemma": "bereit",
     "english": "ready",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "fähigkeiten": {
     "lemma": "fähigkeiten",
     "english": "skills",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "dieser": {
     "lemma": "dieser",
-    "english": "dieser",
-    "pos": "unknown"
+    "english": "these",
+    "pos": "B1"
   },
   "entwicklung": {
     "lemma": "entwicklung",
     "english": "development",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "profitieren": {
     "lemma": "profitieren",
     "english": "benefit",
-    "pos": "unknown"
-  },
-  "sophie": {
-    "lemma": "sophie",
-    "english": "Sophie",
-    "pos": "unknown"
-  },
-  "entscheidet": {
-    "lemma": "entscheidet",
-    "english": "decides",
-    "pos": "unknown"
-  },
-  "lange": {
-    "lemma": "lange",
-    "english": "long",
-    "pos": "unknown"
-  },
-  "zugreise": {
-    "lemma": "zugreise",
-    "english": "train journey",
-    "pos": "unknown"
-  },
-  "europa": {
-    "lemma": "europa",
-    "english": "Europe",
-    "pos": "unknown"
-  },
-  "mehrere": {
-    "lemma": "mehrere",
-    "english": "several",
-    "pos": "unknown"
-  },
-  "städte": {
-    "lemma": "städte",
-    "english": "cities",
-    "pos": "unknown"
-  },
-  "trifft": {
-    "lemma": "trifft",
-    "english": "meets",
-    "pos": "unknown"
-  },
-  "tagebuch": {
-    "lemma": "tagebuch",
-    "english": "diary",
-    "pos": "unknown"
-  },
-  "zeit": {
-    "lemma": "zeit",
-    "english": "time",
-    "pos": "unknown"
-  },
-  "nachdenken": {
-    "lemma": "nachdenken",
-    "english": "think",
-    "pos": "unknown"
-  },
-  "merkt": {
-    "lemma": "merkt",
-    "english": "realizes",
-    "pos": "unknown"
-  },
-  "nur": {
-    "lemma": "nur",
-    "english": "only",
-    "pos": "unknown"
-  },
-  "ziel": {
-    "lemma": "ziel",
-    "english": "destination",
-    "pos": "unknown"
-  },
-  "sondern": {
-    "lemma": "sondern",
-    "english": "but also",
-    "pos": "unknown"
-  },
-  "freundschaft": {
-    "lemma": "freundschaft",
-    "english": "friendship",
-    "pos": "unknown"
-  },
-  "spielt": {
-    "lemma": "spielt",
-    "english": "plays",
-    "pos": "unknown"
-  },
-  "wichtige": {
-    "lemma": "wichtige",
-    "english": "important",
-    "pos": "unknown"
-  },
-  "rolle": {
-    "lemma": "rolle",
-    "english": "role",
-    "pos": "unknown"
-  },
-  "vieler": {
-    "lemma": "vieler",
-    "english": "a lot",
-    "pos": "unknown"
-  },
-  "gute": {
-    "lemma": "gute",
-    "english": "good",
-    "pos": "unknown"
-  },
-  "unterstützen": {
-    "lemma": "unterstützen",
-    "english": "support",
-    "pos": "unknown"
-  },
-  "uns": {
-    "lemma": "uns",
-    "english": "us",
-    "pos": "unknown"
-  },
-  "schwierigen": {
-    "lemma": "schwierigen",
-    "english": "difficult",
-    "pos": "unknown"
-  },
-  "zeiten": {
-    "lemma": "zeiten",
-    "english": "times",
-    "pos": "unknown"
-  },
-  "teilen": {
-    "lemma": "teilen",
-    "english": "share",
-    "pos": "unknown"
-  },
-  "unsere": {
-    "lemma": "unsere",
-    "english": "our",
-    "pos": "unknown"
-  },
-  "freude": {
-    "lemma": "freude",
-    "english": "joy",
-    "pos": "unknown"
-  },
-  "echte": {
-    "lemma": "echte",
-    "english": "true",
-    "pos": "unknown"
-  },
-  "vertrauen": {
-    "lemma": "vertrauen",
-    "english": "trust",
-    "pos": "unknown"
-  },
-  "muss": {
-    "lemma": "muss",
-    "english": "must",
-    "pos": "unknown"
-  },
-  "sein": {
-    "lemma": "sein",
-    "english": "be",
-    "pos": "unknown"
-  },
-  "zuzuhören": {
-    "lemma": "zuzuhören",
-    "english": "to listen",
-    "pos": "unknown"
-  },
-  "ehrlich": {
-    "lemma": "ehrlich",
-    "english": "honest",
-    "pos": "unknown"
-  },
-  "so": {
-    "lemma": "so",
-    "english": "so",
-    "pos": "unknown"
-  },
-  "beziehung": {
-    "lemma": "beziehung",
-    "english": "relationship",
-    "pos": "unknown"
-  },
-  "wirklich": {
-    "lemma": "wirklich",
-    "english": "truly",
-    "pos": "unknown"
-  },
-  "wachsen": {
-    "lemma": "wachsen",
-    "english": "grow",
-    "pos": "unknown"
-  },
-  "vergessen": {
-    "lemma": "vergessen",
-    "english": "forget",
-    "pos": "unknown"
-  },
-  "dabei": {
-    "lemma": "dabei",
-    "english": "in the process",
-    "pos": "unknown"
-  },
-  "empfehlen": {
-    "lemma": "empfehlen",
-    "english": "recommend",
-    "pos": "unknown"
-  },
-  "balance": {
-    "lemma": "balance",
-    "english": "balance",
-    "pos": "unknown"
-  },
-  "zwischen": {
-    "lemma": "zwischen",
-    "english": "between",
-    "pos": "unknown"
-  },
-  "freizeit": {
-    "lemma": "freizeit",
-    "english": "leisure",
-    "pos": "unknown"
-  },
-  "regelmäßiger": {
-    "lemma": "regelmäßiger",
-    "english": "regular",
-    "pos": "unknown"
-  },
-  "gesunde": {
-    "lemma": "gesunde",
-    "english": "healthy",
-    "pos": "unknown"
-  },
-  "ernährung": {
-    "lemma": "ernährung",
-    "english": "diet",
-    "pos": "unknown"
-  },
-  "genügend": {
-    "lemma": "genügend",
-    "english": "enough",
-    "pos": "unknown"
-  },
-  "pausen": {
-    "lemma": "pausen",
-    "english": "breaks",
-    "pos": "unknown"
-  },
-  "können": {
-    "lemma": "können",
-    "english": "can",
-    "pos": "unknown"
-  },
-  "helfen": {
-    "lemma": "helfen",
-    "english": "help",
-    "pos": "unknown"
-  },
-  "ausgeglichener": {
-    "lemma": "ausgeglichener",
-    "english": "balanced",
-    "pos": "unknown"
-  },
-  "lebensstil": {
-    "lemma": "lebensstil",
-    "english": "lifestyle",
-    "pos": "unknown"
-  },
-  "verbessert": {
-    "lemma": "verbessert",
-    "english": "improves",
-    "pos": "unknown"
-  },
-  "produktivität": {
-    "lemma": "produktivität",
-    "english": "productivity",
-    "pos": "unknown"
-  },
-  "ursprünge": {
-    "lemma": "ursprünge",
-    "english": "origins",
-    "pos": "unknown"
-  },
-  "liegen": {
-    "lemma": "liegen",
-    "english": "liegen",
-    "pos": "unknown"
-  },
-  "wahrscheinlich": {
-    "lemma": "wahrscheinlich",
-    "english": "probably",
-    "pos": "unknown"
-  },
-  "äthiopien": {
-    "lemma": "äthiopien",
-    "english": "Ethiopia",
-    "pos": "unknown"
-  },
-  "verbreitete": {
-    "lemma": "verbreitete",
-    "english": "spread",
-    "pos": "unknown"
-  },
-  "getränk": {
-    "lemma": "getränk",
-    "english": "drink",
-    "pos": "unknown"
-  },
-  "nahen": {
-    "lemma": "nahen",
-    "english": "Middle",
-    "pos": "unknown"
-  },
-  "osten": {
-    "lemma": "osten",
-    "english": "East",
-    "pos": "unknown"
-  },
-  "jahrhundert": {
-    "lemma": "jahrhundert",
-    "english": "century",
-    "pos": "unknown"
-  },
-  "entstanden": {
-    "lemma": "entstanden",
-    "english": "emerged",
-    "pos": "unknown"
-  },
-  "kaffeehäuser": {
-    "lemma": "kaffeehäuser",
-    "english": "coffee houses",
-    "pos": "unknown"
-  },
-  "wurden": {
-    "lemma": "wurden",
-    "english": "became",
-    "pos": "unknown"
-  },
-  "wichtigen": {
-    "lemma": "wichtigen",
-    "english": "important",
-    "pos": "unknown"
-  },
-  "orten": {
-    "lemma": "orten",
-    "english": "place",
-    "pos": "unknown"
-  },
-  "gespräche": {
-    "lemma": "gespräche",
-    "english": "conversations",
-    "pos": "unknown"
-  },
-  "lesen": {
-    "lemma": "lesen",
-    "english": "reading",
-    "pos": "unknown"
-  },
-  "als": {
-    "lemma": "als",
-    "english": "als",
-    "pos": "unknown"
-  },
-  "unterhaltung": {
-    "lemma": "unterhaltung",
-    "english": "entertainment",
-    "pos": "unknown"
-  },
-  "wissen": {
-    "lemma": "wissen",
-    "english": "knowledge",
-    "pos": "unknown"
-  },
-  "vermitteln": {
-    "lemma": "vermitteln",
-    "english": "provide",
-    "pos": "unknown"
-  },
-  "vorstellungskraft": {
-    "lemma": "vorstellungskraft",
-    "english": "imagination",
-    "pos": "unknown"
-  },
-  "erweitern": {
-    "lemma": "erweitern",
-    "english": "expand",
-    "pos": "unknown"
-  },
-  "gutes": {
-    "lemma": "gutes",
-    "english": "good",
-    "pos": "unknown"
-  },
-  "kopf": {
-    "lemma": "kopf",
-    "english": "Kopf",
-    "pos": "unknown"
-  },
-  "minimalismus": {
-    "lemma": "minimalismus",
-    "english": "minimalism",
-    "pos": "unknown"
-  },
-  "lebensweise": {
-    "lemma": "lebensweise",
-    "english": "way of life",
-    "pos": "unknown"
-  },
-  "bei": {
-    "lemma": "bei",
-    "english": "bei",
-    "pos": "unknown"
-  },
-  "bewusst": {
-    "lemma": "bewusst",
-    "english": "consciously",
-    "pos": "unknown"
-  },
-  "weniger": {
-    "lemma": "weniger",
-    "english": "less",
-    "pos": "unknown"
-  },
-  "besitzen": {
-    "lemma": "besitzen",
-    "english": "own",
-    "pos": "unknown"
-  },
-  "konzentrieren": {
-    "lemma": "konzentrieren",
-    "english": "focus",
-    "pos": "unknown"
-  },
-  "minimalisten": {
-    "lemma": "minimalisten",
-    "english": "minimalists",
-    "pos": "unknown"
-  },
-  "besitz": {
-    "lemma": "besitz",
-    "english": "possessions",
-    "pos": "unknown"
-  },
-  "freiheit": {
-    "lemma": "freiheit",
-    "english": "freedom",
-    "pos": "unknown"
-  },
-  "bedeutet": {
-    "lemma": "bedeutet",
-    "english": "means",
-    "pos": "unknown"
-  },
-  "philosophie": {
-    "lemma": "philosophie",
-    "english": "philosophy",
-    "pos": "unknown"
-  },
-  "ihnen": {
-    "lemma": "ihnen",
-    "english": "them",
-    "pos": "unknown"
-  },
-  "erfahrungen": {
-    "lemma": "erfahrungen",
-    "english": "experiences",
-    "pos": "unknown"
-  },
-  "statt": {
-    "lemma": "statt",
-    "english": "instead of",
-    "pos": "unknown"
-  },
-  "neues": {
-    "lemma": "neues",
-    "english": "new",
-    "pos": "unknown"
-  },
-  "eröffnet": {
-    "lemma": "eröffnet",
-    "english": "opened",
-    "pos": "unknown"
-  },
-  "kombiniert": {
-    "lemma": "kombiniert",
-    "english": "combines",
-    "pos": "unknown"
-  },
-  "traditionelle": {
-    "lemma": "traditionelle",
-    "english": "traditional",
-    "pos": "unknown"
-  },
-  "modernen": {
-    "lemma": "modernen",
-    "english": "modern",
-    "pos": "unknown"
-  },
-  "chefkoch": {
-    "lemma": "chefkoch",
-    "english": "head chef",
-    "pos": "unknown"
-  },
-  "verwendet": {
-    "lemma": "verwendet",
-    "english": "uses",
-    "pos": "unknown"
-  },
-  "regionale": {
-    "lemma": "regionale",
-    "english": "regional",
-    "pos": "unknown"
-  },
-  "zutaten": {
-    "lemma": "zutaten",
-    "english": "ingredients",
-    "pos": "unknown"
-  },
-  "gäste": {
-    "lemma": "gäste",
-    "english": "guests",
-    "pos": "unknown"
-  },
-  "wegen": {
-    "lemma": "wegen",
-    "english": "because of",
-    "pos": "unknown"
-  },
-  "kreativen": {
-    "lemma": "kreativen",
-    "english": "creative",
-    "pos": "unknown"
-  },
-  "küche": {
-    "lemma": "küche",
-    "english": "cuisine",
-    "pos": "unknown"
-  },
-  "beliebten": {
-    "lemma": "beliebten",
-    "english": "popular",
-    "pos": "unknown"
+    "pos": "B1"
   },
   "technologie": {
     "lemma": "technologie",
-    "english": "Technologie",
-    "pos": "unknown"
-  },
-  "beeinflusst": {
-    "lemma": "beeinflusst",
-    "english": "influences",
-    "pos": "unknown"
-  },
-  "fast": {
-    "lemma": "fast",
-    "english": "almost",
-    "pos": "unknown"
-  },
-  "bereich": {
-    "lemma": "bereich",
-    "english": "area",
-    "pos": "unknown"
-  },
-  "unseres": {
-    "lemma": "unseres",
-    "english": "our",
-    "pos": "unknown"
-  },
-  "lebens": {
-    "lemma": "lebens",
-    "english": "Lebens",
-    "pos": "unknown"
-  },
-  "verändert": {
-    "lemma": "verändert",
-    "english": "changes",
-    "pos": "unknown"
-  },
-  "art": {
-    "lemma": "art",
-    "english": "way",
-    "pos": "unknown"
-  },
-  "kommunizieren": {
-    "lemma": "kommunizieren",
-    "english": "communicate",
-    "pos": "unknown"
-  },
-  "möglichkeiten": {
-    "lemma": "möglichkeiten",
-    "english": "Möglichkeiten",
-    "pos": "unknown"
-  },
-  "herausforderungen": {
-    "lemma": "herausforderungen",
-    "english": "challenges",
-    "pos": "unknown"
-  },
-  "datenschutz": {
-    "lemma": "datenschutz",
-    "english": "Datenschutz",
-    "pos": "unknown"
-  },
-  "digitale": {
-    "lemma": "digitale",
-    "english": "digital",
-    "pos": "unknown"
-  },
-  "verantwortung": {
-    "lemma": "verantwortung",
-    "english": "responsibility",
-    "pos": "unknown"
-  },
-  "stellen": {
-    "lemma": "stellen",
-    "english": "imagine",
-    "pos": "unknown"
-  },
-  "ganzen": {
-    "lemma": "ganzen",
-    "english": "whole",
-    "pos": "unknown"
-  },
-  "ohne": {
-    "lemma": "ohne",
-    "english": "without",
-    "pos": "unknown"
-  },
-  "internet": {
-    "lemma": "internet",
-    "english": "internet",
-    "pos": "unknown"
-  },
-  "würden": {
-    "lemma": "würden",
-    "english": "would",
-    "pos": "unknown"
-  },
-  "zunächst": {
-    "lemma": "zunächst",
-    "english": "at first",
-    "pos": "unknown"
-  },
-  "verloren": {
-    "lemma": "verloren",
-    "english": "lost",
-    "pos": "unknown"
-  },
-  "fühlen": {
-    "lemma": "fühlen",
-    "english": "fühlen",
-    "pos": "unknown"
-  },
-  "vielleicht": {
-    "lemma": "vielleicht",
-    "english": "perhaps",
-    "pos": "unknown"
-  },
-  "hätten": {
-    "lemma": "hätten",
-    "english": "would have",
-    "pos": "unknown"
-  },
-  "spaziergänge": {
-    "lemma": "spaziergänge",
-    "english": "walks",
-    "pos": "unknown"
-  },
-  "abhängig": {
-    "lemma": "abhängig",
-    "english": "dependent",
-    "pos": "unknown"
-  },
-  "rasanten": {
-    "lemma": "rasanten",
-    "english": "rapid",
-    "pos": "unknown"
-  },
-  "künstlichen": {
-    "lemma": "künstlichen",
-    "english": "artificial",
-    "pos": "unknown"
-  },
-  "entstehen": {
-    "lemma": "entstehen",
-    "english": "arise",
-    "pos": "unknown"
-  },
-  "ethische": {
-    "lemma": "ethische",
-    "english": "ethical",
-    "pos": "unknown"
-  },
-  "fragen": {
-    "lemma": "fragen",
-    "english": "questions",
-    "pos": "unknown"
-  },
-  "algorithmen": {
-    "lemma": "algorithmen",
-    "english": "algorithms",
-    "pos": "unknown"
-  },
-  "entscheidungen": {
-    "lemma": "entscheidungen",
-    "english": "decisions",
-    "pos": "unknown"
-  },
-  "treffen": {
-    "lemma": "treffen",
-    "english": "treffen",
-    "pos": "unknown"
-  },
-  "früher": {
-    "lemma": "früher",
-    "english": "once",
-    "pos": "unknown"
-  },
-  "vorbehalten": {
-    "lemma": "vorbehalten",
-    "english": "reserved",
-    "pos": "unknown"
-  },
-  "waren": {
-    "lemma": "waren",
-    "english": "was",
-    "pos": "unknown"
-  },
-  "trägt": {
-    "lemma": "trägt",
-    "english": "bears",
-    "pos": "unknown"
-  },
-  "wenn": {
-    "lemma": "wenn",
-    "english": "when",
-    "pos": "unknown"
-  },
-  "maschine": {
-    "lemma": "maschine",
-    "english": "machine",
-    "pos": "unknown"
-  },
-  "fehler": {
-    "lemma": "fehler",
-    "english": "mistake",
-    "pos": "unknown"
-  },
-  "fordern": {
-    "lemma": "fordern",
-    "english": "call for",
-    "pos": "unknown"
-  },
-  "klare": {
-    "lemma": "klare",
-    "english": "clear",
-    "pos": "unknown"
-  },
-  "regeln": {
-    "lemma": "regeln",
-    "english": "rules",
-    "pos": "unknown"
-  },
-  "transparenz": {
-    "lemma": "transparenz",
-    "english": "transparency",
-    "pos": "unknown"
+    "english": "technology",
+    "pos": "B1"
   },
   "zukunft": {
     "lemma": "zukunft",
     "english": "future",
-    "pos": "unknown"
+    "pos": "B1"
   },
-  "hängt": {
-    "lemma": "hängt",
-    "english": "depends",
-    "pos": "unknown"
+  "sophie": {
+    "lemma": "sophie",
+    "english": "Sophie",
+    "pos": "B1"
   },
-  "davon": {
-    "lemma": "davon",
-    "english": "on it",
-    "pos": "unknown"
+  "entscheidet": {
+    "lemma": "entscheidet",
+    "english": "decides",
+    "pos": "B1"
   },
-  "ab": {
-    "lemma": "ab",
-    "english": "ab",
-    "pos": "unknown"
+  "lange": {
+    "lemma": "lange",
+    "english": "long",
+    "pos": "B1"
   },
-  "verantwortungsvoll": {
-    "lemma": "verantwortungsvoll",
-    "english": "responsibly",
-    "pos": "unknown"
+  "zugreise": {
+    "lemma": "zugreise",
+    "english": "train journey",
+    "pos": "B1"
   },
-  "einsetzen": {
-    "lemma": "einsetzen",
-    "english": "use",
-    "pos": "unknown"
+  "europa": {
+    "lemma": "europa",
+    "english": "Europe",
+    "pos": "B1"
   },
-  "effektivsten": {
-    "lemma": "effektivsten",
-    "english": "most effective",
-    "pos": "unknown"
+  "mehrere": {
+    "lemma": "mehrere",
+    "english": "several",
+    "pos": "B1"
   },
-  "formen": {
-    "lemma": "formen",
-    "english": "forms",
-    "pos": "unknown"
+  "städte": {
+    "lemma": "städte",
+    "english": "cities",
+    "pos": "B1"
   },
-  "des": {
-    "lemma": "des",
-    "english": "des",
-    "pos": "unknown"
+  "trifft": {
+    "lemma": "trifft",
+    "english": "meets",
+    "pos": "B1"
   },
-  "lernens": {
-    "lemma": "lernens",
-    "english": "Lernens",
-    "pos": "unknown"
+  "tagebuch": {
+    "lemma": "tagebuch",
+    "english": "diary",
+    "pos": "B1"
   },
-  "länder": {
-    "lemma": "länder",
-    "english": "countries",
-    "pos": "unknown"
+  "zeit": {
+    "lemma": "zeit",
+    "english": "time",
+    "pos": "B1"
   },
-  "besuchen": {
-    "lemma": "besuchen",
-    "english": "visit",
-    "pos": "unknown"
+  "nachdenken": {
+    "lemma": "nachdenken",
+    "english": "think",
+    "pos": "B1"
   },
-  "erleben": {
-    "lemma": "erleben",
-    "english": "experience",
-    "pos": "unknown"
+  "merkt": {
+    "lemma": "merkt",
+    "english": "realizes",
+    "pos": "B1"
   },
-  "unterschiedliche": {
-    "lemma": "unterschiedliche",
-    "english": "different",
-    "pos": "unknown"
+  "nur": {
+    "lemma": "nur",
+    "english": "only",
+    "pos": "B1"
   },
-  "erster": {
-    "lemma": "erster",
-    "english": "first",
-    "pos": "unknown"
+  "ziel": {
+    "lemma": "ziel",
+    "english": "destination",
+    "pos": "B1"
   },
-  "hand": {
-    "lemma": "hand",
-    "english": "hand",
-    "pos": "unknown"
-  },
-  "unser": {
-    "lemma": "unser",
-    "english": "our",
-    "pos": "unknown"
-  },
-  "perspektive": {
-    "lemma": "perspektive",
-    "english": "Perspektive",
-    "pos": "unknown"
-  },
-  "reisende": {
-    "lemma": "reisende",
-    "english": "travelers",
-    "pos": "unknown"
-  },
-  "berichten": {
-    "lemma": "berichten",
-    "english": "report",
-    "pos": "unknown"
-  },
-  "längeren": {
-    "lemma": "längeren",
-    "english": "longer",
-    "pos": "unknown"
-  },
-  "offener": {
-    "lemma": "offener",
-    "english": "more open",
-    "pos": "unknown"
-  },
-  "toleranter": {
-    "lemma": "toleranter",
-    "english": "more tolerant",
-    "pos": "unknown"
-  },
-  "geworden": {
-    "lemma": "geworden",
-    "english": "geworden",
-    "pos": "unknown"
-  },
-  "eines": {
-    "lemma": "eines",
-    "english": "one",
-    "pos": "unknown"
-  },
-  "größten": {
-    "lemma": "größten",
-    "english": "greatest",
-    "pos": "unknown"
-  },
-  "rätsel": {
-    "lemma": "rätsel",
-    "english": "mysteries",
-    "pos": "unknown"
-  },
-  "menschlichen": {
-    "lemma": "menschlichen",
-    "english": "human",
-    "pos": "unknown"
+  "sondern": {
+    "lemma": "sondern",
+    "english": "but also",
+    "pos": "B1"
   },
   "erfahrung": {
     "lemma": "erfahrung",
     "english": "experience",
-    "pos": "unknown"
+    "pos": "B1"
   },
-  "messen": {
-    "lemma": "messen",
-    "english": "measure",
-    "pos": "unknown"
+  "freundschaft": {
+    "lemma": "freundschaft",
+    "english": "friendship",
+    "pos": "B1"
   },
-  "uhren": {
-    "lemma": "uhren",
-    "english": "clocks",
-    "pos": "unknown"
+  "spielt": {
+    "lemma": "spielt",
+    "english": "plays",
+    "pos": "B1"
   },
-  "kalendern": {
-    "lemma": "kalendern",
-    "english": "calendars",
-    "pos": "unknown"
+  "wichtige": {
+    "lemma": "wichtige",
+    "english": "important",
+    "pos": "B1"
   },
-  "wesen": {
-    "lemma": "wesen",
-    "english": "nature",
-    "pos": "unknown"
+  "rolle": {
+    "lemma": "rolle",
+    "english": "role",
+    "pos": "B1"
   },
-  "bleibt": {
-    "lemma": "bleibt",
-    "english": "remains",
-    "pos": "unknown"
+  "vieler": {
+    "lemma": "vieler",
+    "english": "a lot",
+    "pos": "B1"
   },
-  "schwer": {
-    "lemma": "schwer",
+  "gute": {
+    "lemma": "gute",
+    "english": "good",
+    "pos": "B1"
+  },
+  "unterstützen": {
+    "lemma": "unterstützen",
+    "english": "support",
+    "pos": "B1"
+  },
+  "uns": {
+    "lemma": "uns",
+    "english": "us",
+    "pos": "B1"
+  },
+  "schwierigen": {
+    "lemma": "schwierigen",
     "english": "difficult",
-    "pos": "unknown"
+    "pos": "B1"
   },
-  "verstehen": {
-    "lemma": "verstehen",
-    "english": "verstehen",
-    "pos": "unknown"
+  "zeiten": {
+    "lemma": "zeiten",
+    "english": "times",
+    "pos": "B1"
   },
-  "philosophen": {
-    "lemma": "philosophen",
-    "english": "philosophers",
-    "pos": "unknown"
+  "teilen": {
+    "lemma": "teilen",
+    "english": "share",
+    "pos": "B1"
   },
-  "linearen": {
-    "lemma": "linearen",
-    "english": "linear",
-    "pos": "unknown"
+  "unsere": {
+    "lemma": "unsere",
+    "english": "our",
+    "pos": "B1"
   },
-  "prozess": {
-    "lemma": "prozess",
-    "english": "process",
-    "pos": "unknown"
+  "freude": {
+    "lemma": "freude",
+    "english": "joy",
+    "pos": "B1"
   },
-  "subjektive": {
-    "lemma": "subjektive",
-    "english": "subjective",
-    "pos": "unknown"
+  "echte": {
+    "lemma": "echte",
+    "english": "true",
+    "pos": "B1"
   },
-  "wahrnehmung": {
-    "lemma": "wahrnehmung",
-    "english": "perception",
-    "pos": "unknown"
+  "vertrauen": {
+    "lemma": "vertrauen",
+    "english": "trust",
+    "pos": "B1"
   },
-  "moderne": {
-    "lemma": "moderne",
+  "muss": {
+    "lemma": "muss",
+    "english": "must",
+    "pos": "B1"
+  },
+  "sein": {
+    "lemma": "sein",
+    "english": "be",
+    "pos": "B1"
+  },
+  "zuzuhören": {
+    "lemma": "zuzuhören",
+    "english": "to listen",
+    "pos": "B1"
+  },
+  "ehrlich": {
+    "lemma": "ehrlich",
+    "english": "honest",
+    "pos": "B1"
+  },
+  "so": {
+    "lemma": "so",
+    "english": "so",
+    "pos": "B1"
+  },
+  "beziehung": {
+    "lemma": "beziehung",
+    "english": "relationship",
+    "pos": "B1"
+  },
+  "wirklich": {
+    "lemma": "wirklich",
+    "english": "truly",
+    "pos": "B1"
+  },
+  "wachsen": {
+    "lemma": "wachsen",
+    "english": "grow",
+    "pos": "B1"
+  },
+  "ehrlichkeit": {
+    "lemma": "ehrlichkeit",
+    "english": "honesty",
+    "pos": "B1"
+  },
+  "vergessen": {
+    "lemma": "vergessen",
+    "english": "forget",
+    "pos": "B1"
+  },
+  "dabei": {
+    "lemma": "dabei",
+    "english": "in the process",
+    "pos": "B1"
+  },
+  "empfehlen": {
+    "lemma": "empfehlen",
+    "english": "recommend",
+    "pos": "B1"
+  },
+  "balance": {
+    "lemma": "balance",
+    "english": "balance",
+    "pos": "B1"
+  },
+  "zwischen": {
+    "lemma": "zwischen",
+    "english": "between",
+    "pos": "B1"
+  },
+  "freizeit": {
+    "lemma": "freizeit",
+    "english": "leisure",
+    "pos": "B1"
+  },
+  "regelmäßiger": {
+    "lemma": "regelmäßiger",
+    "english": "regular",
+    "pos": "B1"
+  },
+  "gesunde": {
+    "lemma": "gesunde",
+    "english": "healthy",
+    "pos": "B1"
+  },
+  "ernährung": {
+    "lemma": "ernährung",
+    "english": "diet",
+    "pos": "B1"
+  },
+  "genügend": {
+    "lemma": "genügend",
+    "english": "enough",
+    "pos": "B1"
+  },
+  "pausen": {
+    "lemma": "pausen",
+    "english": "breaks",
+    "pos": "B1"
+  },
+  "können": {
+    "lemma": "können",
+    "english": "can",
+    "pos": "B1"
+  },
+  "helfen": {
+    "lemma": "helfen",
+    "english": "help",
+    "pos": "B1"
+  },
+  "ausgeglichener": {
+    "lemma": "ausgeglichener",
+    "english": "balanced",
+    "pos": "B1"
+  },
+  "lebensstil": {
+    "lemma": "lebensstil",
+    "english": "lifestyle",
+    "pos": "B1"
+  },
+  "verbessert": {
+    "lemma": "verbessert",
+    "english": "improves",
+    "pos": "B1"
+  },
+  "produktivität": {
+    "lemma": "produktivität",
+    "english": "productivity",
+    "pos": "B1"
+  },
+  "ursprünge": {
+    "lemma": "ursprünge",
+    "english": "origins",
+    "pos": "B1"
+  },
+  "liegen": {
+    "lemma": "liegen",
+    "english": "liegen",
+    "pos": "B1"
+  },
+  "wahrscheinlich": {
+    "lemma": "wahrscheinlich",
+    "english": "probably",
+    "pos": "B1"
+  },
+  "äthiopien": {
+    "lemma": "äthiopien",
+    "english": "Ethiopia",
+    "pos": "B1"
+  },
+  "verbreitete": {
+    "lemma": "verbreitete",
+    "english": "spread",
+    "pos": "B1"
+  },
+  "getränk": {
+    "lemma": "getränk",
+    "english": "drink",
+    "pos": "B1"
+  },
+  "nahen": {
+    "lemma": "nahen",
+    "english": "Middle",
+    "pos": "B1"
+  },
+  "osten": {
+    "lemma": "osten",
+    "english": "East",
+    "pos": "B1"
+  },
+  "jahrhundert": {
+    "lemma": "jahrhundert",
+    "english": "century",
+    "pos": "B1"
+  },
+  "entstanden": {
+    "lemma": "entstanden",
+    "english": "emerged",
+    "pos": "B1"
+  },
+  "kaffeehäuser": {
+    "lemma": "kaffeehäuser",
+    "english": "coffee houses",
+    "pos": "B1"
+  },
+  "wurden": {
+    "lemma": "wurden",
+    "english": "became",
+    "pos": "B1"
+  },
+  "wichtigen": {
+    "lemma": "wichtigen",
+    "english": "important",
+    "pos": "B1"
+  },
+  "orten": {
+    "lemma": "orten",
+    "english": "place",
+    "pos": "B1"
+  },
+  "gespräche": {
+    "lemma": "gespräche",
+    "english": "conversations",
+    "pos": "B1"
+  },
+  "kaffeehaus": {
+    "lemma": "kaffeehaus",
+    "english": "coffee house",
+    "pos": "B1"
+  },
+  "lesen": {
+    "lemma": "lesen",
+    "english": "reading",
+    "pos": "B1"
+  },
+  "als": {
+    "lemma": "als",
+    "english": "als",
+    "pos": "B1"
+  },
+  "unterhaltung": {
+    "lemma": "unterhaltung",
+    "english": "entertainment",
+    "pos": "B1"
+  },
+  "wissen": {
+    "lemma": "wissen",
+    "english": "knowledge",
+    "pos": "B1"
+  },
+  "vermitteln": {
+    "lemma": "vermitteln",
+    "english": "provide",
+    "pos": "B1"
+  },
+  "vorstellungskraft": {
+    "lemma": "vorstellungskraft",
+    "english": "imagination",
+    "pos": "B1"
+  },
+  "erweitern": {
+    "lemma": "erweitern",
+    "english": "expand",
+    "pos": "B1"
+  },
+  "gutes": {
+    "lemma": "gutes",
+    "english": "good",
+    "pos": "B1"
+  },
+  "kopf": {
+    "lemma": "kopf",
+    "english": "Kopf",
+    "pos": "B1"
+  },
+  "minimalismus": {
+    "lemma": "minimalismus",
+    "english": "minimalism",
+    "pos": "B1"
+  },
+  "lebensweise": {
+    "lemma": "lebensweise",
+    "english": "way of life",
+    "pos": "B1"
+  },
+  "bei": {
+    "lemma": "bei",
+    "english": "bei",
+    "pos": "B1"
+  },
+  "bewusst": {
+    "lemma": "bewusst",
+    "english": "consciously",
+    "pos": "B1"
+  },
+  "weniger": {
+    "lemma": "weniger",
+    "english": "less",
+    "pos": "B1"
+  },
+  "besitzen": {
+    "lemma": "besitzen",
+    "english": "own",
+    "pos": "B1"
+  },
+  "konzentrieren": {
+    "lemma": "konzentrieren",
+    "english": "focus",
+    "pos": "B1"
+  },
+  "minimalisten": {
+    "lemma": "minimalisten",
+    "english": "minimalists",
+    "pos": "B1"
+  },
+  "besitz": {
+    "lemma": "besitz",
+    "english": "possessions",
+    "pos": "B1"
+  },
+  "freiheit": {
+    "lemma": "freiheit",
+    "english": "freedom",
+    "pos": "B1"
+  },
+  "bedeutet": {
+    "lemma": "bedeutet",
+    "english": "means",
+    "pos": "B1"
+  },
+  "philosophie": {
+    "lemma": "philosophie",
+    "english": "philosophy",
+    "pos": "B1"
+  },
+  "ihnen": {
+    "lemma": "ihnen",
+    "english": "them",
+    "pos": "B1"
+  },
+  "erfahrungen": {
+    "lemma": "erfahrungen",
+    "english": "experiences",
+    "pos": "B1"
+  },
+  "statt": {
+    "lemma": "statt",
+    "english": "instead of",
+    "pos": "B1"
+  },
+  "neues": {
+    "lemma": "neues",
+    "english": "new",
+    "pos": "B1"
+  },
+  "eröffnet": {
+    "lemma": "eröffnet",
+    "english": "opened",
+    "pos": "B1"
+  },
+  "kombiniert": {
+    "lemma": "kombiniert",
+    "english": "combines",
+    "pos": "B1"
+  },
+  "traditionelle": {
+    "lemma": "traditionelle",
+    "english": "traditional",
+    "pos": "B1"
+  },
+  "modernen": {
+    "lemma": "modernen",
     "english": "modern",
-    "pos": "unknown"
+    "pos": "B1"
   },
-  "großen": {
-    "lemma": "großen",
-    "english": "major",
-    "pos": "unknown"
+  "chefkoch": {
+    "lemma": "chefkoch",
+    "english": "head chef",
+    "pos": "B1"
   },
-  "wachsende": {
-    "lemma": "wachsende",
-    "english": "growing",
-    "pos": "unknown"
+  "verwendet": {
+    "lemma": "verwendet",
+    "english": "uses",
+    "pos": "B1"
   },
-  "bevölkerungen": {
-    "lemma": "bevölkerungen",
-    "english": "populations",
-    "pos": "unknown"
+  "regionale": {
+    "lemma": "regionale",
+    "english": "regional",
+    "pos": "B1"
   },
-  "umweltprobleme": {
-    "lemma": "umweltprobleme",
-    "english": "environmental problems",
-    "pos": "unknown"
+  "zutaten": {
+    "lemma": "zutaten",
+    "english": "ingredients",
+    "pos": "B1"
   },
-  "verkehr": {
-    "lemma": "verkehr",
-    "english": "traffic",
-    "pos": "unknown"
+  "gäste": {
+    "lemma": "gäste",
+    "english": "guests",
+    "pos": "B1"
   },
-  "erfordern": {
-    "lemma": "erfordern",
-    "english": "require",
-    "pos": "unknown"
+  "wegen": {
+    "lemma": "wegen",
+    "english": "because of",
+    "pos": "B1"
   },
-  "lösungen": {
-    "lemma": "lösungen",
-    "english": "solutions",
-    "pos": "unknown"
+  "kreativen": {
+    "lemma": "kreativen",
+    "english": "creative",
+    "pos": "B1"
   },
-  "investieren": {
-    "lemma": "investieren",
-    "english": "investieren",
-    "pos": "unknown"
+  "küche": {
+    "lemma": "küche",
+    "english": "cuisine",
+    "pos": "B1"
   },
-  "deshalb": {
-    "lemma": "deshalb",
-    "english": "therefore",
-    "pos": "unknown"
+  "beliebten": {
+    "lemma": "beliebten",
+    "english": "popular",
+    "pos": "B1"
   },
-  "sogenannte": {
-    "lemma": "sogenannte",
-    "english": "so-called",
-    "pos": "unknown"
+  "gast": {
+    "lemma": "gast",
+    "english": "guest",
+    "pos": "B1"
   },
-  "smart": {
-    "lemma": "smart",
-    "english": "smart",
-    "pos": "unknown"
+  "beeinflusst": {
+    "lemma": "beeinflusst",
+    "english": "influences",
+    "pos": "B1"
   },
-  "city": {
-    "lemma": "city",
-    "english": "city",
-    "pos": "unknown"
+  "fast": {
+    "lemma": "fast",
+    "english": "almost",
+    "pos": "B1"
   },
-  "nutzen": {
-    "lemma": "nutzen",
-    "english": "use",
-    "pos": "unknown"
+  "bereich": {
+    "lemma": "bereich",
+    "english": "area",
+    "pos": "B1"
+  },
+  "unseres": {
+    "lemma": "unseres",
+    "english": "our",
+    "pos": "B1"
+  },
+  "lebens": {
+    "lemma": "lebens",
+    "english": "Lebens",
+    "pos": "B1"
+  },
+  "verändert": {
+    "lemma": "verändert",
+    "english": "changes",
+    "pos": "B1"
+  },
+  "art": {
+    "lemma": "art",
+    "english": "way",
+    "pos": "B1"
+  },
+  "kommunizieren": {
+    "lemma": "kommunizieren",
+    "english": "communicate",
+    "pos": "B1"
+  },
+  "möglichkeiten": {
+    "lemma": "möglichkeiten",
+    "english": "Möglichkeiten",
+    "pos": "B1"
+  },
+  "herausforderungen": {
+    "lemma": "herausforderungen",
+    "english": "challenges",
+    "pos": "B1"
+  },
+  "datenschutz": {
+    "lemma": "datenschutz",
+    "english": "Datenschutz",
+    "pos": "B1"
+  },
+  "digitale": {
+    "lemma": "digitale",
+    "english": "digital",
+    "pos": "B1"
+  },
+  "verantwortung": {
+    "lemma": "verantwortung",
+    "english": "responsibility",
+    "pos": "B1"
+  },
+  "kommunikation": {
+    "lemma": "kommunikation",
+    "english": "communication",
+    "pos": "B1"
   },
   "daten": {
     "lemma": "daten",
     "english": "data",
-    "pos": "unknown"
+    "pos": "B1"
+  },
+  "digital": {
+    "lemma": "digital",
+    "english": "digital",
+    "pos": "B1"
+  },
+  "stellen": {
+    "lemma": "stellen",
+    "english": "imagine",
+    "pos": "B1"
+  },
+  "ganzen": {
+    "lemma": "ganzen",
+    "english": "whole",
+    "pos": "B1"
+  },
+  "ohne": {
+    "lemma": "ohne",
+    "english": "without",
+    "pos": "B1"
+  },
+  "internet": {
+    "lemma": "internet",
+    "english": "internet",
+    "pos": "B1"
+  },
+  "würden": {
+    "lemma": "würden",
+    "english": "would",
+    "pos": "B1"
+  },
+  "zunächst": {
+    "lemma": "zunächst",
+    "english": "at first",
+    "pos": "B1"
+  },
+  "verloren": {
+    "lemma": "verloren",
+    "english": "lost",
+    "pos": "B1"
+  },
+  "fühlen": {
+    "lemma": "fühlen",
+    "english": "fühlen",
+    "pos": "B1"
+  },
+  "vielleicht": {
+    "lemma": "vielleicht",
+    "english": "perhaps",
+    "pos": "B1"
+  },
+  "hätten": {
+    "lemma": "hätten",
+    "english": "would have",
+    "pos": "B1"
+  },
+  "spaziergänge": {
+    "lemma": "spaziergänge",
+    "english": "walks",
+    "pos": "B1"
+  },
+  "abhängig": {
+    "lemma": "abhängig",
+    "english": "dependent",
+    "pos": "B1"
+  },
+  "gespräch": {
+    "lemma": "gespräch",
+    "english": "conversation",
+    "pos": "B1"
+  },
+  "abhängigkeit": {
+    "lemma": "abhängigkeit",
+    "english": "dependence",
+    "pos": "B1"
+  },
+  "rasanten": {
+    "lemma": "rasanten",
+    "english": "rapid",
+    "pos": "B2"
+  },
+  "künstlichen": {
+    "lemma": "künstlichen",
+    "english": "artificial",
+    "pos": "B2"
+  },
+  "entstehen": {
+    "lemma": "entstehen",
+    "english": "arise",
+    "pos": "B2"
+  },
+  "ethische": {
+    "lemma": "ethische",
+    "english": "ethical",
+    "pos": "B2"
+  },
+  "fragen": {
+    "lemma": "fragen",
+    "english": "questions",
+    "pos": "B2"
+  },
+  "algorithmen": {
+    "lemma": "algorithmen",
+    "english": "algorithms",
+    "pos": "B2"
+  },
+  "entscheidungen": {
+    "lemma": "entscheidungen",
+    "english": "decisions",
+    "pos": "B2"
+  },
+  "treffen": {
+    "lemma": "treffen",
+    "english": "treffen",
+    "pos": "B2"
+  },
+  "früher": {
+    "lemma": "früher",
+    "english": "once",
+    "pos": "B2"
+  },
+  "vorbehalten": {
+    "lemma": "vorbehalten",
+    "english": "reserved",
+    "pos": "B2"
+  },
+  "waren": {
+    "lemma": "waren",
+    "english": "was",
+    "pos": "B2"
+  },
+  "trägt": {
+    "lemma": "trägt",
+    "english": "bears",
+    "pos": "B2"
+  },
+  "wenn": {
+    "lemma": "wenn",
+    "english": "when",
+    "pos": "B2"
+  },
+  "maschine": {
+    "lemma": "maschine",
+    "english": "machine",
+    "pos": "B2"
+  },
+  "fehler": {
+    "lemma": "fehler",
+    "english": "mistake",
+    "pos": "B2"
+  },
+  "fordern": {
+    "lemma": "fordern",
+    "english": "call for",
+    "pos": "B2"
+  },
+  "klare": {
+    "lemma": "klare",
+    "english": "clear",
+    "pos": "B2"
+  },
+  "regeln": {
+    "lemma": "regeln",
+    "english": "rules",
+    "pos": "B2"
+  },
+  "transparenz": {
+    "lemma": "transparenz",
+    "english": "transparency",
+    "pos": "B2"
+  },
+  "hängt": {
+    "lemma": "hängt",
+    "english": "depends",
+    "pos": "B2"
+  },
+  "davon": {
+    "lemma": "davon",
+    "english": "on it",
+    "pos": "B2"
+  },
+  "ab": {
+    "lemma": "ab",
+    "english": "ab",
+    "pos": "B2"
+  },
+  "verantwortungsvoll": {
+    "lemma": "verantwortungsvoll",
+    "english": "responsibly",
+    "pos": "B2"
+  },
+  "einsetzen": {
+    "lemma": "einsetzen",
+    "english": "use",
+    "pos": "B2"
+  },
+  "ethik": {
+    "lemma": "ethik",
+    "english": "ethics",
+    "pos": "B2"
+  },
+  "künstlicheintelligenz": {
+    "lemma": "künstlicheintelligenz",
+    "english": "artificial intelligence",
+    "pos": "B2"
+  },
+  "algorithmus": {
+    "lemma": "algorithmus",
+    "english": "algorithm",
+    "pos": "B2"
+  },
+  "effektivsten": {
+    "lemma": "effektivsten",
+    "english": "most effective",
+    "pos": "B2"
+  },
+  "formen": {
+    "lemma": "formen",
+    "english": "forms",
+    "pos": "B2"
+  },
+  "des": {
+    "lemma": "des",
+    "english": "des",
+    "pos": "B2"
+  },
+  "lernens": {
+    "lemma": "lernens",
+    "english": "Lernens",
+    "pos": "B2"
+  },
+  "länder": {
+    "lemma": "länder",
+    "english": "countries",
+    "pos": "B2"
+  },
+  "besuchen": {
+    "lemma": "besuchen",
+    "english": "visit",
+    "pos": "B2"
+  },
+  "erleben": {
+    "lemma": "erleben",
+    "english": "experience",
+    "pos": "B2"
+  },
+  "unterschiedliche": {
+    "lemma": "unterschiedliche",
+    "english": "different",
+    "pos": "B2"
+  },
+  "erster": {
+    "lemma": "erster",
+    "english": "first",
+    "pos": "B2"
+  },
+  "hand": {
+    "lemma": "hand",
+    "english": "hand",
+    "pos": "B2"
+  },
+  "unser": {
+    "lemma": "unser",
+    "english": "our",
+    "pos": "B2"
+  },
+  "reisende": {
+    "lemma": "reisende",
+    "english": "travelers",
+    "pos": "B2"
+  },
+  "berichten": {
+    "lemma": "berichten",
+    "english": "report",
+    "pos": "B2"
+  },
+  "längeren": {
+    "lemma": "längeren",
+    "english": "longer",
+    "pos": "B2"
+  },
+  "offener": {
+    "lemma": "offener",
+    "english": "more open",
+    "pos": "B2"
+  },
+  "toleranter": {
+    "lemma": "toleranter",
+    "english": "more tolerant",
+    "pos": "B2"
+  },
+  "geworden": {
+    "lemma": "geworden",
+    "english": "geworden",
+    "pos": "B2"
+  },
+  "eines": {
+    "lemma": "eines",
+    "english": "one",
+    "pos": "B2"
+  },
+  "größten": {
+    "lemma": "größten",
+    "english": "greatest",
+    "pos": "B2"
+  },
+  "rätsel": {
+    "lemma": "rätsel",
+    "english": "mysteries",
+    "pos": "B2"
+  },
+  "menschlichen": {
+    "lemma": "menschlichen",
+    "english": "human",
+    "pos": "B2"
+  },
+  "messen": {
+    "lemma": "messen",
+    "english": "measure",
+    "pos": "B2"
+  },
+  "uhren": {
+    "lemma": "uhren",
+    "english": "clocks",
+    "pos": "B2"
+  },
+  "kalendern": {
+    "lemma": "kalendern",
+    "english": "calendars",
+    "pos": "B2"
+  },
+  "wesen": {
+    "lemma": "wesen",
+    "english": "nature",
+    "pos": "B2"
+  },
+  "bleibt": {
+    "lemma": "bleibt",
+    "english": "remains",
+    "pos": "B2"
+  },
+  "schwer": {
+    "lemma": "schwer",
+    "english": "difficult",
+    "pos": "B2"
+  },
+  "verstehen": {
+    "lemma": "verstehen",
+    "english": "verstehen",
+    "pos": "B2"
+  },
+  "philosophen": {
+    "lemma": "philosophen",
+    "english": "philosophers",
+    "pos": "B2"
+  },
+  "linearen": {
+    "lemma": "linearen",
+    "english": "linear",
+    "pos": "B2"
+  },
+  "prozess": {
+    "lemma": "prozess",
+    "english": "process",
+    "pos": "B2"
+  },
+  "subjektive": {
+    "lemma": "subjektive",
+    "english": "subjective",
+    "pos": "B2"
+  },
+  "wahrnehmung": {
+    "lemma": "wahrnehmung",
+    "english": "perception",
+    "pos": "B2"
+  },
+  "entscheidung": {
+    "lemma": "entscheidung",
+    "english": "decision",
+    "pos": "B2"
+  },
+  "moderne": {
+    "lemma": "moderne",
+    "english": "modern",
+    "pos": "B2"
+  },
+  "großen": {
+    "lemma": "großen",
+    "english": "major",
+    "pos": "B2"
+  },
+  "wachsende": {
+    "lemma": "wachsende",
+    "english": "growing",
+    "pos": "B2"
+  },
+  "bevölkerungen": {
+    "lemma": "bevölkerungen",
+    "english": "populations",
+    "pos": "B2"
+  },
+  "umweltprobleme": {
+    "lemma": "umweltprobleme",
+    "english": "environmental problems",
+    "pos": "B2"
+  },
+  "verkehr": {
+    "lemma": "verkehr",
+    "english": "traffic",
+    "pos": "B2"
+  },
+  "erfordern": {
+    "lemma": "erfordern",
+    "english": "require",
+    "pos": "B2"
+  },
+  "lösungen": {
+    "lemma": "lösungen",
+    "english": "solutions",
+    "pos": "B2"
+  },
+  "investieren": {
+    "lemma": "investieren",
+    "english": "investieren",
+    "pos": "B2"
+  },
+  "deshalb": {
+    "lemma": "deshalb",
+    "english": "therefore",
+    "pos": "B2"
+  },
+  "sogenannte": {
+    "lemma": "sogenannte",
+    "english": "so-called",
+    "pos": "B2"
+  },
+  "smart": {
+    "lemma": "smart",
+    "english": "smart",
+    "pos": "B2"
+  },
+  "city": {
+    "lemma": "city",
+    "english": "city",
+    "pos": "B2"
+  },
+  "nutzen": {
+    "lemma": "nutzen",
+    "english": "use",
+    "pos": "B2"
   },
   "transport": {
     "lemma": "transport",
     "english": "transport",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "infrastruktur": {
     "lemma": "infrastruktur",
     "english": "infrastructure",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "effizienter": {
     "lemma": "effizienter",
     "english": "more efficient",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "gestalten": {
     "lemma": "gestalten",
-    "english": "gestalten",
-    "pos": "unknown"
+    "english": "shapes",
+    "pos": "B2"
   },
-  "idee": {
-    "lemma": "idee",
-    "english": "Idee",
-    "pos": "unknown"
+  "smartcity": {
+    "lemma": "smartcity",
+    "english": "smart city",
+    "pos": "B2"
   },
   "demokratie": {
     "lemma": "demokratie",
     "english": "democracy",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "entwickelte": {
     "lemma": "entwickelte",
     "english": "developed",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "jahrhunderte": {
     "lemma": "jahrhunderte",
     "english": "centuries",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "schon": {
     "lemma": "schon",
     "english": "even",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "antiken": {
     "lemma": "antiken",
     "english": "ancient",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "griechenland": {
     "lemma": "griechenland",
     "english": "Greece",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "experimentierten": {
     "lemma": "experimentierten",
     "english": "experimented",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "bürgerbeteiligung": {
     "lemma": "bürgerbeteiligung",
     "english": "citizen participation",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "demokratien": {
     "lemma": "demokratien",
     "english": "democracies",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "erst": {
     "lemma": "erst",
     "english": "erst",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "basieren": {
     "lemma": "basieren",
     "english": "basieren",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "prinzipien": {
     "lemma": "prinzipien",
     "english": "principles",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "gleichheit": {
     "lemma": "gleichheit",
     "english": "equality",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "rechtsstaatlichkeit": {
     "lemma": "rechtsstaatlichkeit",
     "english": "rule of law",
-    "pos": "unknown"
-  },
-  "geschmack": {
-    "lemma": "geschmack",
-    "english": "taste",
-    "pos": "unknown"
-  },
-  "bestimmt": {
-    "lemma": "bestimmt",
-    "english": "bestimmt",
-    "pos": "unknown"
-  },
-  "kultur": {
-    "lemma": "kultur",
-    "english": "Kultur",
-    "pos": "unknown"
-  },
-  "wirtschaft": {
-    "lemma": "wirtschaft",
-    "english": "economy",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "politik": {
     "lemma": "politik",
     "english": "politics",
-    "pos": "unknown"
+    "pos": "B2"
+  },
+  "geschmack": {
+    "lemma": "geschmack",
+    "english": "taste",
+    "pos": "B2"
+  },
+  "bestimmt": {
+    "lemma": "bestimmt",
+    "english": "bestimmt",
+    "pos": "B2"
+  },
+  "wirtschaft": {
+    "lemma": "wirtschaft",
+    "english": "economy",
+    "pos": "B2"
   },
   "ländern": {
     "lemma": "ländern",
     "english": "countries",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "globalisierung": {
     "lemma": "globalisierung",
     "english": "globalization",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "gleichzeitig": {
     "lemma": "gleichzeitig",
     "english": "at the same time",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "wächst": {
     "lemma": "wächst",
     "english": "grows",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "interesse": {
     "lemma": "interesse",
     "english": "interest",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "nachhaltiger": {
     "lemma": "nachhaltiger",
     "english": "sustainable",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "gesunder": {
     "lemma": "gesunder",
-    "english": "gesunder",
-    "pos": "unknown"
+    "english": "more healthily",
+    "pos": "A2"
+  },
+  "nachhaltigkeit": {
+    "lemma": "nachhaltigkeit",
+    "english": "sustainability",
+    "pos": "B2"
   },
   "begleiten": {
     "lemma": "begleiten",
     "english": "accompany",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "menschheit": {
     "lemma": "menschheit",
     "english": "humanity",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "seit": {
     "lemma": "seit",
     "english": "seit",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "ihren": {
     "lemma": "ihren",
     "english": "its",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "anfängen": {
     "lemma": "anfängen",
     "english": "beginnings",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "weiterzugeben": {
     "lemma": "weiterzugeben",
     "english": "pass on",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "mögliche": {
     "lemma": "mögliche",
     "english": "possible",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "zukünfte": {
     "lemma": "zukünfte",
     "english": "futures",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "erzählen": {
     "lemma": "erzählen",
     "english": "storytelling",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "grundlegendsten": {
     "lemma": "grundlegendsten",
     "english": "most fundamental",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "kreativität": {
     "lemma": "kreativität",
     "english": "creativity",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "kunst": {
     "lemma": "kunst",
     "english": "art",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "verbunden": {
     "lemma": "verbunden",
     "english": "associated",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "wissenschaft": {
     "lemma": "wissenschaft",
     "english": "science",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "häufig": {
     "lemma": "häufig",
     "english": "häufig",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "wo": {
     "lemma": "wo",
     "english": "wo",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "kombinieren": {
     "lemma": "kombinieren",
     "english": "combine",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "gesellschaften": {
     "lemma": "gesellschaften",
     "english": "societies",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "fördern": {
     "lemma": "fördern",
     "english": "encourage",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "innovative": {
     "lemma": "innovative",
     "english": "innovative",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "komplexe": {
     "lemma": "komplexe",
     "english": "complex",
-    "pos": "unknown"
+    "pos": "B2"
+  },
+  "innovation": {
+    "lemma": "innovation",
+    "english": "innovation",
+    "pos": "B2"
+  },
+  "gesellschaft": {
+    "lemma": "gesellschaft",
+    "english": "Gesellschaft",
+    "pos": "B2"
   },
   "gewohnheiten": {
     "lemma": "gewohnheiten",
     "english": "habits",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "beeinflussen": {
     "lemma": "beeinflussen",
     "english": "influence",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "alltags": {
     "lemma": "alltags",
     "english": "Alltags",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "wiederholte": {
     "lemma": "wiederholte",
     "english": "repeated",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "handlungen": {
     "lemma": "handlungen",
     "english": "actions",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "bestimmten": {
     "lemma": "bestimmten",
     "english": "certain",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "situationen": {
     "lemma": "situationen",
     "english": "situations",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "psychologen": {
     "lemma": "psychologen",
     "english": "psychologists",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "erklären": {
     "lemma": "erklären",
     "english": "explain",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "auswirkungen": {
     "lemma": "auswirkungen",
     "english": "effects",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "gestaltet": {
     "lemma": "gestaltet",
     "english": "shapes",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "langfristig": {
     "lemma": "langfristig",
     "english": "in the long term",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "verhalten": {
     "lemma": "verhalten",
     "english": "behavior",
-    "pos": "unknown"
+    "pos": "B2"
+  },
+  "gewohnheit": {
+    "lemma": "gewohnheit",
+    "english": "habit",
+    "pos": "B2"
+  },
+  "psychologie": {
+    "lemma": "psychologie",
+    "english": "psychology",
+    "pos": "B2"
+  },
+  "veränderung": {
+    "lemma": "veränderung",
+    "english": "change",
+    "pos": "B2"
   },
   "je": {
     "lemma": "je",
     "english": "the more",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "stärker": {
     "lemma": "stärker",
     "english": "more strongly",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "prägt": {
     "lemma": "prägt",
     "english": "shapes",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "desto": {
     "lemma": "desto",
     "english": "the",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "frage": {
     "lemma": "frage",
     "english": "question",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "unserer": {
     "lemma": "unserer",
     "english": "our",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "menschlichkeit": {
     "lemma": "menschlichkeit",
     "english": "humanity",
-    "pos": "unknown"
-  },
-  "kommunikation": {
-    "lemma": "kommunikation",
-    "english": "Kommunikation",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "erleichtern": {
     "lemma": "erleichtern",
     "english": "make easier",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "distanz": {
     "lemma": "distanz",
     "english": "distance",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "schaffen": {
     "lemma": "schaffen",
     "english": "schaffen",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "herausforderung": {
     "lemma": "herausforderung",
     "english": "challenge",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "besteht": {
     "lemma": "besteht",
     "english": "is",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "darin": {
     "lemma": "darin",
     "english": "in",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "menschliche": {
     "lemma": "menschliche",
     "english": "human",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "werte": {
     "lemma": "werte",
     "english": "values",
-    "pos": "unknown"
+    "pos": "B2"
   },
   "unterstützt": {
     "lemma": "unterstützt",
     "english": "unterstützt",
-    "pos": "unknown"
+    "pos": "B2"
   }
 }

@@ -20,7 +20,7 @@ class StoryService {
 
     try {
       final jsonString = await rootBundle
-          .loadString('assets/stories/german_learning_stories_A1_B2_translated.json');
+          .loadString('assets/stories/german_learning_stories_A1_B2_translated_updated.json');
       final Map<String, dynamic> data = json.decode(jsonString);
 
       if (data.containsKey('stories')) {
