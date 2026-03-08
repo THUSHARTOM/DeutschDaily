@@ -18,20 +18,20 @@ class StoryService {
   Future<void> load() async {
     if (_loaded) return;
 
-    final levels = ['A1', 'A2', 'B1', 'B2'];
+    try {
+      final jsonString = await rootBundle
+          .loadString('assets/stories/german_learning_stories_A1_B2_translated.json');
+      final Map<String, dynamic> data = json.decode(jsonString);
 
-    for (final level in levels) {
-      try {
-        final jsonString = await rootBundle
-            .loadString('assets/stories/stories_$level.json');
-        final List<dynamic> data = json.decode(jsonString);
-
-        for (final item in data) {
+      if (data.containsKey('stories')) {
+        final storyList = data['stories'] as List;
+        for (final item in storyList) {
           _stories.add(Story.fromJson(item as Map<String, dynamic>));
         }
-      } catch (e) {
-        // Skip missing files gracefully — allows partial content
       }
+    } catch (e) {
+      // ignore: avoid_print
+      print('Error loading stories: $e');
     }
 
     _loaded = true;

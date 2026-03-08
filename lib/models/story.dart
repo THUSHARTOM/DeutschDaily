@@ -35,7 +35,9 @@ class Story {
       keywords: List<String>.from(json['keywords'] as List),
       translatedSentences: json['translatedSentences'] != null 
           ? List<String>.from(json['translatedSentences'] as List)
-          : [],
+          : (json['sentences'] != null 
+              ? (json['sentences'] as List).map((s) => s['en'] as String).toList() 
+              : []),
     );
   }
 
