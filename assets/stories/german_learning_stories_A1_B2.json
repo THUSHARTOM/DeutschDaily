@@ -1,0 +1,564 @@
+{
+  "stories": [
+    {
+      "id": "A1_01",
+      "title": "Ein Morgen im Café",
+      "level": "A1",
+      "category": "food",
+      "text": "Anna geht jeden Morgen in ein kleines Café in der Stadt. Das Café ist ruhig und warm. \nDer Kellner sagt: „Guten Morgen!“ Anna bestellt einen Kaffee und ein kleines Brot mit Butter. \nAm Tisch neben ihr sitzt ein alter Mann. Er liest eine Zeitung und trinkt Tee.\nAnna mag diesen Ort. Sie hört leise Musik und schaut aus dem Fenster. Menschen gehen zur Arbeit.\nNach dem Frühstück schreibt Anna eine kurze Nachricht an ihre Freundin. Dann bezahlt sie und sagt:\n„Danke, bis morgen!“",
+      "keywords": [
+        "Café",
+        "Kaffee",
+        "Brot",
+        "Butter",
+        "Frühstück"
+      ]
+    },
+    {
+      "id": "A1_02",
+      "title": "Der kleine Markt",
+      "level": "A1",
+      "category": "food",
+      "text": "Samstag ist Markttag in der Stadt. Viele Menschen gehen zum Markt. \nEs gibt frisches Obst, Gemüse und Brot. Maria kauft Tomaten, Äpfel und Käse.\nEin Verkäufer sagt: „Diese Äpfel sind sehr süß!“\nMaria probiert einen Apfel und lächelt.\nSie kauft auch Blumen für ihre Wohnung. Am Ende trinkt sie einen Saft am kleinen Stand.\nDer Markt ist bunt und laut, aber Maria mag die Atmosphäre.",
+      "keywords": [
+        "Markt",
+        "Obst",
+        "Gemüse",
+        "Apfel",
+        "Käse"
+      ]
+    },
+    {
+      "id": "A1_03",
+      "title": "Der erste Arbeitstag",
+      "level": "A1",
+      "category": "daily life",
+      "text": "Paul hat heute seinen ersten Arbeitstag. Er steht früh auf und trinkt schnell Kaffee.\nDann fährt er mit dem Bus ins Büro. Seine Kollegin Laura zeigt ihm den Arbeitsplatz.\nPaul lernt viele neue Menschen kennen. Alle sind freundlich.\nIn der Mittagspause essen sie zusammen im kleinen Restaurant.\nPaul fühlt sich etwas nervös, aber auch glücklich.\nAm Abend sagt er: „Der erste Tag war gut!“",
+      "keywords": [
+        "Arbeit",
+        "Büro",
+        "Kollegen",
+        "Bus",
+        "Mittagspause"
+      ]
+    },
+    {
+      "id": "A1_04",
+      "title": "Ein Spaziergang im Park",
+      "level": "A1",
+      "category": "health",
+      "text": "Lisa geht gern im Park spazieren. Der Park ist groß und grün.\nViele Menschen laufen oder fahren Fahrrad.\nLisa hört Musik und geht langsam unter den Bäumen.\nSie sieht Kinder spielen und Hunde laufen.\nNach einer Stunde setzt sie sich auf eine Bank und trinkt Wasser.\nFrische Luft macht sie glücklich.",
+      "keywords": [
+        "Park",
+        "Spaziergang",
+        "Baum",
+        "Bank",
+        "Luft"
+      ]
+    },
+    {
+      "id": "A1_05",
+      "title": "Mein Lieblingsessen",
+      "level": "A1",
+      "category": "food",
+      "text": "Mein Lieblingsessen ist Pasta. Ich koche Pasta oft am Abend.\nZuerst koche ich Wasser. Dann kommen die Nudeln in den Topf.\nIch mache eine einfache Tomatensauce mit Salz und Öl.\nAm Ende kommt Käse auf die Pasta.\nMeine Freunde sagen: „Das schmeckt sehr gut!“\nWir essen zusammen und sprechen über unseren Tag.",
+      "keywords": [
+        "Pasta",
+        "Nudeln",
+        "Sauce",
+        "Käse",
+        "kochen"
+      ]
+    },
+    {
+      "id": "A1_06",
+      "title": "Eine Reise nach Berlin",
+      "level": "A1",
+      "category": "travel",
+      "text": "Tom fährt mit dem Zug nach Berlin. Die Reise dauert zwei Stunden.\nIm Zug liest er ein Buch und hört Musik.\nIn Berlin sieht er viele große Gebäude.\nEr besucht das Brandenburger Tor und macht Fotos.\nAm Abend isst er Currywurst und geht ins Hotel.\nBerlin ist eine interessante Stadt.",
+      "keywords": [
+        "Zug",
+        "Reise",
+        "Berlin",
+        "Hotel",
+        "Foto"
+      ]
+    },
+    {
+      "id": "A1_07",
+      "title": "Der neue Laptop",
+      "level": "A1",
+      "category": "technology",
+      "text": "Julia braucht einen neuen Laptop. Ihr alter Computer ist langsam.\nIm Geschäft zeigt ein Verkäufer viele Modelle.\nJulia wählt einen kleinen und leichten Laptop.\nZu Hause öffnet sie den Computer und installiert Programme.\nJetzt kann sie besser arbeiten und Filme schauen.",
+      "keywords": [
+        "Laptop",
+        "Computer",
+        "Programm",
+        "arbeiten",
+        "Film"
+      ]
+    },
+    {
+      "id": "A1_08",
+      "title": "Sport am Morgen",
+      "level": "A1",
+      "category": "health",
+      "text": "Markus macht jeden Morgen Sport.\nEr läuft zwanzig Minuten im Park.\nDanach macht er ein paar Übungen zu Hause.\nSport gibt ihm Energie für den Tag.\nNach dem Training trinkt er Wasser und frühstückt.",
+      "keywords": [
+        "Sport",
+        "laufen",
+        "Übung",
+        "Energie",
+        "Training"
+      ]
+    },
+    {
+      "id": "A1_09",
+      "title": "Ein Besuch bei Oma",
+      "level": "A1",
+      "category": "daily life",
+      "text": "Heute besucht Lena ihre Oma.\nDie Oma wohnt in einem kleinen Haus.\nSie trinken zusammen Tee und essen Kuchen.\nDie Oma erzählt Geschichten aus ihrer Jugend.\nLena hört gern zu und lacht viel.\nAm Abend sagt sie: „Bis bald, Oma!“",
+      "keywords": [
+        "Oma",
+        "Haus",
+        "Tee",
+        "Kuchen",
+        "Geschichte"
+      ]
+    },
+    {
+      "id": "A1_10",
+      "title": "Der ruhige Abend",
+      "level": "A1",
+      "category": "daily life",
+      "text": "Nach der Arbeit geht Daniel nach Hause.\nEr kocht ein einfaches Abendessen und schaut eine Serie.\nSpäter liest er ein Buch im Bett.\nDer Tag war lang, aber ruhig.\nDaniel schläft schnell ein.",
+      "keywords": [
+        "Arbeit",
+        "Abendessen",
+        "Serie",
+        "Buch",
+        "schlafen"
+      ]
+    },
+    {
+      "id": "A2_01",
+      "title": "Eine Reise in die Berge",
+      "level": "A2",
+      "category": "travel",
+      "text": "Am Wochenende fährt Familie Weber in die Berge. \nDie Luft ist frisch und die Landschaft ist wunderschön. \nSie wandern auf einem kleinen Weg durch den Wald. \nUnterwegs sehen sie einen See und machen eine Pause. \nDie Kinder spielen am Wasser, während die Eltern Fotos machen. \nAm Abend essen sie in einer Berghütte Suppe und Brot.\nAlle sind müde, aber glücklich.",
+      "keywords": [
+        "Berge",
+        "Wanderung",
+        "See",
+        "Pause",
+        "Hütte"
+      ]
+    },
+    {
+      "id": "A2_02",
+      "title": "Das kleine Start-up",
+      "level": "A2",
+      "category": "technology",
+      "text": "Max und seine Freundin gründen ein kleines Start‑up.\nSie entwickeln eine App für Studenten.\nDie App hilft beim Lernen von Sprachen.\nAm Anfang arbeiten sie von zu Hause aus.\nSie haben viele Ideen, aber auch viele Probleme.\nLangsam finden sie neue Nutzer.\nMax sagt: „Geduld ist wichtig.“",
+      "keywords": [
+        "Start-up",
+        "App",
+        "Idee",
+        "Nutzer",
+        "Geduld"
+      ]
+    },
+    {
+      "id": "A2_03",
+      "title": "Gesundes Leben",
+      "level": "A2",
+      "category": "health",
+      "text": "Viele Menschen möchten heute gesünder leben.\nSie essen mehr Gemüse und treiben Sport.\nAuch guter Schlaf ist wichtig für den Körper.\nAnna versucht jeden Tag zehn Minuten zu meditieren.\nSie sagt, dass ihr das Ruhe und Energie gibt.",
+      "keywords": [
+        "Gesundheit",
+        "Gemüse",
+        "Schlaf",
+        "Meditation",
+        "Energie"
+      ]
+    },
+    {
+      "id": "A2_04",
+      "title": "Ein Tag im Museum",
+      "level": "A2",
+      "category": "history",
+      "text": "Jonas besucht ein großes Museum.\nDort sieht er alte Werkzeuge und Kleidung aus der Vergangenheit.\nEin Guide erklärt die Geschichte der Stadt.\nJonas lernt viel über das Leben vor hundert Jahren.\nAm Ende kauft er ein kleines Buch im Museumsshop.",
+      "keywords": [
+        "Museum",
+        "Geschichte",
+        "Vergangenheit",
+        "Guide",
+        "Ausstellung"
+      ]
+    },
+    {
+      "id": "A2_05",
+      "title": "Kochen mit Freunden",
+      "level": "A2",
+      "category": "food",
+      "text": "Am Freitagabend kommen Freunde zu Maria.\nSie kochen zusammen ein großes Abendessen.\nJeder bringt eine Zutat mit.\nAm Ende stehen viele verschiedene Gerichte auf dem Tisch.\nDie Freunde reden, lachen und probieren alles.\nEs ist ein sehr schöner Abend.",
+      "keywords": [
+        "Freunde",
+        "Gericht",
+        "Zutat",
+        "Abendessen",
+        "kochen"
+      ]
+    },
+    {
+      "id": "A2_06",
+      "title": "Der neue Fahrradweg",
+      "level": "A2",
+      "category": "travel",
+      "text": "In der Stadt gibt es einen neuen Fahrradweg.\nViele Menschen fahren jetzt mit dem Fahrrad zur Arbeit.\nDas ist gut für die Umwelt und für die Gesundheit.\nPaul fährt jeden Morgen zehn Minuten zur Arbeit.\nEr sagt, dass er sich danach wach und aktiv fühlt.",
+      "keywords": [
+        "Fahrrad",
+        "Umwelt",
+        "Arbeit",
+        "Gesundheit",
+        "Stadt"
+      ]
+    },
+    {
+      "id": "A2_07",
+      "title": "Das kleine Buchladen",
+      "level": "A2",
+      "category": "culture",
+      "text": "In einer ruhigen Straße gibt es einen kleinen Buchladen.\nDer Besitzer kennt viele seiner Kunden persönlich.\nMenschen kommen hierher, um neue Bücher zu entdecken.\nManchmal gibt es auch kleine Lesungen am Abend.\nDer Laden ist ein Treffpunkt für Leser.",
+      "keywords": [
+        "Buchladen",
+        "Lesung",
+        "Kunde",
+        "Buch",
+        "Straße"
+      ]
+    },
+    {
+      "id": "A2_08",
+      "title": "Der erste Programmierkurs",
+      "level": "A2",
+      "category": "technology",
+      "text": "Sara beginnt einen Onlinekurs für Programmierung.\nAm Anfang versteht sie viele Dinge nicht.\nDoch mit Übung wird es einfacher.\nSie schreibt kleine Programme auf ihrem Laptop.\nNach ein paar Wochen baut sie ihre erste Webseite.\nDas macht sie sehr stolz.",
+      "keywords": [
+        "Programmierung",
+        "Kurs",
+        "Laptop",
+        "Webseite",
+        "Übung"
+      ]
+    },
+    {
+      "id": "A2_09",
+      "title": "Ein ruhiger See",
+      "level": "A2",
+      "category": "travel",
+      "text": "Im Sommer fährt Tim oft zu einem See außerhalb der Stadt.\nDort schwimmt er oder liest ein Buch.\nDer Ort ist ruhig und entspannend.\nViele Menschen kommen hierher, um dem Stress der Stadt zu entkommen.",
+      "keywords": [
+        "See",
+        "Sommer",
+        "Stadt",
+        "Ruhe",
+        "Schwimmen"
+      ]
+    },
+    {
+      "id": "A2_10",
+      "title": "Warum wir reisen",
+      "level": "A2",
+      "category": "philosophy",
+      "text": "Menschen reisen aus vielen Gründen.\nManche wollen neue Kulturen sehen.\nAndere möchten einfach eine Pause vom Alltag.\nReisen kann unseren Blick auf die Welt verändern.\nMan lernt neue Menschen kennen und versteht andere Perspektiven.",
+      "keywords": [
+        "Reisen",
+        "Kultur",
+        "Welt",
+        "Perspektive",
+        "Alltag"
+      ]
+    },
+    {
+      "id": "B1_01",
+      "title": "Die Zukunft der Arbeit",
+      "level": "B1",
+      "category": "technology",
+      "text": "Viele Experten glauben, dass sich die Arbeit in den nächsten Jahren stark verändern wird.\nNeue Technologien wie künstliche Intelligenz und Automatisierung übernehmen bereits viele Aufgaben.\nEinige Menschen haben Angst vor diesen Veränderungen, während andere neue Chancen sehen.\nBildung und lebenslanges Lernen werden immer wichtiger.\nWer bereit ist, neue Fähigkeiten zu entwickeln, kann von dieser Entwicklung profitieren.",
+      "keywords": [
+        "Technologie",
+        "Automatisierung",
+        "Arbeit",
+        "Fähigkeiten",
+        "Zukunft"
+      ]
+    },
+    {
+      "id": "B1_02",
+      "title": "Eine lange Zugreise",
+      "level": "B1",
+      "category": "travel",
+      "text": "Sophie entscheidet sich für eine lange Zugreise durch Europa.\nSie besucht mehrere Städte und trifft unterwegs viele interessante Menschen.\nIm Zug liest sie Bücher, schreibt in ihr Tagebuch und schaut aus dem Fenster.\nDie Reise gibt ihr Zeit zum Nachdenken.\nAm Ende merkt sie, dass nicht nur das Ziel, sondern auch der Weg wichtig ist.",
+      "keywords": [
+        "Zugreise",
+        "Europa",
+        "Reise",
+        "Tagebuch",
+        "Erfahrung"
+      ]
+    },
+    {
+      "id": "B1_03",
+      "title": "Der Wert von Freundschaft",
+      "level": "B1",
+      "category": "philosophy",
+      "text": "Freundschaft spielt eine wichtige Rolle im Leben vieler Menschen.\nGute Freunde unterstützen uns in schwierigen Zeiten und teilen unsere Freude.\nDoch echte Freundschaft braucht Zeit und Vertrauen.\nMan muss bereit sein zuzuhören und ehrlich zu sein.\nNur so kann eine Beziehung wirklich wachsen.",
+      "keywords": [
+        "Freundschaft",
+        "Vertrauen",
+        "Beziehung",
+        "Zeit",
+        "Ehrlichkeit"
+      ]
+    },
+    {
+      "id": "B1_04",
+      "title": "Eine gesunde Balance",
+      "level": "B1",
+      "category": "health",
+      "text": "Viele Menschen arbeiten heute sehr viel und vergessen dabei ihre Gesundheit.\nExperten empfehlen eine gute Balance zwischen Arbeit und Freizeit.\nRegelmäßiger Sport, gesunde Ernährung und genügend Schlaf sind wichtig.\nAuch kurze Pausen während der Arbeit können helfen.\nEin ausgeglichener Lebensstil verbessert nicht nur die Gesundheit, sondern auch die Produktivität.",
+      "keywords": [
+        "Balance",
+        "Gesundheit",
+        "Sport",
+        "Schlaf",
+        "Produktivität"
+      ]
+    },
+    {
+      "id": "B1_05",
+      "title": "Die Geschichte des Kaffees",
+      "level": "B1",
+      "category": "history",
+      "text": "Kaffee hat eine lange und interessante Geschichte.\nSeine Ursprünge liegen wahrscheinlich in Äthiopien.\nVon dort verbreitete sich das Getränk in den Nahen Osten und später nach Europa.\nIm 17. Jahrhundert entstanden die ersten Kaffeehäuser.\nSie wurden schnell zu wichtigen Orten für Gespräche und Ideen.",
+      "keywords": [
+        "Kaffee",
+        "Geschichte",
+        "Äthiopien",
+        "Europa",
+        "Kaffeehaus"
+      ]
+    },
+    {
+      "id": "B1_06",
+      "title": "Warum Menschen lesen",
+      "level": "B1",
+      "category": "culture",
+      "text": "Lesen ist für viele Menschen mehr als nur Unterhaltung.\nBücher können Wissen vermitteln und unsere Vorstellungskraft erweitern.\nDurch Geschichten lernen wir andere Kulturen und Perspektiven kennen.\nViele Leser sagen, dass ein gutes Buch wie eine Reise im Kopf ist.",
+      "keywords": [
+        "Lesen",
+        "Buch",
+        "Wissen",
+        "Kultur",
+        "Vorstellungskraft"
+      ]
+    },
+    {
+      "id": "B1_07",
+      "title": "Die Idee des Minimalismus",
+      "level": "B1",
+      "category": "philosophy",
+      "text": "Minimalismus ist eine Lebensweise, bei der Menschen bewusst weniger besitzen.\nSie konzentrieren sich auf Dinge, die wirklich wichtig sind.\nViele Minimalisten sagen, dass weniger Besitz mehr Freiheit bedeutet.\nDiese Philosophie hilft ihnen, sich auf Erfahrungen statt auf Dinge zu konzentrieren.",
+      "keywords": [
+        "Minimalismus",
+        "Besitz",
+        "Freiheit",
+        "Erfahrung",
+        "Lebensweise"
+      ]
+    },
+    {
+      "id": "B1_08",
+      "title": "Ein neues Restaurant",
+      "level": "B1",
+      "category": "food",
+      "text": "In der Stadt hat ein neues Restaurant eröffnet.\nEs kombiniert traditionelle Gerichte mit modernen Ideen.\nDer Chefkoch verwendet frische regionale Zutaten.\nViele Gäste kommen wegen der kreativen Küche.\nDas Restaurant wird schnell zu einem beliebten Treffpunkt.",
+      "keywords": [
+        "Restaurant",
+        "Gericht",
+        "Zutat",
+        "Küche",
+        "Gast"
+      ]
+    },
+    {
+      "id": "B1_09",
+      "title": "Die Rolle der Technologie",
+      "level": "B1",
+      "category": "technology",
+      "text": "Technologie beeinflusst fast jeden Bereich unseres Lebens.\nSie verändert die Art, wie wir arbeiten, kommunizieren und lernen.\nDoch mit diesen Möglichkeiten kommen auch neue Herausforderungen.\nDatenschutz und digitale Verantwortung werden immer wichtiger.",
+      "keywords": [
+        "Technologie",
+        "Kommunikation",
+        "Daten",
+        "Verantwortung",
+        "Digital"
+      ]
+    },
+    {
+      "id": "B1_10",
+      "title": "Ein Tag ohne Internet",
+      "level": "B1",
+      "category": "technology",
+      "text": "Stellen Sie sich vor, einen ganzen Tag ohne Internet zu leben.\nViele Menschen würden sich zunächst verloren fühlen.\nDoch vielleicht hätten wir mehr Zeit für Gespräche, Bücher oder Spaziergänge.\nManchmal zeigt uns eine Pause, wie stark wir von Technologie abhängig sind.",
+      "keywords": [
+        "Internet",
+        "Technologie",
+        "Pause",
+        "Gespräch",
+        "Abhängigkeit"
+      ]
+    },
+    {
+      "id": "B2_01",
+      "title": "Die Ethik der künstlichen Intelligenz",
+      "level": "B2",
+      "category": "technology",
+      "text": "Mit der rasanten Entwicklung der künstlichen Intelligenz entstehen neue ethische Fragen.\nAlgorithmen können Entscheidungen treffen, die früher nur Menschen vorbehalten waren.\nDoch wer trägt die Verantwortung, wenn eine Maschine einen Fehler macht?\nViele Experten fordern klare Regeln und Transparenz.\nDie Zukunft der Technologie hängt davon ab, wie verantwortungsvoll wir sie einsetzen.",
+      "keywords": [
+        "Ethik",
+        "künstliche Intelligenz",
+        "Verantwortung",
+        "Algorithmus",
+        "Technologie"
+      ]
+    },
+    {
+      "id": "B2_02",
+      "title": "Reisen als Bildung",
+      "level": "B2",
+      "category": "travel",
+      "text": "Reisen kann eine der effektivsten Formen des Lernens sein.\nWenn Menschen neue Länder besuchen, erleben sie unterschiedliche Kulturen aus erster Hand.\nDiese Erfahrungen erweitern nicht nur unser Wissen, sondern auch unsere Perspektive.\nViele Reisende berichten, dass sie nach einer längeren Reise offener und toleranter geworden sind.",
+      "keywords": [
+        "Reisen",
+        "Kultur",
+        "Perspektive",
+        "Erfahrung",
+        "Bildung"
+      ]
+    },
+    {
+      "id": "B2_03",
+      "title": "Die Philosophie der Zeit",
+      "level": "B2",
+      "category": "philosophy",
+      "text": "Zeit ist eines der größten Rätsel der menschlichen Erfahrung.\nWir messen sie mit Uhren und Kalendern, doch ihr Wesen bleibt schwer zu verstehen.\nEinige Philosophen sehen Zeit als linearen Prozess, andere als subjektive Wahrnehmung.\nUnsere Beziehung zur Zeit beeinflusst, wie wir leben und Entscheidungen treffen.",
+      "keywords": [
+        "Zeit",
+        "Philosophie",
+        "Erfahrung",
+        "Wahrnehmung",
+        "Entscheidung"
+      ]
+    },
+    {
+      "id": "B2_04",
+      "title": "Die Zukunft der Städte",
+      "level": "B2",
+      "category": "technology",
+      "text": "Moderne Städte stehen vor großen Herausforderungen.\nWachsende Bevölkerungen, Umweltprobleme und Verkehr erfordern neue Lösungen.\nViele Städte investieren deshalb in sogenannte „Smart City“-Technologien.\nDiese nutzen Daten, um Energie, Transport und Infrastruktur effizienter zu gestalten.",
+      "keywords": [
+        "Stadt",
+        "Smart City",
+        "Technologie",
+        "Infrastruktur",
+        "Energie"
+      ]
+    },
+    {
+      "id": "B2_05",
+      "title": "Die Geschichte der Demokratie",
+      "level": "B2",
+      "category": "history",
+      "text": "Die Idee der Demokratie entwickelte sich über viele Jahrhunderte.\nSchon im antiken Griechenland experimentierten Menschen mit Formen der Bürgerbeteiligung.\nDoch moderne Demokratien entstanden erst viel später.\nSie basieren auf Prinzipien wie Freiheit, Gleichheit und Rechtsstaatlichkeit.",
+      "keywords": [
+        "Demokratie",
+        "Geschichte",
+        "Freiheit",
+        "Gleichheit",
+        "Politik"
+      ]
+    },
+    {
+      "id": "B2_06",
+      "title": "Ernährung und Gesellschaft",
+      "level": "B2",
+      "category": "food",
+      "text": "Unsere Ernährung wird nicht nur von Geschmack bestimmt.\nAuch Kultur, Wirtschaft und Politik spielen eine Rolle.\nIn vielen Ländern verändert sich die Ernährung durch Globalisierung.\nGleichzeitig wächst das Interesse an nachhaltiger und gesunder Ernährung.",
+      "keywords": [
+        "Ernährung",
+        "Kultur",
+        "Globalisierung",
+        "Gesundheit",
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "id": "B2_07",
+      "title": "Warum Menschen Geschichten erzählen",
+      "level": "B2",
+      "category": "culture",
+      "text": "Geschichten begleiten die Menschheit seit ihren Anfängen.\nSie helfen uns, Erfahrungen zu teilen und Wissen weiterzugeben.\nDurch Geschichten verstehen wir unsere Vergangenheit und stellen uns mögliche Zukünfte vor.\nVielleicht ist das Erzählen von Geschichten eine der grundlegendsten menschlichen Fähigkeiten.",
+      "keywords": [
+        "Geschichte",
+        "Erfahrung",
+        "Wissen",
+        "Kultur",
+        "Erzählen"
+      ]
+    },
+    {
+      "id": "B2_08",
+      "title": "Die Bedeutung von Kreativität",
+      "level": "B2",
+      "category": "philosophy",
+      "text": "Kreativität wird oft mit Kunst verbunden, doch sie spielt auch in Wissenschaft und Technologie eine wichtige Rolle.\nNeue Ideen entstehen häufig dort, wo Menschen unterschiedliche Perspektiven kombinieren.\nGesellschaften, die Kreativität fördern, entwickeln oft innovative Lösungen für komplexe Probleme.",
+      "keywords": [
+        "Kreativität",
+        "Innovation",
+        "Idee",
+        "Wissenschaft",
+        "Gesellschaft"
+      ]
+    },
+    {
+      "id": "B2_09",
+      "title": "Die Psychologie der Gewohnheiten",
+      "level": "B2",
+      "category": "health",
+      "text": "Gewohnheiten beeinflussen viele Entscheidungen unseres Alltags.\nSie entstehen durch wiederholte Handlungen, die mit bestimmten Situationen verbunden sind.\nPsychologen erklären, dass kleine Veränderungen große Auswirkungen haben können.\nWer seine Gewohnheiten bewusst gestaltet, kann langfristig sein Verhalten verändern.",
+      "keywords": [
+        "Gewohnheit",
+        "Psychologie",
+        "Verhalten",
+        "Alltag",
+        "Veränderung"
+      ]
+    },
+    {
+      "id": "B2_10",
+      "title": "Technologie und Menschlichkeit",
+      "level": "B2",
+      "category": "technology",
+      "text": "Je stärker Technologie unser Leben prägt, desto wichtiger wird die Frage nach unserer Menschlichkeit.\nDigitale Werkzeuge können Kommunikation erleichtern, aber auch Distanz schaffen.\nDie Herausforderung besteht darin, Technologie so zu nutzen, dass sie menschliche Werte unterstützt.",
+      "keywords": [
+        "Technologie",
+        "Menschlichkeit",
+        "Kommunikation",
+        "Werte",
+        "Digital"
+      ]
+    }
+  ]
+}

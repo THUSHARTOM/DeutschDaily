@@ -1,0 +1,432 @@
+[
+  {
+    "id": "A2_001",
+    "title": "Eine Reise in die Berge",
+    "level": "A2",
+    "category": "travel",
+    "text": "Am Wochenende fährt Familie Weber in die Berge. \nDie Luft ist frisch und die Landschaft ist wunderschön. \nSie wandern auf einem kleinen Weg durch den Wald. \nUnterwegs sehen sie einen See und machen eine Pause. \nDie Kinder spielen am Wasser, während die Eltern Fotos machen. \nAm Abend essen sie in einer Berghütte Suppe und Brot.\nAlle sind müde, aber glücklich.",
+    "translatedSentences": [
+      "On the weekend, the Weber family goes to the mountains.",
+      "The air is fresh and the landscape is beautiful.",
+      "They hike on a small path through the forest.",
+      "On the way, they see a lake and take a break.",
+      "The children play by the water while the parents take photos.",
+      "In the evening, they eat soup and bread in a mountain hut.",
+      "Everyone is tired, but happy."
+    ],
+    "keywords": [
+      "Berge",
+      "Wanderung",
+      "See",
+      "Pause",
+      "Hütte"
+    ]
+  },
+  {
+    "id": "A2_002",
+    "title": "Das kleine Start-up",
+    "level": "A2",
+    "category": "technology",
+    "text": "Max und seine Freundin gründen ein kleines Start‑up.\nSie entwickeln eine App für Studenten.\nDie App hilft beim Lernen von Sprachen.\nAm Anfang arbeiten sie von zu Hause aus.\nSie haben viele Ideen, aber auch viele Probleme.\nLangsam finden sie neue Nutzer.\nMax sagt: „Geduld ist wichtig.“",
+    "translatedSentences": [
+      "Max and his girlfriend start a small start-up.",
+      "They develop an app for students.",
+      "The app helps with learning languages.",
+      "At the beginning, they work from home.",
+      "They have many ideas, but also many problems.",
+      "Slowly, they find new users.",
+      "Max says, “Patience is important.”"
+    ],
+    "keywords": [
+      "Start-up",
+      "App",
+      "Idee",
+      "Nutzer",
+      "Geduld"
+    ]
+  },
+  {
+    "id": "A2_003",
+    "title": "Gesundes Leben",
+    "level": "A2",
+    "category": "health",
+    "text": "Viele Menschen möchten heute gesünder leben.\nSie essen mehr Gemüse und treiben Sport.\nAuch guter Schlaf ist wichtig für den Körper.\nAnna versucht jeden Tag zehn Minuten zu meditieren.\nSie sagt, dass ihr das Ruhe und Energie gibt.",
+    "translatedSentences": [
+      "Many people want to live more healthily today.",
+      "They eat more vegetables and do sports.",
+      "Good sleep is also important for the body.",
+      "Anna tries to meditate for ten minutes every day.",
+      "She says that it gives her calm and energy."
+    ],
+    "keywords": [
+      "Gesundheit",
+      "Gemüse",
+      "Schlaf",
+      "Meditation",
+      "Energie"
+    ]
+  },
+  {
+    "id": "A2_004",
+    "title": "Ein Tag im Museum",
+    "level": "A2",
+    "category": "history",
+    "text": "Jonas besucht ein großes Museum.\nDort sieht er alte Werkzeuge und Kleidung aus der Vergangenheit.\nEin Guide erklärt die Geschichte der Stadt.\nJonas lernt viel über das Leben vor hundert Jahren.\nAm Ende kauft er ein kleines Buch im Museumsshop.",
+    "translatedSentences": [
+      "Jonas visits a large museum.",
+      "There he sees old tools and clothing from the past.",
+      "A guide explains the history of the city.",
+      "Jonas learns a lot about life a hundred years ago.",
+      "At the end, he buys a small book in the museum shop."
+    ],
+    "keywords": [
+      "Museum",
+      "Geschichte",
+      "Vergangenheit",
+      "Guide",
+      "Ausstellung"
+    ]
+  },
+  {
+    "id": "A2_005",
+    "title": "Kochen mit Freunden",
+    "level": "A2",
+    "category": "food",
+    "text": "Am Freitagabend kommen Freunde zu Maria.\nSie kochen zusammen ein großes Abendessen.\nJeder bringt eine Zutat mit.\nAm Ende stehen viele verschiedene Gerichte auf dem Tisch.\nDie Freunde reden, lachen und probieren alles.\nEs ist ein sehr schöner Abend.",
+    "translatedSentences": [
+      "On Friday evening, friends come to Maria’s place.",
+      "They cook a big dinner together.",
+      "Everyone brings an ingredient.",
+      "At the end, many different dishes are on the table.",
+      "The friends talk, laugh, and taste everything.",
+      "It is a very nice evening."
+    ],
+    "keywords": [
+      "Freunde",
+      "Gericht",
+      "Zutat",
+      "Abendessen",
+      "kochen"
+    ]
+  },
+  {
+    "id": "A2_006",
+    "title": "Der neue Fahrradweg",
+    "level": "A2",
+    "category": "travel",
+    "text": "In der Stadt gibt es einen neuen Fahrradweg.\nViele Menschen fahren jetzt mit dem Fahrrad zur Arbeit.\nDas ist gut für die Umwelt und für die Gesundheit.\nPaul fährt jeden Morgen zehn Minuten zur Arbeit.\nEr sagt, dass er sich danach wach und aktiv fühlt.",
+    "translatedSentences": [
+      "There is a new bike path in the city.",
+      "Many people now ride their bikes to work.",
+      "That is good for the environment and for health.",
+      "Paul rides ten minutes to work every morning.",
+      "He says that afterward he feels awake and active."
+    ],
+    "keywords": [
+      "Fahrrad",
+      "Umwelt",
+      "Arbeit",
+      "Gesundheit",
+      "Stadt"
+    ]
+  },
+  {
+    "id": "A2_007",
+    "title": "Das kleine Buchladen",
+    "level": "A2",
+    "category": "culture",
+    "text": "In einer ruhigen Straße gibt es einen kleinen Buchladen.\nDer Besitzer kennt viele seiner Kunden persönlich.\nMenschen kommen hierher, um neue Bücher zu entdecken.\nManchmal gibt es auch kleine Lesungen am Abend.\nDer Laden ist ein Treffpunkt für Leser.",
+    "translatedSentences": [
+      "On a quiet street, there is a small bookstore.",
+      "The owner knows many of his customers personally.",
+      "People come here to discover new books.",
+      "Sometimes there are also small readings in the evening.",
+      "The shop is a meeting place for readers."
+    ],
+    "keywords": [
+      "Buchladen",
+      "Lesung",
+      "Kunde",
+      "Buch",
+      "Straße"
+    ]
+  },
+  {
+    "id": "A2_008",
+    "title": "Der erste Programmierkurs",
+    "level": "A2",
+    "category": "technology",
+    "text": "Sara beginnt einen Onlinekurs für Programmierung.\nAm Anfang versteht sie viele Dinge nicht.\nDoch mit Übung wird es einfacher.\nSie schreibt kleine Programme auf ihrem Laptop.\nNach ein paar Wochen baut sie ihre erste Webseite.\nDas macht sie sehr stolz.",
+    "translatedSentences": [
+      "Sara starts an online course in programming.",
+      "At the beginning, she does not understand many things.",
+      "But with practice, it becomes easier.",
+      "She writes small programs on her laptop.",
+      "After a few weeks, she builds her first website.",
+      "That makes her very proud."
+    ],
+    "keywords": [
+      "Programmierung",
+      "Kurs",
+      "Laptop",
+      "Webseite",
+      "Übung"
+    ]
+  },
+  {
+    "id": "A2_009",
+    "title": "Ein ruhiger See",
+    "level": "A2",
+    "category": "travel",
+    "text": "Im Sommer fährt Tim oft zu einem See außerhalb der Stadt.\nDort schwimmt er oder liest ein Buch.\nDer Ort ist ruhig und entspannend.\nViele Menschen kommen hierher, um dem Stress der Stadt zu entkommen.",
+    "translatedSentences": [
+      "In summer, Tim often goes to a lake outside the city.",
+      "There he swims or reads a book.",
+      "The place is quiet and relaxing.",
+      "Many people come here to escape the stress of the city."
+    ],
+    "keywords": [
+      "See",
+      "Sommer",
+      "Stadt",
+      "Ruhe",
+      "Schwimmen"
+    ]
+  },
+  {
+    "id": "A2_010",
+    "title": "Warum wir reisen",
+    "level": "A2",
+    "category": "philosophy",
+    "text": "Menschen reisen aus vielen Gründen.\nManche wollen neue Kulturen sehen.\nAndere möchten einfach eine Pause vom Alltag.\nReisen kann unseren Blick auf die Welt verändern.\nMan lernt neue Menschen kennen und versteht andere Perspektiven.",
+    "translatedSentences": [
+      "People travel for many reasons.",
+      "Some want to see new cultures.",
+      "Others simply want a break from everyday life.",
+      "Travel can change our view of the world.",
+      "You meet new people and understand other perspectives."
+    ],
+    "keywords": [
+      "Reisen",
+      "Kultur",
+      "Welt",
+      "Perspektive",
+      "Alltag"
+    ]
+  },
+  {
+    "id": "A2_011",
+    "title": "Eine Reise in die Berge (Part 2)",
+    "level": "A2",
+    "category": "travel",
+    "text": "Am Wochenende fährt Familie Weber in die Berge. \nDie Luft ist frisch und die Landschaft ist wunderschön. \nSie wandern auf einem kleinen Weg durch den Wald. \nUnterwegs sehen sie einen See und machen eine Pause. \nDie Kinder spielen am Wasser, während die Eltern Fotos machen. \nAm Abend essen sie in einer Berghütte Suppe und Brot.\nAlle sind müde, aber glücklich.",
+    "translatedSentences": [
+      "On the weekend, the Weber family goes to the mountains.",
+      "The air is fresh and the landscape is beautiful.",
+      "They hike on a small path through the forest.",
+      "On the way, they see a lake and take a break.",
+      "The children play by the water while the parents take photos.",
+      "In the evening, they eat soup and bread in a mountain hut.",
+      "Everyone is tired, but happy."
+    ],
+    "keywords": [
+      "Berge",
+      "Wanderung",
+      "See",
+      "Pause",
+      "Hütte"
+    ]
+  },
+  {
+    "id": "A2_012",
+    "title": "Das kleine Start-up (Part 2)",
+    "level": "A2",
+    "category": "technology",
+    "text": "Max und seine Freundin gründen ein kleines Start‑up.\nSie entwickeln eine App für Studenten.\nDie App hilft beim Lernen von Sprachen.\nAm Anfang arbeiten sie von zu Hause aus.\nSie haben viele Ideen, aber auch viele Probleme.\nLangsam finden sie neue Nutzer.\nMax sagt: „Geduld ist wichtig.“",
+    "translatedSentences": [
+      "Max and his girlfriend start a small start-up.",
+      "They develop an app for students.",
+      "The app helps with learning languages.",
+      "At the beginning, they work from home.",
+      "They have many ideas, but also many problems.",
+      "Slowly, they find new users.",
+      "Max says, “Patience is important.”"
+    ],
+    "keywords": [
+      "Start-up",
+      "App",
+      "Idee",
+      "Nutzer",
+      "Geduld"
+    ]
+  },
+  {
+    "id": "A2_013",
+    "title": "Gesundes Leben (Part 2)",
+    "level": "A2",
+    "category": "health",
+    "text": "Viele Menschen möchten heute gesünder leben.\nSie essen mehr Gemüse und treiben Sport.\nAuch guter Schlaf ist wichtig für den Körper.\nAnna versucht jeden Tag zehn Minuten zu meditieren.\nSie sagt, dass ihr das Ruhe und Energie gibt.",
+    "translatedSentences": [
+      "Many people want to live more healthily today.",
+      "They eat more vegetables and do sports.",
+      "Good sleep is also important for the body.",
+      "Anna tries to meditate for ten minutes every day.",
+      "She says that it gives her calm and energy."
+    ],
+    "keywords": [
+      "Gesundheit",
+      "Gemüse",
+      "Schlaf",
+      "Meditation",
+      "Energie"
+    ]
+  },
+  {
+    "id": "A2_014",
+    "title": "Ein Tag im Museum (Part 2)",
+    "level": "A2",
+    "category": "history",
+    "text": "Jonas besucht ein großes Museum.\nDort sieht er alte Werkzeuge und Kleidung aus der Vergangenheit.\nEin Guide erklärt die Geschichte der Stadt.\nJonas lernt viel über das Leben vor hundert Jahren.\nAm Ende kauft er ein kleines Buch im Museumsshop.",
+    "translatedSentences": [
+      "Jonas visits a large museum.",
+      "There he sees old tools and clothing from the past.",
+      "A guide explains the history of the city.",
+      "Jonas learns a lot about life a hundred years ago.",
+      "At the end, he buys a small book in the museum shop."
+    ],
+    "keywords": [
+      "Museum",
+      "Geschichte",
+      "Vergangenheit",
+      "Guide",
+      "Ausstellung"
+    ]
+  },
+  {
+    "id": "A2_015",
+    "title": "Kochen mit Freunden (Part 2)",
+    "level": "A2",
+    "category": "food",
+    "text": "Am Freitagabend kommen Freunde zu Maria.\nSie kochen zusammen ein großes Abendessen.\nJeder bringt eine Zutat mit.\nAm Ende stehen viele verschiedene Gerichte auf dem Tisch.\nDie Freunde reden, lachen und probieren alles.\nEs ist ein sehr schöner Abend.",
+    "translatedSentences": [
+      "On Friday evening, friends come to Maria’s place.",
+      "They cook a big dinner together.",
+      "Everyone brings an ingredient.",
+      "At the end, many different dishes are on the table.",
+      "The friends talk, laugh, and taste everything.",
+      "It is a very nice evening."
+    ],
+    "keywords": [
+      "Freunde",
+      "Gericht",
+      "Zutat",
+      "Abendessen",
+      "kochen"
+    ]
+  },
+  {
+    "id": "A2_016",
+    "title": "Der neue Fahrradweg (Part 2)",
+    "level": "A2",
+    "category": "travel",
+    "text": "In der Stadt gibt es einen neuen Fahrradweg.\nViele Menschen fahren jetzt mit dem Fahrrad zur Arbeit.\nDas ist gut für die Umwelt und für die Gesundheit.\nPaul fährt jeden Morgen zehn Minuten zur Arbeit.\nEr sagt, dass er sich danach wach und aktiv fühlt.",
+    "translatedSentences": [
+      "There is a new bike path in the city.",
+      "Many people now ride their bikes to work.",
+      "That is good for the environment and for health.",
+      "Paul rides ten minutes to work every morning.",
+      "He says that afterward he feels awake and active."
+    ],
+    "keywords": [
+      "Fahrrad",
+      "Umwelt",
+      "Arbeit",
+      "Gesundheit",
+      "Stadt"
+    ]
+  },
+  {
+    "id": "A2_017",
+    "title": "Das kleine Buchladen (Part 2)",
+    "level": "A2",
+    "category": "culture",
+    "text": "In einer ruhigen Straße gibt es einen kleinen Buchladen.\nDer Besitzer kennt viele seiner Kunden persönlich.\nMenschen kommen hierher, um neue Bücher zu entdecken.\nManchmal gibt es auch kleine Lesungen am Abend.\nDer Laden ist ein Treffpunkt für Leser.",
+    "translatedSentences": [
+      "On a quiet street, there is a small bookstore.",
+      "The owner knows many of his customers personally.",
+      "People come here to discover new books.",
+      "Sometimes there are also small readings in the evening.",
+      "The shop is a meeting place for readers."
+    ],
+    "keywords": [
+      "Buchladen",
+      "Lesung",
+      "Kunde",
+      "Buch",
+      "Straße"
+    ]
+  },
+  {
+    "id": "A2_018",
+    "title": "Der erste Programmierkurs (Part 2)",
+    "level": "A2",
+    "category": "technology",
+    "text": "Sara beginnt einen Onlinekurs für Programmierung.\nAm Anfang versteht sie viele Dinge nicht.\nDoch mit Übung wird es einfacher.\nSie schreibt kleine Programme auf ihrem Laptop.\nNach ein paar Wochen baut sie ihre erste Webseite.\nDas macht sie sehr stolz.",
+    "translatedSentences": [
+      "Sara starts an online course in programming.",
+      "At the beginning, she does not understand many things.",
+      "But with practice, it becomes easier.",
+      "She writes small programs on her laptop.",
+      "After a few weeks, she builds her first website.",
+      "That makes her very proud."
+    ],
+    "keywords": [
+      "Programmierung",
+      "Kurs",
+      "Laptop",
+      "Webseite",
+      "Übung"
+    ]
+  },
+  {
+    "id": "A2_019",
+    "title": "Ein ruhiger See (Part 2)",
+    "level": "A2",
+    "category": "travel",
+    "text": "Im Sommer fährt Tim oft zu einem See außerhalb der Stadt.\nDort schwimmt er oder liest ein Buch.\nDer Ort ist ruhig und entspannend.\nViele Menschen kommen hierher, um dem Stress der Stadt zu entkommen.",
+    "translatedSentences": [
+      "In summer, Tim often goes to a lake outside the city.",
+      "There he swims or reads a book.",
+      "The place is quiet and relaxing.",
+      "Many people come here to escape the stress of the city."
+    ],
+    "keywords": [
+      "See",
+      "Sommer",
+      "Stadt",
+      "Ruhe",
+      "Schwimmen"
+    ]
+  },
+  {
+    "id": "A2_020",
+    "title": "Warum wir reisen (Part 2)",
+    "level": "A2",
+    "category": "philosophy",
+    "text": "Menschen reisen aus vielen Gründen.\nManche wollen neue Kulturen sehen.\nAndere möchten einfach eine Pause vom Alltag.\nReisen kann unseren Blick auf die Welt verändern.\nMan lernt neue Menschen kennen und versteht andere Perspektiven.",
+    "translatedSentences": [
+      "People travel for many reasons.",
+      "Some want to see new cultures.",
+      "Others simply want a break from everyday life.",
+      "Travel can change our view of the world.",
+      "You meet new people and understand other perspectives."
+    ],
+    "keywords": [
+      "Reisen",
+      "Kultur",
+      "Welt",
+      "Perspektive",
+      "Alltag"
+    ]
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "id": "A1_001",
+    "title": "Ein Morgen im Café",
+    "level": "A1",
+    "category": "food",
+    "text": "Anna geht jeden Morgen in ein kleines Café in der Stadt. Das Café ist ruhig und warm. \nDer Kellner sagt: „Guten Morgen!“ Anna bestellt einen Kaffee und ein kleines Brot mit Butter. \nAm Tisch neben ihr sitzt ein alter Mann. Er liest eine Zeitung und trinkt Tee.\nAnna mag diesen Ort. Sie hört leise Musik und schaut aus dem Fenster. Menschen gehen zur Arbeit.\nNach dem Frühstück schreibt Anna eine kurze Nachricht an ihre Freundin. Dann bezahlt sie und sagt:\n„Danke, bis morgen!“",
+    "translatedSentences": [
+      "Anna goes to a small café in the city every morning.",
+      "The café is quiet and warm.",
+      "The waiter says, “Good morning!”",
+      "Anna orders a coffee and a small piece of bread with butter.",
+      "An old man is sitting at the table next to her.",
+      "He reads a newspaper and drinks tea.",
+      "Anna likes this place.",
+      "She listens to soft music and looks out the window.",
+      "People are going to work.",
+      "After breakfast, Anna writes a short message to her friend.",
+      "Then she pays and says, “Thank you, see you tomorrow!”"
+    ],
+    "keywords": [
+      "Café",
+      "Kaffee",
+      "Brot",
+      "Butter",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": "A1_002",
+    "title": "Der kleine Markt",
+    "level": "A1",
+    "category": "food",
+    "text": "Samstag ist Markttag in der Stadt. Viele Menschen gehen zum Markt. \nEs gibt frisches Obst, Gemüse und Brot. Maria kauft Tomaten, Äpfel und Käse.\nEin Verkäufer sagt: „Diese Äpfel sind sehr süß!“\nMaria probiert einen Apfel und lächelt.\nSie kauft auch Blumen für ihre Wohnung. Am Ende trinkt sie einen Saft am kleinen Stand.\nDer Markt ist bunt und laut, aber Maria mag die Atmosphäre.",
+    "translatedSentences": [
+      "Saturday is market day in the city.",
+      "Many people go to the market.",
+      "There is fresh fruit, vegetables, and bread.",
+      "Maria buys tomatoes, apples, and cheese.",
+      "A vendor says, “These apples are very sweet!”",
+      "Maria tries an apple and smiles.",
+      "She also buys flowers for her apartment.",
+      "At the end, she drinks a juice at the small stand.",
+      "The market is colorful and loud, but Maria likes the atmosphere."
+    ],
+    "keywords": [
+      "Markt",
+      "Obst",
+      "Gemüse",
+      "Apfel",
+      "Käse"
+    ]
+  },
+  {
+    "id": "A1_003",
+    "title": "Der erste Arbeitstag",
+    "level": "A1",
+    "category": "daily life",
+    "text": "Paul hat heute seinen ersten Arbeitstag. Er steht früh auf und trinkt schnell Kaffee.\nDann fährt er mit dem Bus ins Büro. Seine Kollegin Laura zeigt ihm den Arbeitsplatz.\nPaul lernt viele neue Menschen kennen. Alle sind freundlich.\nIn der Mittagspause essen sie zusammen im kleinen Restaurant.\nPaul fühlt sich etwas nervös, aber auch glücklich.\nAm Abend sagt er: „Der erste Tag war gut!“",
+    "translatedSentences": [
+      "Paul has his first day of work today.",
+      "He gets up early and quickly drinks coffee.",
+      "Then he takes the bus to the office.",
+      "His colleague Laura shows him his workspace.",
+      "Paul gets to know many new people.",
+      "Everyone is friendly.",
+      "During the lunch break, they eat together in a small restaurant.",
+      "Paul feels a little nervous, but also happy.",
+      "In the evening he says, “The first day was good!”"
+    ],
+    "keywords": [
+      "Arbeit",
+      "Büro",
+      "Kollegen",
+      "Bus",
+      "Mittagspause"
+    ]
+  },
+  {
+    "id": "A1_004",
+    "title": "Ein Spaziergang im Park",
+    "level": "A1",
+    "category": "health",
+    "text": "Lisa geht gern im Park spazieren. Der Park ist groß und grün.\nViele Menschen laufen oder fahren Fahrrad.\nLisa hört Musik und geht langsam unter den Bäumen.\nSie sieht Kinder spielen und Hunde laufen.\nNach einer Stunde setzt sie sich auf eine Bank und trinkt Wasser.\nFrische Luft macht sie glücklich.",
+    "translatedSentences": [
+      "Lisa likes going for walks in the park.",
+      "The park is big and green.",
+      "Many people run or ride bicycles.",
+      "Lisa listens to music and walks slowly under the trees.",
+      "She sees children playing and dogs running.",
+      "After an hour, she sits down on a bench and drinks water.",
+      "Fresh air makes her happy."
+    ],
+    "keywords": [
+      "Park",
+      "Spaziergang",
+      "Baum",
+      "Bank",
+      "Luft"
+    ]
+  },
+  {
+    "id": "A1_005",
+    "title": "Mein Lieblingsessen",
+    "level": "A1",
+    "category": "food",
+    "text": "Mein Lieblingsessen ist Pasta. Ich koche Pasta oft am Abend.\nZuerst koche ich Wasser. Dann kommen die Nudeln in den Topf.\nIch mache eine einfache Tomatensauce mit Salz und Öl.\nAm Ende kommt Käse auf die Pasta.\nMeine Freunde sagen: „Das schmeckt sehr gut!“\nWir essen zusammen und sprechen über unseren Tag.",
+    "translatedSentences": [
+      "My favorite food is pasta.",
+      "I often cook pasta in the evening.",
+      "First, I boil water.",
+      "Then the noodles go into the pot.",
+      "I make a simple tomato sauce with salt and oil.",
+      "At the end, cheese goes on the pasta.",
+      "My friends say, “This tastes very good!”",
+      "We eat together and talk about our day."
+    ],
+    "keywords": [
+      "Pasta",
+      "Nudeln",
+      "Sauce",
+      "Käse",
+      "kochen"
+    ]
+  },
+  {
+    "id": "A1_006",
+    "title": "Eine Reise nach Berlin",
+    "level": "A1",
+    "category": "travel",
+    "text": "Tom fährt mit dem Zug nach Berlin. Die Reise dauert zwei Stunden.\nIm Zug liest er ein Buch und hört Musik.\nIn Berlin sieht er viele große Gebäude.\nEr besucht das Brandenburger Tor und macht Fotos.\nAm Abend isst er Currywurst und geht ins Hotel.\nBerlin ist eine interessante Stadt.",
+    "translatedSentences": [
+      "Tom travels to Berlin by train.",
+      "The journey takes two hours.",
+      "On the train, he reads a book and listens to music.",
+      "In Berlin, he sees many large buildings.",
+      "He visits the Brandenburg Gate and takes photos.",
+      "In the evening, he eats currywurst and goes to the hotel.",
+      "Berlin is an interesting city."
+    ],
+    "keywords": [
+      "Zug",
+      "Reise",
+      "Berlin",
+      "Hotel",
+      "Foto"
+    ]
+  },
+  {
+    "id": "A1_007",
+    "title": "Der neue Laptop",
+    "level": "A1",
+    "category": "technology",
+    "text": "Julia braucht einen neuen Laptop. Ihr alter Computer ist langsam.\nIm Geschäft zeigt ein Verkäufer viele Modelle.\nJulia wählt einen kleinen und leichten Laptop.\nZu Hause öffnet sie den Computer und installiert Programme.\nJetzt kann sie besser arbeiten und Filme schauen.",
+    "translatedSentences": [
+      "Julia needs a new laptop.",
+      "Her old computer is slow.",
+      "In the store, a salesperson shows many models.",
+      "Julia chooses a small and light laptop.",
+      "At home, she opens the computer and installs programs.",
+      "Now she can work better and watch movies."
+    ],
+    "keywords": [
+      "Laptop",
+      "Computer",
+      "Programm",
+      "arbeiten",
+      "Film"
+    ]
+  },
+  {
+    "id": "A1_008",
+    "title": "Sport am Morgen",
+    "level": "A1",
+    "category": "health",
+    "text": "Markus macht jeden Morgen Sport.\nEr läuft zwanzig Minuten im Park.\nDanach macht er ein paar Übungen zu Hause.\nSport gibt ihm Energie für den Tag.\nNach dem Training trinkt er Wasser und frühstückt.",
+    "translatedSentences": [
+      "Markus does sports every morning.",
+      "He runs for twenty minutes in the park.",
+      "After that, he does a few exercises at home.",
+      "Sport gives him energy for the day.",
+      "After training, he drinks water and eats breakfast."
+    ],
+    "keywords": [
+      "Sport",
+      "laufen",
+      "Übung",
+      "Energie",
+      "Training"
+    ]
+  },
+  {
+    "id": "A1_009",
+    "title": "Ein Besuch bei Oma",
+    "level": "A1",
+    "category": "daily life",
+    "text": "Heute besucht Lena ihre Oma.\nDie Oma wohnt in einem kleinen Haus.\nSie trinken zusammen Tee und essen Kuchen.\nDie Oma erzählt Geschichten aus ihrer Jugend.\nLena hört gern zu und lacht viel.\nAm Abend sagt sie: „Bis bald, Oma!“",
+    "translatedSentences": [
+      "Today Lena visits her grandma.",
+      "Grandma lives in a small house.",
+      "They drink tea and eat cake together.",
+      "Grandma tells stories from her youth.",
+      "Lena likes listening and laughs a lot.",
+      "In the evening she says, “See you soon, Grandma!”"
+    ],
+    "keywords": [
+      "Oma",
+      "Haus",
+      "Tee",
+      "Kuchen",
+      "Geschichte"
+    ]
+  },
+  {
+    "id": "A1_010",
+    "title": "Der ruhige Abend",
+    "level": "A1",
+    "category": "daily life",
+    "text": "Nach der Arbeit geht Daniel nach Hause.\nEr kocht ein einfaches Abendessen und schaut eine Serie.\nSpäter liest er ein Buch im Bett.\nDer Tag war lang, aber ruhig.\nDaniel schläft schnell ein.",
+    "translatedSentences": [
+      "After work, Daniel goes home.",
+      "He cooks a simple dinner and watches a series.",
+      "Later he reads a book in bed.",
+      "The day was long, but quiet.",
+      "Daniel falls asleep quickly."
+    ],
+    "keywords": [
+      "Arbeit",
+      "Abendessen",
+      "Serie",
+      "Buch",
+      "schlafen"
+    ]
+  },
+  {
+    "id": "A1_011",
+    "title": "Ein Morgen im Café (Part 2)",
+    "level": "A1",
+    "category": "food",
+    "text": "Anna geht jeden Morgen in ein kleines Café in der Stadt. Das Café ist ruhig und warm. \nDer Kellner sagt: „Guten Morgen!“ Anna bestellt einen Kaffee und ein kleines Brot mit Butter. \nAm Tisch neben ihr sitzt ein alter Mann. Er liest eine Zeitung und trinkt Tee.\nAnna mag diesen Ort. Sie hört leise Musik und schaut aus dem Fenster. Menschen gehen zur Arbeit.\nNach dem Frühstück schreibt Anna eine kurze Nachricht an ihre Freundin. Dann bezahlt sie und sagt:\n„Danke, bis morgen!“",
+    "translatedSentences": [
+      "Anna goes to a small café in the city every morning.",
+      "The café is quiet and warm.",
+      "The waiter says, “Good morning!”",
+      "Anna orders a coffee and a small piece of bread with butter.",
+      "An old man is sitting at the table next to her.",
+      "He reads a newspaper and drinks tea.",
+      "Anna likes this place.",
+      "She listens to soft music and looks out the window.",
+      "People are going to work.",
+      "After breakfast, Anna writes a short message to her friend.",
+      "Then she pays and says, “Thank you, see you tomorrow!”"
+    ],
+    "keywords": [
+      "Café",
+      "Kaffee",
+      "Brot",
+      "Butter",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": "A1_012",
+    "title": "Der kleine Markt (Part 2)",
+    "level": "A1",
+    "category": "food",
+    "text": "Samstag ist Markttag in der Stadt. Viele Menschen gehen zum Markt. \nEs gibt frisches Obst, Gemüse und Brot. Maria kauft Tomaten, Äpfel und Käse.\nEin Verkäufer sagt: „Diese Äpfel sind sehr süß!“\nMaria probiert einen Apfel und lächelt.\nSie kauft auch Blumen für ihre Wohnung. Am Ende trinkt sie einen Saft am kleinen Stand.\nDer Markt ist bunt und laut, aber Maria mag die Atmosphäre.",
+    "translatedSentences": [
+      "Saturday is market day in the city.",
+      "Many people go to the market.",
+      "There is fresh fruit, vegetables, and bread.",
+      "Maria buys tomatoes, apples, and cheese.",
+      "A vendor says, “These apples are very sweet!”",
+      "Maria tries an apple and smiles.",
+      "She also buys flowers for her apartment.",
+      "At the end, she drinks a juice at the small stand.",
+      "The market is colorful and loud, but Maria likes the atmosphere."
+    ],
+    "keywords": [
+      "Markt",
+      "Obst",
+      "Gemüse",
+      "Apfel",
+      "Käse"
+    ]
+  },
+  {
+    "id": "A1_013",
+    "title": "Der erste Arbeitstag (Part 2)",
+    "level": "A1",
+    "category": "daily life",
+    "text": "Paul hat heute seinen ersten Arbeitstag. Er steht früh auf und trinkt schnell Kaffee.\nDann fährt er mit dem Bus ins Büro. Seine Kollegin Laura zeigt ihm den Arbeitsplatz.\nPaul lernt viele neue Menschen kennen. Alle sind freundlich.\nIn der Mittagspause essen sie zusammen im kleinen Restaurant.\nPaul fühlt sich etwas nervös, aber auch glücklich.\nAm Abend sagt er: „Der erste Tag war gut!“",
+    "translatedSentences": [
+      "Paul has his first day of work today.",
+      "He gets up early and quickly drinks coffee.",
+      "Then he takes the bus to the office.",
+      "His colleague Laura shows him his workspace.",
+      "Paul gets to know many new people.",
+      "Everyone is friendly.",
+      "During the lunch break, they eat together in a small restaurant.",
+      "Paul feels a little nervous, but also happy.",
+      "In the evening he says, “The first day was good!”"
+    ],
+    "keywords": [
+      "Arbeit",
+      "Büro",
+      "Kollegen",
+      "Bus",
+      "Mittagspause"
+    ]
+  },
+  {
+    "id": "A1_014",
+    "title": "Ein Spaziergang im Park (Part 2)",
+    "level": "A1",
+    "category": "health",
+    "text": "Lisa geht gern im Park spazieren. Der Park ist groß und grün.\nViele Menschen laufen oder fahren Fahrrad.\nLisa hört Musik und geht langsam unter den Bäumen.\nSie sieht Kinder spielen und Hunde laufen.\nNach einer Stunde setzt sie sich auf eine Bank und trinkt Wasser.\nFrische Luft macht sie glücklich.",
+    "translatedSentences": [
+      "Lisa likes going for walks in the park.",
+      "The park is big and green.",
+      "Many people run or ride bicycles.",
+      "Lisa listens to music and walks slowly under the trees.",
+      "She sees children playing and dogs running.",
+      "After an hour, she sits down on a bench and drinks water.",
+      "Fresh air makes her happy."
+    ],
+    "keywords": [
+      "Park",
+      "Spaziergang",
+      "Baum",
+      "Bank",
+      "Luft"
+    ]
+  },
+  {
+    "id": "A1_015",
+    "title": "Mein Lieblingsessen (Part 2)",
+    "level": "A1",
+    "category": "food",
+    "text": "Mein Lieblingsessen ist Pasta. Ich koche Pasta oft am Abend.\nZuerst koche ich Wasser. Dann kommen die Nudeln in den Topf.\nIch mache eine einfache Tomatensauce mit Salz und Öl.\nAm Ende kommt Käse auf die Pasta.\nMeine Freunde sagen: „Das schmeckt sehr gut!“\nWir essen zusammen und sprechen über unseren Tag.",
+    "translatedSentences": [
+      "My favorite food is pasta.",
+      "I often cook pasta in the evening.",
+      "First, I boil water.",
+      "Then the noodles go into the pot.",
+      "I make a simple tomato sauce with salt and oil.",
+      "At the end, cheese goes on the pasta.",
+      "My friends say, “This tastes very good!”",
+      "We eat together and talk about our day."
+    ],
+    "keywords": [
+      "Pasta",
+      "Nudeln",
+      "Sauce",
+      "Käse",
+      "kochen"
+    ]
+  },
+  {
+    "id": "A1_016",
+    "title": "Eine Reise nach Berlin (Part 2)",
+    "level": "A1",
+    "category": "travel",
+    "text": "Tom fährt mit dem Zug nach Berlin. Die Reise dauert zwei Stunden.\nIm Zug liest er ein Buch und hört Musik.\nIn Berlin sieht er viele große Gebäude.\nEr besucht das Brandenburger Tor und macht Fotos.\nAm Abend isst er Currywurst und geht ins Hotel.\nBerlin ist eine interessante Stadt.",
+    "translatedSentences": [
+      "Tom travels to Berlin by train.",
+      "The journey takes two hours.",
+      "On the train, he reads a book and listens to music.",
+      "In Berlin, he sees many large buildings.",
+      "He visits the Brandenburg Gate and takes photos.",
+      "In the evening, he eats currywurst and goes to the hotel.",
+      "Berlin is an interesting city."
+    ],
+    "keywords": [
+      "Zug",
+      "Reise",
+      "Berlin",
+      "Hotel",
+      "Foto"
+    ]
+  },
+  {
+    "id": "A1_017",
+    "title": "Der neue Laptop (Part 2)",
+    "level": "A1",
+    "category": "technology",
+    "text": "Julia braucht einen neuen Laptop. Ihr alter Computer ist langsam.\nIm Geschäft zeigt ein Verkäufer viele Modelle.\nJulia wählt einen kleinen und leichten Laptop.\nZu Hause öffnet sie den Computer und installiert Programme.\nJetzt kann sie besser arbeiten und Filme schauen.",
+    "translatedSentences": [
+      "Julia needs a new laptop.",
+      "Her old computer is slow.",
+      "In the store, a salesperson shows many models.",
+      "Julia chooses a small and light laptop.",
+      "At home, she opens the computer and installs programs.",
+      "Now she can work better and watch movies."
+    ],
+    "keywords": [
+      "Laptop",
+      "Computer",
+      "Programm",
+      "arbeiten",
+      "Film"
+    ]
+  },
+  {
+    "id": "A1_018",
+    "title": "Sport am Morgen (Part 2)",
+    "level": "A1",
+    "category": "health",
+    "text": "Markus macht jeden Morgen Sport.\nEr läuft zwanzig Minuten im Park.\nDanach macht er ein paar Übungen zu Hause.\nSport gibt ihm Energie für den Tag.\nNach dem Training trinkt er Wasser und frühstückt.",
+    "translatedSentences": [
+      "Markus does sports every morning.",
+      "He runs for twenty minutes in the park.",
+      "After that, he does a few exercises at home.",
+      "Sport gives him energy for the day.",
+      "After training, he drinks water and eats breakfast."
+    ],
+    "keywords": [
+      "Sport",
+      "laufen",
+      "Übung",
+      "Energie",
+      "Training"
+    ]
+  },
+  {
+    "id": "A1_019",
+    "title": "Ein Besuch bei Oma (Part 2)",
+    "level": "A1",
+    "category": "daily life",
+    "text": "Heute besucht Lena ihre Oma.\nDie Oma wohnt in einem kleinen Haus.\nSie trinken zusammen Tee und essen Kuchen.\nDie Oma erzählt Geschichten aus ihrer Jugend.\nLena hört gern zu und lacht viel.\nAm Abend sagt sie: „Bis bald, Oma!“",
+    "translatedSentences": [
+      "Today Lena visits her grandma.",
+      "Grandma lives in a small house.",
+      "They drink tea and eat cake together.",
+      "Grandma tells stories from her youth.",
+      "Lena likes listening and laughs a lot.",
+      "In the evening she says, “See you soon, Grandma!”"
+    ],
+    "keywords": [
+      "Oma",
+      "Haus",
+      "Tee",
+      "Kuchen",
+      "Geschichte"
+    ]
+  },
+  {
+    "id": "A1_020",
+    "title": "Der ruhige Abend (Part 2)",
+    "level": "A1",
+    "category": "daily life",
+    "text": "Nach der Arbeit geht Daniel nach Hause.\nEr kocht ein einfaches Abendessen und schaut eine Serie.\nSpäter liest er ein Buch im Bett.\nDer Tag war lang, aber ruhig.\nDaniel schläft schnell ein.",
+    "translatedSentences": [
+      "After work, Daniel goes home.",
+      "He cooks a simple dinner and watches a series.",
+      "Later he reads a book in bed.",
+      "The day was long, but quiet.",
+      "Daniel falls asleep quickly."
+    ],
+    "keywords": [
+      "Arbeit",
+      "Abendessen",
+      "Serie",
+      "Buch",
+      "schlafen"
+    ]
+  }
+]

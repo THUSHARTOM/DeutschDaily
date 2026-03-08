@@ -1,0 +1,400 @@
+[
+  {
+    "id": "B2_001",
+    "title": "Die Ethik der künstlichen Intelligenz",
+    "level": "B2",
+    "category": "technology",
+    "text": "Mit der rasanten Entwicklung der künstlichen Intelligenz entstehen neue ethische Fragen.\nAlgorithmen können Entscheidungen treffen, die früher nur Menschen vorbehalten waren.\nDoch wer trägt die Verantwortung, wenn eine Maschine einen Fehler macht?\nViele Experten fordern klare Regeln und Transparenz.\nDie Zukunft der Technologie hängt davon ab, wie verantwortungsvoll wir sie einsetzen.",
+    "translatedSentences": [
+      "With the rapid development of artificial intelligence, new ethical questions are arising.",
+      "Algorithms can make decisions that were once reserved only for humans.",
+      "But who bears the responsibility when a machine makes a mistake?",
+      "Many experts are calling for clear rules and transparency.",
+      "The future of technology depends on how responsibly we use it."
+    ],
+    "keywords": [
+      "Ethik",
+      "künstliche Intelligenz",
+      "Verantwortung",
+      "Algorithmus",
+      "Technologie"
+    ]
+  },
+  {
+    "id": "B2_002",
+    "title": "Reisen als Bildung",
+    "level": "B2",
+    "category": "travel",
+    "text": "Reisen kann eine der effektivsten Formen des Lernens sein.\nWenn Menschen neue Länder besuchen, erleben sie unterschiedliche Kulturen aus erster Hand.\nDiese Erfahrungen erweitern nicht nur unser Wissen, sondern auch unsere Perspektive.\nViele Reisende berichten, dass sie nach einer längeren Reise offener und toleranter geworden sind.",
+    "translatedSentences": [
+      "Travel can be one of the most effective forms of learning.",
+      "When people visit new countries, they experience different cultures firsthand.",
+      "These experiences expand not only our knowledge, but also our perspective.",
+      "Many travelers report that after a longer trip they have become more open and tolerant."
+    ],
+    "keywords": [
+      "Reisen",
+      "Kultur",
+      "Perspektive",
+      "Erfahrung",
+      "Bildung"
+    ]
+  },
+  {
+    "id": "B2_003",
+    "title": "Die Philosophie der Zeit",
+    "level": "B2",
+    "category": "philosophy",
+    "text": "Zeit ist eines der größten Rätsel der menschlichen Erfahrung.\nWir messen sie mit Uhren und Kalendern, doch ihr Wesen bleibt schwer zu verstehen.\nEinige Philosophen sehen Zeit als linearen Prozess, andere als subjektive Wahrnehmung.\nUnsere Beziehung zur Zeit beeinflusst, wie wir leben und Entscheidungen treffen.",
+    "translatedSentences": [
+      "Time is one of the greatest mysteries of human experience.",
+      "We measure it with clocks and calendars, but its nature remains difficult to understand.",
+      "Some philosophers see time as a linear process, others as a subjective perception.",
+      "Our relationship to time influences how we live and make decisions."
+    ],
+    "keywords": [
+      "Zeit",
+      "Philosophie",
+      "Erfahrung",
+      "Wahrnehmung",
+      "Entscheidung"
+    ]
+  },
+  {
+    "id": "B2_004",
+    "title": "Die Zukunft der Städte",
+    "level": "B2",
+    "category": "technology",
+    "text": "Moderne Städte stehen vor großen Herausforderungen.\nWachsende Bevölkerungen, Umweltprobleme und Verkehr erfordern neue Lösungen.\nViele Städte investieren deshalb in sogenannte „Smart City“-Technologien.\nDiese nutzen Daten, um Energie, Transport und Infrastruktur effizienter zu gestalten.",
+    "translatedSentences": [
+      "Modern cities face major challenges.",
+      "Growing populations, environmental problems, and traffic require new solutions.",
+      "Many cities are therefore investing in so-called “smart city” technologies.",
+      "These use data to make energy, transport, and infrastructure more efficient."
+    ],
+    "keywords": [
+      "Stadt",
+      "Smart City",
+      "Technologie",
+      "Infrastruktur",
+      "Energie"
+    ]
+  },
+  {
+    "id": "B2_005",
+    "title": "Die Geschichte der Demokratie",
+    "level": "B2",
+    "category": "history",
+    "text": "Die Idee der Demokratie entwickelte sich über viele Jahrhunderte.\nSchon im antiken Griechenland experimentierten Menschen mit Formen der Bürgerbeteiligung.\nDoch moderne Demokratien entstanden erst viel später.\nSie basieren auf Prinzipien wie Freiheit, Gleichheit und Rechtsstaatlichkeit.",
+    "translatedSentences": [
+      "The idea of democracy developed over many centuries.",
+      "Even in ancient Greece, people experimented with forms of citizen participation.",
+      "But modern democracies emerged much later.",
+      "They are based on principles such as freedom, equality, and the rule of law."
+    ],
+    "keywords": [
+      "Demokratie",
+      "Geschichte",
+      "Freiheit",
+      "Gleichheit",
+      "Politik"
+    ]
+  },
+  {
+    "id": "B2_006",
+    "title": "Ernährung und Gesellschaft",
+    "level": "B2",
+    "category": "food",
+    "text": "Unsere Ernährung wird nicht nur von Geschmack bestimmt.\nAuch Kultur, Wirtschaft und Politik spielen eine Rolle.\nIn vielen Ländern verändert sich die Ernährung durch Globalisierung.\nGleichzeitig wächst das Interesse an nachhaltiger und gesunder Ernährung.",
+    "translatedSentences": [
+      "Our diet is not determined only by taste.",
+      "Culture, the economy, and politics also play a role.",
+      "In many countries, diet is changing because of globalization.",
+      "At the same time, interest in sustainable and healthy nutrition is growing."
+    ],
+    "keywords": [
+      "Ernährung",
+      "Kultur",
+      "Globalisierung",
+      "Gesundheit",
+      "Nachhaltigkeit"
+    ]
+  },
+  {
+    "id": "B2_007",
+    "title": "Warum Menschen Geschichten erzählen",
+    "level": "B2",
+    "category": "culture",
+    "text": "Geschichten begleiten die Menschheit seit ihren Anfängen.\nSie helfen uns, Erfahrungen zu teilen und Wissen weiterzugeben.\nDurch Geschichten verstehen wir unsere Vergangenheit und stellen uns mögliche Zukünfte vor.\nVielleicht ist das Erzählen von Geschichten eine der grundlegendsten menschlichen Fähigkeiten.",
+    "translatedSentences": [
+      "Stories have accompanied humanity since its beginnings.",
+      "They help us share experiences and pass on knowledge.",
+      "Through stories, we understand our past and imagine possible futures.",
+      "Perhaps storytelling is one of the most fundamental human abilities."
+    ],
+    "keywords": [
+      "Geschichte",
+      "Erfahrung",
+      "Wissen",
+      "Kultur",
+      "Erzählen"
+    ]
+  },
+  {
+    "id": "B2_008",
+    "title": "Die Bedeutung von Kreativität",
+    "level": "B2",
+    "category": "philosophy",
+    "text": "Kreativität wird oft mit Kunst verbunden, doch sie spielt auch in Wissenschaft und Technologie eine wichtige Rolle.\nNeue Ideen entstehen häufig dort, wo Menschen unterschiedliche Perspektiven kombinieren.\nGesellschaften, die Kreativität fördern, entwickeln oft innovative Lösungen für komplexe Probleme.",
+    "translatedSentences": [
+      "Creativity is often associated with art, but it also plays an important role in science and technology.",
+      "New ideas often arise where people combine different perspectives.",
+      "Societies that encourage creativity often develop innovative solutions to complex problems."
+    ],
+    "keywords": [
+      "Kreativität",
+      "Innovation",
+      "Idee",
+      "Wissenschaft",
+      "Gesellschaft"
+    ]
+  },
+  {
+    "id": "B2_009",
+    "title": "Die Psychologie der Gewohnheiten",
+    "level": "B2",
+    "category": "health",
+    "text": "Gewohnheiten beeinflussen viele Entscheidungen unseres Alltags.\nSie entstehen durch wiederholte Handlungen, die mit bestimmten Situationen verbunden sind.\nPsychologen erklären, dass kleine Veränderungen große Auswirkungen haben können.\nWer seine Gewohnheiten bewusst gestaltet, kann langfristig sein Verhalten verändern.",
+    "translatedSentences": [
+      "Habits influence many decisions in our everyday lives.",
+      "They arise through repeated actions that are linked to certain situations.",
+      "Psychologists explain that small changes can have big effects.",
+      "Anyone who consciously shapes their habits can change their behavior in the long term."
+    ],
+    "keywords": [
+      "Gewohnheit",
+      "Psychologie",
+      "Verhalten",
+      "Alltag",
+      "Veränderung"
+    ]
+  },
+  {
+    "id": "B2_010",
+    "title": "Technologie und Menschlichkeit",
+    "level": "B2",
+    "category": "technology",
+    "text": "Je stärker Technologie unser Leben prägt, desto wichtiger wird die Frage nach unserer Menschlichkeit.\nDigitale Werkzeuge können Kommunikation erleichtern, aber auch Distanz schaffen.\nDie Herausforderung besteht darin, Technologie so zu nutzen, dass sie menschliche Werte unterstützt.",
+    "translatedSentences": [
+      "The more technology shapes our lives, the more important the question of our humanity becomes.",
+      "Digital tools can make communication easier, but they can also create distance.",
+      "The challenge is to use technology in a way that supports human values."
+    ],
+    "keywords": [
+      "Technologie",
+      "Menschlichkeit",
+      "Kommunikation",
+      "Werte",
+      "Digital"
+    ]
+  },
+  {
+    "id": "B2_011",
+    "title": "Die Ethik der künstlichen Intelligenz (Part 2)",
+    "level": "B2",
+    "category": "technology",
+    "text": "Mit der rasanten Entwicklung der künstlichen Intelligenz entstehen neue ethische Fragen.\nAlgorithmen können Entscheidungen treffen, die früher nur Menschen vorbehalten waren.\nDoch wer trägt die Verantwortung, wenn eine Maschine einen Fehler macht?\nViele Experten fordern klare Regeln und Transparenz.\nDie Zukunft der Technologie hängt davon ab, wie verantwortungsvoll wir sie einsetzen.",
+    "translatedSentences": [
+      "With the rapid development of artificial intelligence, new ethical questions are arising.",
+      "Algorithms can make decisions that were once reserved only for humans.",
+      "But who bears the responsibility when a machine makes a mistake?",
+      "Many experts are calling for clear rules and transparency.",
+      "The future of technology depends on how responsibly we use it."
+    ],
+    "keywords": [
+      "Ethik",
+      "künstliche Intelligenz",
+      "Verantwortung",
+      "Algorithmus",
+      "Technologie"
+    ]
+  },
+  {
+    "id": "B2_012",
+    "title": "Reisen als Bildung (Part 2)",
+    "level": "B2",
+    "category": "travel",
+    "text": "Reisen kann eine der effektivsten Formen des Lernens sein.\nWenn Menschen neue Länder besuchen, erleben sie unterschiedliche Kulturen aus erster Hand.\nDiese Erfahrungen erweitern nicht nur unser Wissen, sondern auch unsere Perspektive.\nViele Reisende berichten, dass sie nach einer längeren Reise offener und toleranter geworden sind.",
+    "translatedSentences": [
+      "Travel can be one of the most effective forms of learning.",
+      "When people visit new countries, they experience different cultures firsthand.",
+      "These experiences expand not only our knowledge, but also our perspective.",
+      "Many travelers report that after a longer trip they have become more open and tolerant."
+    ],
+    "keywords": [
+      "Reisen",
+      "Kultur",
+      "Perspektive",
+      "Erfahrung",
+      "Bildung"
+    ]
+  },
+  {
+    "id": "B2_013",
+    "title": "Die Philosophie der Zeit (Part 2)",
+    "level": "B2",
+    "category": "philosophy",
+    "text": "Zeit ist eines der größten Rätsel der menschlichen Erfahrung.\nWir messen sie mit Uhren und Kalendern, doch ihr Wesen bleibt schwer zu verstehen.\nEinige Philosophen sehen Zeit als linearen Prozess, andere als subjektive Wahrnehmung.\nUnsere Beziehung zur Zeit beeinflusst, wie wir leben und Entscheidungen treffen.",
+    "translatedSentences": [
+      "Time is one of the greatest mysteries of human experience.",
+      "We measure it with clocks and calendars, but its nature remains difficult to understand.",
+      "Some philosophers see time as a linear process, others as a subjective perception.",
+      "Our relationship to time influences how we live and make decisions."
+    ],
+    "keywords": [
+      "Zeit",
+      "Philosophie",
+      "Erfahrung",
+      "Wahrnehmung",
+      "Entscheidung"
+    ]
+  },
+  {
+    "id": "B2_014",
+    "title": "Die Zukunft der Städte (Part 2)",
+    "level": "B2",
+    "category": "technology",
+    "text": "Moderne Städte stehen vor großen Herausforderungen.\nWachsende Bevölkerungen, Umweltprobleme und Verkehr erfordern neue Lösungen.\nViele Städte investieren deshalb in sogenannte „Smart City“-Technologien.\nDiese nutzen Daten, um Energie, Transport und Infrastruktur effizienter zu gestalten.",
+    "translatedSentences": [
+      "Modern cities face major challenges.",
+      "Growing populations, environmental problems, and traffic require new solutions.",
+      "Many cities are therefore investing in so-called “smart city” technologies.",
+      "These use data to make energy, transport, and infrastructure more efficient."
+    ],
+    "keywords": [
+      "Stadt",
+      "Smart City",
+      "Technologie",
+      "Infrastruktur",
+      "Energie"
+    ]
+  },
+  {
+    "id": "B2_015",
+    "title": "Die Geschichte der Demokratie (Part 2)",
+    "level": "B2",
+    "category": "history",
+    "text": "Die Idee der Demokratie entwickelte sich über viele Jahrhunderte.\nSchon im antiken Griechenland experimentierten Menschen mit Formen der Bürgerbeteiligung.\nDoch moderne Demokratien entstanden erst viel später.\nSie basieren auf Prinzipien wie Freiheit, Gleichheit und Rechtsstaatlichkeit.",
+    "translatedSentences": [
+      "The idea of democracy developed over many centuries.",
+      "Even in ancient Greece, people experimented with forms of citizen participation.",
+      "But modern democracies emerged much later.",
+      "They are based on principles such as freedom, equality, and the rule of law."
+    ],
+    "keywords": [
+      "Demokratie",
+      "Geschichte",
+      "Freiheit",
+      "Gleichheit",
+      "Politik"
+    ]
+  },
+  {
+    "id": "B2_016",
+    "title": "Ernährung und Gesellschaft (Part 2)",
+    "level": "B2",
+    "category": "food",
+    "text": "Unsere Ernährung wird nicht nur von Geschmack bestimmt.\nAuch Kultur, Wirtschaft und Politik spielen eine Rolle.\nIn vielen Ländern verändert sich die Ernährung durch Globalisierung.\nGleichzeitig wächst das Interesse an nachhaltiger und gesunder Ernährung.",
+    "translatedSentences": [
+      "Our diet is not determined only by taste.",
+      "Culture, the economy, and politics also play a role.",
+      "In many countries, diet is changing because of globalization.",
+      "At the same time, interest in sustainable and healthy nutrition is growing."
+    ],
+    "keywords": [
+      "Ernährung",
+      "Kultur",
+      "Globalisierung",
+      "Gesundheit",
+      "Nachhaltigkeit"
+    ]
+  },
+  {
+    "id": "B2_017",
+    "title": "Warum Menschen Geschichten erzählen (Part 2)",
+    "level": "B2",
+    "category": "culture",
+    "text": "Geschichten begleiten die Menschheit seit ihren Anfängen.\nSie helfen uns, Erfahrungen zu teilen und Wissen weiterzugeben.\nDurch Geschichten verstehen wir unsere Vergangenheit und stellen uns mögliche Zukünfte vor.\nVielleicht ist das Erzählen von Geschichten eine der grundlegendsten menschlichen Fähigkeiten.",
+    "translatedSentences": [
+      "Stories have accompanied humanity since its beginnings.",
+      "They help us share experiences and pass on knowledge.",
+      "Through stories, we understand our past and imagine possible futures.",
+      "Perhaps storytelling is one of the most fundamental human abilities."
+    ],
+    "keywords": [
+      "Geschichte",
+      "Erfahrung",
+      "Wissen",
+      "Kultur",
+      "Erzählen"
+    ]
+  },
+  {
+    "id": "B2_018",
+    "title": "Die Bedeutung von Kreativität (Part 2)",
+    "level": "B2",
+    "category": "philosophy",
+    "text": "Kreativität wird oft mit Kunst verbunden, doch sie spielt auch in Wissenschaft und Technologie eine wichtige Rolle.\nNeue Ideen entstehen häufig dort, wo Menschen unterschiedliche Perspektiven kombinieren.\nGesellschaften, die Kreativität fördern, entwickeln oft innovative Lösungen für komplexe Probleme.",
+    "translatedSentences": [
+      "Creativity is often associated with art, but it also plays an important role in science and technology.",
+      "New ideas often arise where people combine different perspectives.",
+      "Societies that encourage creativity often develop innovative solutions to complex problems."
+    ],
+    "keywords": [
+      "Kreativität",
+      "Innovation",
+      "Idee",
+      "Wissenschaft",
+      "Gesellschaft"
+    ]
+  },
+  {
+    "id": "B2_019",
+    "title": "Die Psychologie der Gewohnheiten (Part 2)",
+    "level": "B2",
+    "category": "health",
+    "text": "Gewohnheiten beeinflussen viele Entscheidungen unseres Alltags.\nSie entstehen durch wiederholte Handlungen, die mit bestimmten Situationen verbunden sind.\nPsychologen erklären, dass kleine Veränderungen große Auswirkungen haben können.\nWer seine Gewohnheiten bewusst gestaltet, kann langfristig sein Verhalten verändern.",
+    "translatedSentences": [
+      "Habits influence many decisions in our everyday lives.",
+      "They arise through repeated actions that are linked to certain situations.",
+      "Psychologists explain that small changes can have big effects.",
+      "Anyone who consciously shapes their habits can change their behavior in the long term."
+    ],
+    "keywords": [
+      "Gewohnheit",
+      "Psychologie",
+      "Verhalten",
+      "Alltag",
+      "Veränderung"
+    ]
+  },
+  {
+    "id": "B2_020",
+    "title": "Technologie und Menschlichkeit (Part 2)",
+    "level": "B2",
+    "category": "technology",
+    "text": "Je stärker Technologie unser Leben prägt, desto wichtiger wird die Frage nach unserer Menschlichkeit.\nDigitale Werkzeuge können Kommunikation erleichtern, aber auch Distanz schaffen.\nDie Herausforderung besteht darin, Technologie so zu nutzen, dass sie menschliche Werte unterstützt.",
+    "translatedSentences": [
+      "The more technology shapes our lives, the more important the question of our humanity becomes.",
+      "Digital tools can make communication easier, but they can also create distance.",
+      "The challenge is to use technology in a way that supports human values."
+    ],
+    "keywords": [
+      "Technologie",
+      "Menschlichkeit",
+      "Kommunikation",
+      "Werte",
+      "Digital"
+    ]
+  }
+]
